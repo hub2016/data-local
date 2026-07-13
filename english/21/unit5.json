@@ -1,0 +1,102 @@
+{
+  "title": "Unit 5：Toys at Home",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U511",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "I have a teddy bear.",
+          "cn": "我有一只泰迪熊。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Me, too.",
+          "cn": "我也有。"
+        },
+        {
+          "en": "doll, doll",
+          "cn": "洋娃娃，洋娃娃"
+        },
+        {
+          "en": "teddy bear, teddy bear",
+          "cn": "泰迪熊，泰迪熊"
+        },
+        {
+          "en": "robot, robot",
+          "cn": "机器人，机器人"
+        },
+        {
+          "en": "jigsaw puzzle, jigsaw puzzle",
+          "cn": "七巧板，七巧板"
+        }
+      ]
+    },
+    {
+      "title": "Look & Sing",
+      "mp3": "U512",
+      "list": [
+        {
+          "en": "Teddy Bear",
+          "cn": "泰迪熊"
+        },
+        {
+          "en": "Teddy bear, teddy bear, turn around.",
+          "cn": "泰迪熊，泰迪熊，转身。"
+        },
+        {
+          "en": "Teddy bear, teddy bear, touch the ground.",
+          "cn": "泰迪熊，泰迪熊，触摸地面。"
+        },
+        {
+          "en": "Teddy bear, teddy bear, tie your shoes.",
+          "cn": "泰迪熊，泰迪熊，系鞋带。"
+        },
+        {
+          "en": "Teddy bear, teddy bear, that will do.",
+          "cn": "泰迪熊，泰迪熊，那就行了。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U521",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "Look! I have a big robot.",
+          "cn": "看，我有一个大机器人。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Cool! I like it!",
+          "cn": "酷！我喜欢！"
+        },
+        {
+          "name": "Lee：",
+          "en": "Let's play together.",
+          "cn": "让我们一起玩吧。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Great!",
+          "cn": "太棒了!"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "May, I have a new doll.",
+          "cn": "May，我有一个洋娃娃。"
+        },
+        {
+          "name": "May：",
+          "en": "Wow! It's pretty!",
+          "cn": "哇！真漂亮！"
+        }
+      ]
+    }
+  ]
+}

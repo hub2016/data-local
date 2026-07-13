@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Here is our menu.",
+      "cn": "这是我们的菜单。"
+    },
+    {
+      "en": "Are you ready to order?",
+      "cn": "您准备点菜了吗？"
+    }
+  ]
+}

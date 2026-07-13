@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Walk across the road.",
+      "cn": "穿过马路。"
+    },
+    {
+      "en": "Turn right at the traffic lights.",
+      "cn": "在红绿灯处向右拐。"
+    }
+  ]
+}

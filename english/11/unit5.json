@@ -1,0 +1,94 @@
+{
+  "title": "Unit 5：Places at School",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U511",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "This is my school.",
+          "cn": "这是我的学校。"
+        },
+        {
+          "name": "Lee：",
+          "en": "It's nice.",
+          "cn": "真好。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "This is a classroom.",
+          "cn": "这是一个教室。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "That is an office.",
+          "cn": "那是一间办公室。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Cool!",
+          "cn": "酷！"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U521",
+      "list": [
+        {
+          "en": "classroom, classroom",
+          "cn": "教室，教室"
+        },
+        {
+          "en": "office, office",
+          "cn": "办公室，办公室"
+        },
+        {
+          "en": "boys' room, boys' room",
+          "cn": "男厕所，男厕所"
+        },
+        {
+          "en": "girls' room, girls' room",
+          "cn": "女厕所，女厕所"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "This is a classroom.",
+          "cn": "这是一个教室。"
+        },
+        {
+          "name": "Lee：",
+          "en": "That is an office.",
+          "cn": "那是一间办公室。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Number",
+      "mp3": "U522",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "Look! That is the boys' room.",
+          "cn": "看！那是男厕所。"
+        },
+        {
+          "en": "Where is the girls' room?",
+          "cn": "女厕所在哪？"
+        },
+        {
+          "en": "This is a classroom.",
+          "cn": "这是一个教室。"
+        },
+        {
+          "en": "That is an office.",
+          "cn": "那是一间办公室。"
+        }
+      ]
+    }
+  ]
+}

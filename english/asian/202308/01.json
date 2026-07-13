@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "My car's here. Can I give you a lift?",
+      "cn": "我的车就在那儿。我载你一程？"
+    },
+    {
+      "en": "Thanks a lot.",
+      "cn": "谢谢。"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "How was your day?",
+      "cn": "今天过得怎么样？"
+    },
+    {
+      "en": "Pretty much the usual.",
+      "cn": "跟平常差不多。"
+    }
+  ]
+}

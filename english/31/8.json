@@ -1,0 +1,151 @@
+{
+  "title": "Recycle 2",
+  "sound": true,
+  "path": "r2",
+  "lessons": [
+    {
+      "title": "Read aloud",
+      "mp3": "1",
+      "list": [
+        {
+          "name": "Bobby's Mum：",
+          "en": "Baby, have some water.",
+          "mp3": "re/1",
+          "cn": ""
+        },
+        {
+          "name": "Bobby：",
+          "en": "No, thanks. Can I have some bread, please?",
+          "mp3": "re/2",
+          "cn": ""
+        },
+        {
+          "name": "Bobby's Mum：",
+          "en": "Ok, wait a minute.",
+          "mp3": "re/3",
+          "cn": ""
+        },
+        {
+          "name": "Tom：",
+          "en": "Morning! What's your name?",
+          "mp3": "re/4",
+          "cn": ""
+        },
+        {
+          "name": "Bobby：",
+          "en": "Bobby.",
+          "mp3": "re/5",
+          "cn": ""
+        },
+        {
+          "name": "Tom：",
+          "en": "I'm Tom. You are a big boy! How old are you?",
+          "mp3": "re/6",
+          "cn": ""
+        },
+        {
+          "name": "Bobby：",
+          "en": "I'm 2.",
+          "mp3": "re/7",
+          "cn": ""
+        },
+        {
+          "name": "Tom：",
+          "en": "Look at your head. I like it!",
+          "mp3": "re/8",
+          "cn": ""
+        },
+        {
+          "name": "Bobby：",
+          "en": "Thank you.",
+          "mp3": "re/9",
+          "cn": ""
+        },
+        {
+          "name": "Tom：",
+          "en": "Look at your face. I LIKE it!",
+          "mp3": "re/10",
+          "cn": ""
+        },
+        {
+          "name": "Bobby：",
+          "en": "Thanks.",
+          "mp3": "re/11",
+          "cn": ""
+        },
+        {
+          "name": "Tom：",
+          "en": "Look at your body. I LIKE it!",
+          "mp3": "re/12",
+          "cn": ""
+        },
+        {
+          "name": "Bobby's Mum：",
+          "en": "Hey cat! Go away!",
+          "mp3": "re/13",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Listen and tick",
+      "mp3": "2",
+      "list": [
+        {
+          "name": "",
+          "en": "What's that? It's a cat.",
+          "mp3": "ti/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "How old are you? I five years old.",
+          "mp3": "ti/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Have some eggs. No, thank you. I'd like some bread.",
+          "mp3": "ti/3",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Let's make a puppet. Great, this is the leg.",
+          "mp3": "ti/4",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I have a book. Me too!",
+          "mp3": "ti/5",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Colour it brown. OK!",
+          "mp3": "ti/6",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Sing a song",
+      "mp3": "3",
+      "list": [
+        {
+          "name": "",
+          "en": "A-B-C-D-E-F-G, sing a song of A-B-C.Come on, boys, and come on girls. Sing a song of A-B-C. A for apple, B for book, C for cat and D for dog; E for egg and F for foot; G for girl and H for hand; I for ice cream, J for jump; K for kite and L for leg; M for milk and N for nose; O for orange and P for pen; Q for queen and R for rice; S for Sarah and T for ten;U for umbrella, V for vet, W for water, X for fox; Y for yellow, Z for zoo. It's so simple all can do!Come on boys and come on girls. Sing a song of A-B-C.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "A-B-C-D-E-F-G, sing a song of A-B-C.Come on, boys, and come on girls. Sing a song of A-B-C. A for apple, B for book, C for cat and D for dog; E for egg and F for foot; G for girl and H for hand; I for ice cream, J for jump; K for kite and L for leg; M for milk and N for nose; O for orange and P for pen; Q for queen and R for rice; S for Sarah and T for ten;U for umbrella, V for vet, W for water, X for fox; Y for yellow, Z for zoo. It's so simple all can do!Come on boys and come on girls. Sing a song of A-B-C.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    }
+  ]
+}

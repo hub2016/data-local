@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "The match will begin at 7:30.",
+      "cn": "比赛在7点30分开始。"
+    },
+    {
+      "en": "The match is held in the Hangzhou Olympic Sports Center.",
+      "cn": "比赛在杭州奥林匹克体育中心举行。"
+    }
+  ]
+}

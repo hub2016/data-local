@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Hello, may I speak to Qian Tang?",
+      "cn": "你好，请问钱唐在吗？"
+    },
+    {
+      "en": "Speaking.",
+      "cn": "我就是。"
+    }
+  ]
+}

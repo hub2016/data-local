@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "I'm going to sleep.",
+      "cn": "我准备睡了。"
+    },
+    {
+      "en": "I have got to be home by 9pm.",
+      "cn": "我晚上九点前得回家。"
+    }
+  ]
+}

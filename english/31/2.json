@@ -1,0 +1,410 @@
+{
+  "title": "Unit Two Colours",
+  "sound": true,
+  "path": "u2",
+  "lessons": [
+    {
+      "title": "Colours",
+      "mp3": "u2",
+      "list": [
+        {
+          "name": "Zoom：",
+          "en": "Let's paint!",
+          "mp3": "1",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "OK!",
+          "mp3": "2",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Good afternoon, Binbin.",
+          "mp3": "3",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Good afternoon.",
+          "mp3": "4",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Dad, this is Mr Jones.",
+          "mp3": "5",
+          "cn": ""
+        },
+        {
+          "name": "Sarah's Dad：",
+          "en": "Nice to meet you.",
+          "mp3": "6",
+          "cn": ""
+        },
+        {
+          "name": "Mr Jones：",
+          "en": "Nice to meet you, too.",
+          "mp3": "7",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "a/1",
+      "list": [
+        {
+          "name": "Miss White：",
+          "en": "Mr Jones, this is Miss Green.",
+          "mp3": "a/tk/1",
+          "cn": ""
+        },
+        {
+          "name": "Mr Jones：",
+          "en": "Good morning, Miss Green.",
+          "mp3": "a/tk/2",
+          "cn": ""
+        },
+        {
+          "name": "Miss Green：",
+          "en": "Good morning.",
+          "mp3": "a/tk/3",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "a/2",
+      "list": [
+        {
+          "name": "Sarah：",
+          "en": "I see green.",
+          "mp3": "a/tk/4",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "I see red.",
+          "mp3": "a/tk/5",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "red, red",
+          "mp3": "a/tk/6",
+          "cn": "红色"
+        },
+        {
+          "name": "",
+          "en": "yellow, yellow",
+          "mp3": "a/tk/7",
+          "cn": "黄色"
+        },
+        {
+          "name": "",
+          "en": "green, green",
+          "mp3": "a/tk/8",
+          "cn": "绿色"
+        },
+        {
+          "name": "",
+          "en": "blue, blue",
+          "mp3": "a/tk/9",
+          "cn": "蓝色"
+        }
+      ]
+    },
+    {
+      "title": "Let's do",
+      "mp3": "a/3",
+      "list": [
+        {
+          "name": "Wu Binbin：",
+          "en": "Show me green.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Show me green.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "Show me red.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "Show me red.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Show me blue.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Show me blue.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Show me yellow.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Show me yellow.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Letters and sounds",
+      "mp3": "",
+      "list": [
+        {
+          "name": "",
+          "en": "d-dog, d-dog, c-cat, c-cat, b-brown, b-brown, c-crayon, c-crayon, d-duck, d-duck",
+          "mp3": "a/4",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Aa Bb Cc Dd",
+          "mp3": "a/5",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz",
+          "mp3": "a/6",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "b/1",
+      "list": [
+        {
+          "name": "Mike：",
+          "en": "Hi, Mum. This is Wu Binbin.",
+          "mp3": "b/dh/1",
+          "cn": ""
+        },
+        {
+          "name": "Mike's Mum：",
+          "en": "Good afternoon, Wu Binbin.",
+          "mp3": "b/dh/2",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Good afternoon, Nice to meet you, too.",
+          "mp3": "b/dh/3",
+          "cn": ""
+        },
+        {
+          "name": "Mike's Mum：",
+          "en": "Nice to meet you, too.",
+          "mp3": "b/dh/4",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "b/2",
+      "list": [
+        {
+          "name": "Wu Binbin：",
+          "en": "Colour it brown!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "OK!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's do",
+      "mp3": "b/5",
+      "list": [
+        {
+          "name": "Wu Binbin：",
+          "en": "Black, black. Stand up.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Orange, orange. Sit down.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "White, white. Touch the ground.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Brown, brown. Turn around.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Black, black. Stand up.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Orange, orange. Sit down.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "White, white. Touch the ground.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Brown, brown. Turn around.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's check",
+      "mp3": "b/3",
+      "list": [
+        {
+          "name": "",
+          "en": "Listen and tick or cross.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Colour is green. OK! Colour is green. OK!",
+          "mp3": "b/ch/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Good afternoon, Mr White. Good afternoon, Mr Jones. Good afternoon, Mr White. Good afternoon, Mr Jones.",
+          "mp3": "b/ch/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Hi, Dad, this is Wu Binbin. Hello, Binbin, Nice to meet you. Nice to meet you, too. Hi, Dad, this is Wu Binbin. Hello, Binbin, Nice to meet you. Nice to meet you, too.",
+          "mp3": "b/ch/3",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I see blue white and red. I see blue white and red.",
+          "mp3": "b/ch/4",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's sing",
+      "subtit": "Colour song",
+      "mp3": "b/4",
+      "list": [
+        {
+          "name": "",
+          "en": "Red and yellow and pink and green, Purple and orange and blue. I can sing a rainbow, sing a rainbow, Sing a rainbow now.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Red and yellow and pink and green, Purple and orange and blue. I can sing a rainbow, sing a rainbow, Sing a rainbow now.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Story time",
+      "mp3": "c/1",
+      "list": [
+        {
+          "name": "Zip：",
+          "en": "Good morning, Zoom!",
+          "mp3": "c/t1",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Good morning, Zip!",
+          "mp3": "c/t2",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "How are you?",
+          "mp3": "c/t3",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "Fine, thank you.",
+          "mp3": "c/t4",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Wow! Flowers.",
+          "mp3": "c/t5",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "A red flower. A yellow flower. A blue flower...",
+          "mp3": "c/t6",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Zip, look!",
+          "mp3": "c/t7",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "Zoom, look!",
+          "mp3": "c/t8",
+          "cn": ""
+        }
+      ]
+    }
+  ]
+}

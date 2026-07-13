@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Which channel is this TV series on?",
+      "cn": "这部电视连续剧在哪个频道播？"
+    },
+    {
+      "en": "Let's change to the sports channel.",
+      "cn": "我们换到体育频道吧。"
+    }
+  ]
+}

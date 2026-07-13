@@ -1,0 +1,133 @@
+{
+  "title": "Unit 1：Colors We See",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U111",
+      "list": [
+        {
+          "name": "May：",
+          "en": "Hello, Hanghang!",
+          "cn": "你好，杭杭！"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Hi, May!",
+          "cn": "嗨，梅！"
+        },
+        {
+          "name": "May：",
+          "en": "Let's paint!",
+          "cn": "让我们来涂颜色吧！"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "OK! It's blue.",
+          "cn": "好的！这是蓝色。"
+        },
+        {
+          "en": "blue, blue",
+          "cn": "蓝色，蓝色"
+        },
+        {
+          "en": "green, green",
+          "cn": "绿色，绿色"
+        },
+        {
+          "en": "yellow, yellow",
+          "cn": "黄色，黄色"
+        },
+        {
+          "en": "red, red",
+          "cn": "红色，红色"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U112",
+      "list": [
+        {
+          "en": "Red, red, apples are red.",
+          "cn": "红色，红色，苹果是红色的。"
+        },
+        {
+          "en": "Blue, blue, seas are blue.",
+          "cn": "蓝色，蓝色，海洋是蓝色的。"
+        },
+        {
+          "en": "Yellow, yellow, lemons are yellow.",
+          "cn": "黄色，黄色，柠檬是黄色的。"
+        },
+        {
+          "en": "Green, green, trees are green.",
+          "cn": "绿色，绿色，树是绿色的。"
+        },
+        {
+          "en": "Red, blue, yellow and green.",
+          "cn": "红色，蓝色，黄色和绿色。"
+        },
+        {
+          "en": "Colors we see!",
+          "cn": "我们看到的颜色！"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U121",
+      "list": [
+        {
+          "name": "May：",
+          "en": "What color?",
+          "cn": "什么颜色？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "It's red.",
+          "cn": "红色。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "What color?",
+          "cn": "什么颜色？"
+        },
+        {
+          "name": "May：",
+          "en": "It's green.",
+          "cn": "绿色。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U122",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "Look! It's a chameleon.",
+          "cn": "看，一只变色龙。"
+        },
+        {
+          "en": "What color? It's yellow.",
+          "cn": "什么颜色？它是黄色的。"
+        },
+        {
+          "en": "Oh! It's green.",
+          "cn": "噢！它是绿色的。"
+        },
+        {
+          "en": "Oops! It's red.",
+          "cn": "哎呀！它是红色的。"
+        },
+        {
+          "en": "Wow! It's blue.",
+          "cn": "哇！它是蓝色的。"
+        }
+      ]
+    }
+  ]
+}

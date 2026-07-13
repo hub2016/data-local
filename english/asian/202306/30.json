@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "How do you want your eggs?",
+      "cn": "您喜欢鸡蛋怎么做？"
+    },
+    {
+      "en": "Fried, please.",
+      "cn": "煎的。"
+    }
+  ]
+}

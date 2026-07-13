@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "How many tickets do you want?",
+      "cn": "你要几张票？"
+    },
+    {
+      "en": "Three tickets please.",
+      "cn": "三张谢谢。"
+    }
+  ]
+}

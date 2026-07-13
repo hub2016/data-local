@@ -1,0 +1,17 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "I'm afraid I must be going now.",
+      "cn": "恐怕我得走了。"
+    },
+    {
+      "en": "I hope we'll meet again sometime.",
+      "cn": "希望将来还能再见面。"
+    },
+    {
+      "en": "Sure we will. Bye-bye.",
+      "cn": "肯定会的。再见。"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Unit 4：Family Members",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U411",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "This is my mum. This is May.",
+          "cn": "这是我的妈妈。这是梅。"
+        },
+        {
+          "name": "May：",
+          "en": "Hello.",
+          "cn": "你好。"
+        },
+        {
+          "name": "Mum：",
+          "en": "Nice to meet you, May.",
+          "cn": "很高兴见到你，梅。"
+        },
+        {
+          "name": "Lee：",
+          "en": "This is my dad.",
+          "cn": "这是我的爸爸。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Hi.",
+          "cn": "嗨。"
+        },
+        {
+          "name": "Dad：",
+          "en": "Hello.",
+          "cn": "你好。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Sing",
+      "mp3": "U412",
+      "list": [
+        {
+          "en": "I Love My Family",
+          "cn": "我爱我家"
+        },
+        {
+          "en": "Grandma and me. Grandpa and me.",
+          "cn": "奶奶和我。爷爷和我。"
+        },
+        {
+          "en": "Mum and me. Dad and me.",
+          "cn": "妈妈和我。爸爸和我。"
+        },
+        {
+          "en": "My family.",
+          "cn": "这是我的家。"
+        },
+        {
+          "en": "I love my family.",
+          "cn": "我爱我的家。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U421",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "Hi! I'm Hanghang. This is my dad. This is my grandpa.",
+          "cn": "嗨！我是杭杭。这是我的爸爸。这是我的爷爷。"
+        },
+        {
+          "en": "Look! That is my mum. That is my grandma.",
+          "cn": "看！那是我的妈妈。那是我的奶奶。"
+        },
+        {
+          "en": "dad, dad",
+          "cn": "爸爸，爸爸"
+        },
+        {
+          "en": "grandpa, grandpa",
+          "cn": "爷爷，爷爷"
+        },
+        {
+          "en": "mum, mum",
+          "cn": "妈妈，妈妈"
+        },
+        {
+          "en": "grandma, grandma",
+          "cn": "奶奶，奶奶"
+        }
+      ]
+    },
+    {
+      "title": "Look & Draw",
+      "mp3": "U422",
+      "list": [
+        {
+          "en": "This is my grandpa.",
+          "cn": "这是我的爷爷。"
+        },
+        {
+          "en": "This is my mum.",
+          "cn": "这是我的妈妈。"
+        },
+        {
+          "en": "This is my dad.",
+          "cn": "这是我的爸爸。"
+        },
+        {
+          "en": "This is my grandma.",
+          "cn": "这是我的奶奶。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Act",
+      "mp3": "U423",
+      "list": [
+        {
+          "en": "The Panda Family",
+          "cn": "熊猫一家"
+        },
+        {
+          "en": "Hi. I'm Panpan.",
+          "cn": "嗨。我是盼盼。"
+        },
+        {
+          "en": "This is my father. And this is my mother.",
+          "cn": "这是我的爸爸。这是我的妈妈。"
+        },
+        {
+          "en": "Look! My grandfather and grandmother.",
+          "cn": "看！我的爷爷和奶奶。"
+        },
+        {
+          "en": "I love my family!",
+          "cn": "我爱我的家人们！"
+        }
+      ]
+    }
+  ]
+}

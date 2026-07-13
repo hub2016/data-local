@@ -1,0 +1,180 @@
+{
+  "title": "Unit 2：Numbers in Life",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U211",
+      "list": [
+        {
+          "name": "Mum：",
+          "en": "Hanghang, wake up.",
+          "cn": "杭杭，起床了。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Mum, What time is it?",
+          "cn": "妈妈，几点了？"
+        },
+        {
+          "name": "Mum：",
+          "en": "It's 7 o'clock.",
+          "cn": "七点了。"
+        },
+        {
+          "en": "7:00 a.m, 7:00 a.m",
+          "cn": "上午七点，上午七点"
+        },
+        {
+          "en": "10:00 a.m, 10:00 a.m",
+          "cn": "上午十点，上午十点"
+        },
+        {
+          "en": "3:00 p.m, 3:00 p.m",
+          "cn": "下午三点，下午三点"
+        },
+        {
+          "en": "8:00 p.m, 8:00 p.m",
+          "cn": "晚上八点，晚上八点"
+        }
+      ]
+    },
+    {
+      "title": "Look & Listen",
+      "mp3": "U212",
+      "list": [
+        {
+          "en": "It's 9:00 a.m. It's time for sports.",
+          "cn": "现在是上午九点。该运动了。"
+        },
+        {
+          "en": "It's 11:00 a.m. It's time for lunch.",
+          "cn": "现在是上午十一点。该吃午饭了。"
+        },
+        {
+          "en": "It's 3:00 p.m. It's time for home.",
+          "cn": "现在是下午三点。该回家了。"
+        },
+        {
+          "en": "It's 7:00 p.m. It's time for fun.",
+          "cn": "现在是晚上七点。是时候玩了。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U213",
+      "list": [
+        {
+          "en": "What time is it?",
+          "cn": "现在几点了？"
+        },
+        {
+          "en": "Tick tock, tick tock.",
+          "cn": "滴答，滴答。"
+        },
+        {
+          "en": "1 o'clock, 2 o'clock, 3 o'clock,",
+          "cn": "一点钟，两点钟，三点钟，"
+        },
+        {
+          "en": "4 o'clock, 5 o'clock, 6 o'clock,",
+          "cn": "四点钟，五点钟，六点钟，"
+        },
+        {
+          "en": "7 o'clock, 8 o'clock, 9 o'clock,",
+          "cn": "七点钟，八点钟，九点钟，"
+        },
+        {
+          "en": "Time for books.",
+          "cn": "该看书了。"
+        },
+        {
+          "en": "Tick tock, tick tock.",
+          "cn": "滴答，滴答。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U221",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "Look! I have a new watch.",
+          "cn": "看！我的新手表。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Cool! What time is it?",
+          "cn": "酷！现在几点了？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "It's 8:30 now.",
+          "cn": "现在八点半了。"
+        },
+        {
+          "en": "9:30 a.m, 9:30 a.m",
+          "cn": "上午九点半，上午九点半"
+        },
+        {
+          "en": "11:30 a.m, 11:30 a.m",
+          "cn": "上午十一点半，上午十一点半"
+        },
+        {
+          "en": "2:30 p.m, 2:30 p.m",
+          "cn": "下午两点半，下午两点半"
+        },
+        {
+          "en": "5:30 p.m, 5:30 p.m",
+          "cn": "下午五点半，下午五点半"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U222",
+      "list": [
+        {
+          "en": "It's 9:05.",
+          "cn": "现在是九点零五。"
+        },
+        {
+          "en": "I'm glad.",
+          "cn": "我很高兴。"
+        },
+        {
+          "en": "It's time for sports.",
+          "cn": "是时候运动了。"
+        },
+        {
+          "en": "It's 11:20.",
+          "cn": "现在是十一点二十。"
+        },
+        {
+          "en": "I'm hungry.",
+          "cn": "我饿了。"
+        },
+        {
+          "en": "It's time for lunch.",
+          "cn": "该吃午饭了。"
+        },
+        {
+          "en": "It's 8:35.",
+          "cn": "现在是八点三十五。"
+        },
+        {
+          "en": "I'm sleepy.",
+          "cn": "我困了。"
+        },
+        {
+          "en": "It's time for bed.",
+          "cn": "该睡觉了。"
+        }
+      ]
+    }
+  ]
+}

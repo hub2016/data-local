@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Can you look after my bag and clothes for me?",
+      "cn": "你能帮我照看一下我的书包和衣服吗？"
+    },
+    {
+      "en": "Please open your baggage.",
+      "cn": "请把你行李打开。"
+    }
+  ]
+}

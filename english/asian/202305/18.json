@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "What is the score?",
+      "cn": "现在比分几比几了？"
+    },
+    {
+      "en": "Who are you cheering for?",
+      "cn": "你支持哪个队伍？"
+    }
+  ]
+}

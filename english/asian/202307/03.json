@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "I'm sorry. The restaurant is full now.",
+      "cn": "很抱歉，餐厅已经满座了。"
+    },
+    {
+      "en": "You have to wait for about half an hour.",
+      "cn": "大约要等30分钟才会有空桌。"
+    }
+  ]
+}

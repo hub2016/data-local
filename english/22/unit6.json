@@ -1,0 +1,162 @@
+{
+  "title": "Unit 6：Sports and Health",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U611",
+      "list": [
+        {
+          "name": "PE teacher：",
+          "en": "Hi, children. Time for sports.",
+          "cn": "嗨，孩子们。运动时间到了。"
+        },
+        {
+          "en": "Can you play basketball, Lee?",
+          "cn": "李，你会打篮球吗？"
+        },
+        {
+          "name": "Lee：",
+          "en": "Yes, I can.",
+          "cn": "是的，我会。"
+        },
+        {
+          "name": "PE teacher：",
+          "en": "Can you play basketball, Zhouzhou?",
+          "cn": "州州，你会打篮球吗？"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "No, I can't. But I can try.",
+          "cn": "不，我不会。但我可以试试。"
+        },
+        {
+          "name": "PE teacher：",
+          "en": "Great!",
+          "cn": "太棒了！"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U612",
+      "list": [
+        {
+          "name": "Narrator：",
+          "en": "Monkey met a frog.",
+          "cn": "猴子遇到了一只青蛙。"
+        },
+        {
+          "name": "Frog：",
+          "en": "Can you jump?",
+          "cn": "你会跳吗？"
+        },
+        {
+          "name": "Monkey：",
+          "en": "Yes, I can.",
+          "cn": "是的，我会。"
+        },
+        {
+          "name": "Narrator：",
+          "en": "Monkey met a fish.",
+          "cn": "猴子遇到了一条鱼。"
+        },
+        {
+          "name": "Frog：",
+          "en": "Can you swim?",
+          "cn": "你会游泳吗？"
+        },
+        {
+          "name": "Fish：",
+          "en": "Yes, I can.",
+          "cn": "是的，我会。"
+        },
+        {
+          "name": "Narrator：",
+          "en": "Monkey met a rabbit.",
+          "cn": "猴子遇到了一只兔子。"
+        },
+        {
+          "name": "Frog：",
+          "en": "Can you skip?",
+          "cn": "你会跳吗？"
+        },
+        {
+          "name": "Rabbit：",
+          "en": "No, I can't. But I can play basketball.",
+          "cn": "不，我不会。但我会打篮球。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U621",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "I can play tennis. Can you play it, May?",
+          "cn": "我会打网球。梅，你会吗？"
+        },
+        {
+          "name": "May：",
+          "en": "No, I can't. But I can play ping-pong.",
+          "cn": "不，我不会。但我会打乒乓球。"
+        },
+        {
+          "en": "play tennis, play tennis",
+          "cn": "打网球，打网球"
+        },
+        {
+          "en": "play basketball, play basketball",
+          "cn": "打篮球，打篮球"
+        },
+        {
+          "en": "play football, play football",
+          "cn": "踢足球，踢足球"
+        },
+        {
+          "en": "play ping-pong, play ping-pong",
+          "cn": "打乒乓球，打乒乓球"
+        }
+      ]
+    },
+    {
+      "title": "Look & Match",
+      "mp3": "U622",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "Hi! I'm Zhouzhou. I can play football.",
+          "cn": "嗨！我是州州。我会踢足球。"
+        },
+        {
+          "name": "May：",
+          "en": "Lee! can you play basketball?",
+          "cn": "李！你会打篮球吗？"
+        },
+        {
+          "name": "Lee：",
+          "en": "Yes, I can.",
+          "cn": "是的，我会。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "May! can you play ping-pong?",
+          "cn": "梅！你会打乒乓球吗？"
+        },
+        {
+          "name": "May：",
+          "en": "No, I can't. But I can play tennis.",
+          "cn": "不，我不会。但我会打网球。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Hi! I'm Hanghang. I can play ping-pong very well.",
+          "cn": "嗨！我是杭杭。我乒乓球打得很好。"
+        }
+      ]
+    }
+  ]
+}

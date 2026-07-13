@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Do you have any plans for the weekend?",
+      "cn": "你这个周末有什么计划？"
+    },
+    {
+      "en": "I'm full up, I can't eat anymore.",
+      "cn": "我吃饱了，不能再吃了。"
+    }
+  ]
+}

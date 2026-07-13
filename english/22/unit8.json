@@ -1,0 +1,106 @@
+{
+  "title": "Unit 8：Scenery in Hangzhou",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U811",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "Come on, May! This is the Su Causeway.",
+          "cn": "来吧，梅！这是苏堤。"
+        },
+        {
+          "name": "May：",
+          "en": "Wow, beautiful!",
+          "cn": "哇，好美啊！"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Hey, look! That is the Baoshi Hill.",
+          "cn": "嘿，看！那是宝石山。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Oh, cool!",
+          "cn": "噢！酷！"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U812",
+      "list": [
+        {
+          "en": "We see peach flowers in spring.",
+          "cn": "我们在春天看到桃花。"
+        },
+        {
+          "en": "We view pink lotus in summer.",
+          "cn": "我们在夏天观赏粉红色的荷花。"
+        },
+        {
+          "en": "We smell sweet osmanthus in autumn.",
+          "cn": "秋天我们闻到桂花的味道。"
+        },
+        {
+          "en": "We enjoy plum blossoms in winter.",
+          "cn": "我们在冬天欣赏梅花。"
+        },
+        {
+          "en": "We love flowers. We love Hangzhou.",
+          "cn": "我们爱花。我们爱杭州。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U821",
+      "list": [
+        {
+          "name": "May：",
+          "en": "Wow! The West Lake is so big!",
+          "cn": "哇！西湖真大！"
+        },
+        {
+          "name": "Lee：",
+          "en": "And we can see the Su Causeway there!",
+          "cn": "我们可以在那里看到苏堤！"
+        },
+        {
+          "en": "Su Causeway, Su Causeway",
+          "cn": "苏堤，苏堤"
+        },
+        {
+          "en": "Baoshi Hill, Baoshi Hill",
+          "cn": "宝石山，宝石山"
+        },
+        {
+          "en": "West Lake, West Lake",
+          "cn": "西湖，西湖"
+        }
+      ]
+    },
+    {
+      "title": "Look & Learn",
+      "mp3": "U822",
+      "list": [
+        {
+          "en": "Hangzhou is my hometown.",
+          "cn": "杭州是我的家乡。"
+        },
+        {
+          "en": "We have the Qiantang River, Xianghu Lake, Qiandao Lake and the Grand Canal.",
+          "cn": "我们这有钱塘江、湘湖、千岛湖和大运河。"
+        },
+        {
+          "en": "Welcome to Hangzhou!",
+          "cn": "欢迎来到杭州！"
+        }
+      ]
+    }
+  ]
+}

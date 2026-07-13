@@ -1,0 +1,218 @@
+{
+  "title": "Unit 2：Numbers in Life",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U211",
+      "list": [
+        {
+          "name": "May：",
+          "en": "What's 7 and 9?",
+          "cn": "七加九等于多少？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "It's 16.",
+          "cn": "等于十六。"
+        },
+        {
+          "en": "sixteen, sixteen",
+          "cn": "十六，十六"
+        },
+        {
+          "en": "seventeen, seventeen",
+          "cn": "十七，十七"
+        },
+        {
+          "en": "eighteen, eighteen",
+          "cn": "十八，十八"
+        },
+        {
+          "en": "nineteen, nineteen",
+          "cn": "十九，十九"
+        },
+        {
+          "en": "twenty, twenty",
+          "cn": "二十，二十"
+        }
+      ]
+    },
+    {
+      "title": "Look & Try",
+      "mp3": "U212",
+      "list": [
+        {
+          "name": "A：",
+          "en": "Who's that boy in green?",
+          "cn": "那个穿绿色衣服的男孩是谁？"
+        },
+        {
+          "name": "B：",
+          "en": "He is Bob.",
+          "cn": "他是Bob。"
+        },
+        {
+          "name": "A：",
+          "en": "How old is he?",
+          "cn": "他几岁了？"
+        },
+        {
+          "name": "B：",
+          "en": "He's 20.",
+          "cn": "他二十岁。"
+        },
+        {
+          "name": "A：",
+          "en": "Who's that girl in black?",
+          "cn": "那个穿黑色衣服的女孩是谁？"
+        },
+        {
+          "name": "B：",
+          "en": "She is Nancy.",
+          "cn": "她是Nancy。"
+        },
+        {
+          "name": "A：",
+          "en": "How old is she?",
+          "cn": "她几岁了？"
+        },
+        {
+          "name": "B：",
+          "en": "She's 18.",
+          "cn": "她十八岁。"
+        },
+
+        {
+          "name": "A：",
+          "en": "Who's that boy in white?",
+          "cn": "那个穿白色衣服的男孩是谁？"
+        },
+        {
+          "name": "B：",
+          "en": "He is Frank.",
+          "cn": "他是Frank。"
+        },
+        {
+          "name": "A：",
+          "en": "How old is he?",
+          "cn": "他几岁了？"
+        },
+        {
+          "name": "B：",
+          "en": "He's 16.",
+          "cn": "他十六岁。"
+        },
+        {
+          "name": "A：",
+          "en": "Who's that girl in purple?",
+          "cn": "那个穿紫色衣服的女孩是谁？"
+        },
+        {
+          "name": "B：",
+          "en": "She is Mary.",
+          "cn": "她是Mary。"
+        },
+        {
+          "name": "A：",
+          "en": "How old is she?",
+          "cn": "她几岁了？"
+        },
+        {
+          "name": "B：",
+          "en": "She's 9.",
+          "cn": "她九岁。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U221",
+      "list": [
+        {
+          "name": "Teacher：",
+          "en": "Try to say the numbers, please.",
+          "cn": "请试着说一下这些数字。"
+        },
+        {
+          "name": "May：",
+          "en": "zero three six nine",
+          "cn": "零三六九 / 0369"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "eight seven four five two",
+          "cn": "八七四五二 / 87452"
+        },
+        {
+          "name": "Teacher：",
+          "en": "eight nine seven six five four five",
+          "cn": "八九七六五四五 / 8976545"
+        },
+        {
+          "name": "All：",
+          "en": "eight nine seven six five four five",
+          "cn": "八九七六五四五 / 8976545"
+        },
+        {
+          "name": "Teacher：",
+          "en": "two zero one",
+          "cn": "二零一 / 201"
+        },
+        {
+          "name": "All：",
+          "en": "two zero one",
+          "cn": "二零一 / 201"
+        },
+        {
+          "name": "Teacher：",
+          "en": "zero one two three four five six seven eight nine zero",
+          "cn": "零一二三四五六七八九零 / 01234567890"
+        },
+        {
+          "name": "All：",
+          "en": "zero one two three four five six seven eight nine zero",
+          "cn": "零一二三四五六七八九零 / 01234567890"
+        },
+        {
+          "name": "Teacher：",
+          "en": "one two zero",
+          "cn": "一二零 / 120"
+        },
+        {
+          "name": "All：",
+          "en": "one two zero",
+          "cn": "一二零 / 120"
+        }
+      ]
+    },
+    {
+      "title": "Look & Match",
+      "mp3": "U222",
+      "list": [
+        {
+          "name": "May：",
+          "en": "I can say the number. It's 1903",
+          "cn": "我能说出数字：一九零三"
+        },
+        {
+          "name": "Lee：",
+          "en": "I can say the number. It's 165236845",
+          "cn": "我能说出数字：一六五二三六八四五"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "I can say the number. It's 78967",
+          "cn": "我能说出数字：七八九六七"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "I can say the number. It's 012682",
+          "cn": "我能说出数字：零一二六八二"
+        }
+      ]
+    }
+  ]
+}

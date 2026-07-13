@@ -1,0 +1,146 @@
+{
+  "title": "Unit 5：Toys at Home",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U511",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "I have a toy car. Do you have a toy car, May?",
+          "cn": "我有一辆玩具车。你有玩具车吗，梅？"
+        },
+        {
+          "name": "May：",
+          "en": "Yes, I do. My toy car is red and black.",
+          "cn": "有的，我有。我的玩具车是红色和黑色的。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Cool!",
+          "cn": "酷！"
+        },
+        {
+          "en": "ball, ball",
+          "cn": "球，球"
+        },
+        {
+          "en": "toy car, toy car",
+          "cn": "玩具车，玩具车"
+        },
+        {
+          "en": "yo-yo, yo-yo",
+          "cn": "溜溜球，溜溜球"
+        },
+        {
+          "en": "cube, cube",
+          "cn": "魔方，魔方"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U521",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "Lee, I have a new cube. I like it very much! Do you have a cube?",
+          "cn": "李！我有一个新魔方。我非常喜欢它！你有魔方吗？"
+        },
+        {
+          "name": "Lee：",
+          "en": "No, I don't. But I have a yo-yo. It's yellow and cool.",
+          "cn": "不，我没有。但我有一个溜溜球。它是黄色的，很酷。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Great! Let's play together!",
+          "cn": "太棒了！让我们一起玩吧！"
+        }
+      ]
+    },
+    {
+      "title": "Look & Draw",
+      "mp3": "U522",
+      "list": [
+        {
+          "name": "May：",
+          "en": "Zhouzhou, Do you have a doll?",
+          "cn": "州州！你有洋娃娃吗？"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Yes, I do. I like it very much!",
+          "cn": "是的，我有。我非常喜欢它！"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "May, I have a teddy bear.",
+          "cn": "梅，我有一只泰迪熊玩具。"
+        },
+        {
+          "name": "May：",
+          "en": "Me, too.",
+          "cn": "我也有。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Do you have a cube, Lee?",
+          "cn": "李，你有魔方吗？"
+        },
+        {
+          "name": "Lee：",
+          "en": "No, I don't. But I have a yo-yo.",
+          "cn": "不，我没有。但我有一个溜溜球。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Hanghang! Do you have a toy car?",
+          "cn": "杭杭，你有玩具车吗？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Yes, I do. It's small and yellow.",
+          "cn": "是的，我有。它是小小的，黄色的。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U523",
+      "list": [
+        {
+          "en": "Do you have a cube?",
+          "cn": "你有魔方吗？"
+        },
+        {
+          "en": "Yes, I do.",
+          "cn": "是的，我有。"
+        },
+        {
+          "en": "Do you have a yo-yo?",
+          "cn": "你有溜溜球吗？"
+        },
+        {
+          "en": "No, I don't.",
+          "cn": "不，我没有。"
+        },
+        {
+          "en": "I have a toy car. I have a ball.",
+          "cn": "我有一辆玩具车。我有一个球。"
+        },
+        {
+          "en": "The car is red. The ball is blue.",
+          "cn": "车是红色的。球是蓝色的。"
+        },
+        {
+          "en": "We love toys. We have fun!",
+          "cn": "我们喜欢玩具。我们玩得很开心！"
+        }
+      ]
+    }
+  ]
+}

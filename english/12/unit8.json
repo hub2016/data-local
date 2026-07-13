@@ -1,0 +1,112 @@
+{
+  "title": "Unit 8：Food in Hangzhou",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U811",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "I like Dongpo Pork. It's yummy!",
+          "cn": "我喜欢东坡肉。真好吃！"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "I love Jiaohua Chicken. It's yummy, too.",
+          "cn": "我喜欢叫花鸡。也很好吃。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Draw",
+      "mp3": "U812",
+      "list": [
+        {
+          "en": "I like Dongpo Pork. It's yummy!",
+          "cn": "我喜欢东坡肉。真好吃！"
+        },
+        {
+          "en": "I don't like fish.",
+          "cn": "我不喜欢吃鱼。"
+        },
+        {
+          "en": "I like chicken very much!",
+          "cn": "我非常喜欢吃鸡肉。"
+        },
+        {
+          "en": "I'm in Hangzhou. I like Longjing Tea.",
+          "cn": "我在杭州。我喜欢喝龙井茶。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U813",
+      "list": [
+        {
+          "en": "Chicken is yummy,",
+          "cn": "鸡肉很好吃，"
+        },
+        {
+          "en": "Into my mouth,",
+          "cn": "进我的嘴里，"
+        },
+        {
+          "en": "Down to my tummy,",
+          "cn": "直到我的肚子里，"
+        },
+        {
+          "en": "Yummy, yummy, yummy.",
+          "cn": "好吃，好吃，真好吃。"
+        },
+        {
+          "en": "Fish is yummy,",
+          "cn": "鱼肉很好吃，"
+        },
+        {
+          "en": "Into my mouth,",
+          "cn": "进我的嘴里，"
+        },
+        {
+          "en": "Down to my tummy,",
+          "cn": "直到我的肚子里，"
+        },
+        {
+          "en": "Yummy, yummy, yummy.",
+          "cn": "好吃，好吃，真好吃。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U821",
+      "list": [
+        {
+          "name": "May：",
+          "en": "Mmm. The chicken is yummy.",
+          "cn": "嗯。鸡肉真好吃。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "The rice cake is sweet.",
+          "cn": "年糕是甜的。"
+        },
+        {
+          "en": "yummy, yummy",
+          "cn": "好吃，好吃"
+        },
+        {
+          "en": "sweet, sweet",
+          "cn": "甜，甜"
+        },
+        {
+          "en": "sour, sour",
+          "cn": "酸，酸"
+        }
+      ]
+    }
+  ]
+}

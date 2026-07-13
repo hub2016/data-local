@@ -1,0 +1,386 @@
+{
+  "title": "Unit Five Let's eat!",
+  "sound": true,
+  "path": "u5",
+  "lessons": [
+    {
+      "title": "Let's eat!",
+      "mp3": "1",
+      "list": [
+        {
+          "name": "Zip：",
+          "en": "I'd like some bread, please.",
+          "mp3": "dh/1",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Here you are.",
+          "mp3": "dh/2",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Can I have some milk?",
+          "mp3": "dh/3",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Here you are.",
+          "mp3": "dh/4",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Thanks.",
+          "mp3": "dh/5",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "You're welcome.",
+          "mp3": "dh/6",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Have some cake.",
+          "mp3": "dh/7",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "Thank you.",
+          "mp3": "dh/8",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "a/1",
+      "list": [
+        {
+          "name": "Mike：",
+          "en": "I'd like some juice, please.",
+          "mp3": "a/tk/1",
+          "cn": ""
+        },
+        {
+          "name": "Mike's Mum：",
+          "en": "Here you are. Have some bread, too.",
+          "mp3": "a/tk/2",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Thanks.",
+          "mp3": "a/tk/3",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "a/2",
+      "list": [
+        {
+          "name": "Sarah：",
+          "en": "Mum, I'm hungry!",
+          "mp3": "a/le/1",
+          "cn": ""
+        },
+        {
+          "name": "Sarah's Mum：",
+          "en": "Have some bread.",
+          "mp3": "a/le/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "juice, juice",
+          "mp3": "a/le/3",
+          "cn": "果汁"
+        },
+        {
+          "name": "",
+          "en": "egg, egg",
+          "mp3": "a/le/4",
+          "cn": "鸡蛋"
+        },
+        {
+          "name": "",
+          "en": "milk, milk",
+          "mp3": "a/le/5",
+          "cn": "牛奶"
+        },
+        {
+          "name": "",
+          "en": "bread, bread",
+          "mp3": "a/le/6",
+          "cn": "面包"
+        }
+      ]
+    },
+    {
+      "title": "Let's do",
+      "mp3": "a/3",
+      "list": [
+        {
+          "name": "",
+          "en": "Have some eggs. Have some eggs.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Have some juice. Have some juice.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Eat some bread. Eat some bread.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Drink some milk. Drink some milk.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Letters and sounds",
+      "mp3": "",
+      "list": [
+        {
+          "name": "",
+          "en": "O-O-O-o-o-o-on-orange, P-P-P-p-p-p-pig-pen, Q-Q-Q-q-q-q-queen-quiet, R-R-R-r-r-r-rice-red, S-S-S-s-s-s-six-Sarah, T-T-T-t-t-t-tiger-ten.",
+          "mp3": "a/4",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Oo Pp Qq Rr Ss Tt",
+          "mp3": "a/5",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "b/1",
+      "list": [
+        {
+          "name": "Wu Binbin：",
+          "en": "Can I have some water, please?",
+          "mp3": "b/tk/1",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "Here you are.",
+          "mp3": "b/tk/2",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Thank you.",
+          "mp3": "b/tk/3",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "You're welcome.",
+          "mp3": "b/tk/4",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "b/2",
+      "list": [
+        {
+          "name": "Sarah：",
+          "en": "Can I have some water, please?",
+          "mp3": "b/le/1",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Here you are.",
+          "mp3": "b/le/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "water, water",
+          "mp3": "b/le/3",
+          "cn": "水"
+        },
+        {
+          "name": "",
+          "en": "cake, cake",
+          "mp3": "b/le/4",
+          "cn": "蛋糕"
+        },
+        {
+          "name": "",
+          "en": "fish, fish",
+          "mp3": "b/le/5",
+          "cn": "鱼"
+        },
+        {
+          "name": "",
+          "en": "rice, rice",
+          "mp3": "b/le/6",
+          "cn": "大米"
+        }
+      ]
+    },
+    {
+      "title": "Let's do",
+      "mp3": "b/3",
+      "list": [
+        {
+          "name": "Mike：",
+          "en": "Drink some water. Drink some water.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Eat some fish. Eat some fish.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Eat some rice. Eat some rice.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Cut the cake. Cut the cake.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's check",
+      "mp3": "b/4",
+      "list": [
+        {
+          "name": "",
+          "en": "Can I have some milk, please? Sure, Here you are.",
+          "mp3": "b/ch/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I like some juice, please? Here you are. Thanks.",
+          "mp3": "b/ch/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Have some fish. Thanks.",
+          "mp3": "b/ch/3",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I'm hungry! Have some cake.",
+          "mp3": "b/ch/4",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's sing",
+      "subtit": "Let's have a picnic today",
+      "mp3": "b/5",
+      "list": [
+        {
+          "name": "",
+          "en": "Let's have some cake today. Let's have some cake today. Let's have some cake today, on such a lovely day. Let's have some milk today. Let's have some milk today. Let's have some milk today, on such a lovely day.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Let's have some cake today. Let's have some cake today. Let's have some cake today, on such a lovely day. Let's have some milk today. Let's have some milk today. Let's have some milk today, on such a lovely day.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Story time",
+      "mp3": "c/1",
+      "list": [
+        {
+          "name": "Zoom：",
+          "en": "I'd like some fish, please.",
+          "mp3": "c/dh/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Here you are.",
+          "mp3": "c/dh/2",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "I'd like some rice, please.",
+          "mp3": "c/dh/3",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Sure.",
+          "mp3": "c/dh/4",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Can I have some Coke, please.",
+          "mp3": "c/dh/5",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Here you are.",
+          "mp3": "c/dh/6",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Can I have some ice cream, please.",
+          "mp3": "c/dh/7",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Oh, no! My fish!",
+          "mp3": "c/dh/8",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Here you are.",
+          "mp3": "c/dh/9",
+          "cn": ""
+        }
+      ]
+    }
+  ]
+}

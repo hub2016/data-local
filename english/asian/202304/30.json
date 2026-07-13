@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "a single room/a double room",
+      "cn": "单人间/双人间"
+    },
+    {
+      "en": "Do you have a reservation?",
+      "cn": "您预定房间了吗？"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "How many in your party?",
+      "cn": "请问几位？"
+    },
+    {
+      "en": "I don't have a reservation.",
+      "cn": "我没有订位置。"
+    }
+  ]
+}

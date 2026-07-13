@@ -1,0 +1,119 @@
+{
+  "title": "Unit 5：Places at School",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U511",
+      "list": [
+        {
+          "name": "Mum & Dad：",
+          "en": "Hanghang, your school is so nice.",
+          "cn": "杭杭，你的学校真不错。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "This is a gym.",
+          "cn": "这是一个健身房。"
+        },
+        {
+          "name": "Dad：",
+          "en": "It's new!",
+          "cn": "这是新的！"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "This is a playground.",
+          "cn": "这是一个操场。"
+        },
+        {
+          "name": "Mum：",
+          "en": "Wow! It's big!",
+          "cn": "哇！它好大！"
+        }
+      ]
+    },
+    {
+      "title": "Look & Draw",
+      "mp3": "U512",
+      "list": [
+        {
+          "en": "That is a classroom.",
+          "cn": "那是一个教室。"
+        },
+        {
+          "en": "This is a playground. It's big!",
+          "cn": "这是一个操场。它很大！"
+        },
+        {
+          "en": "This is a gym. It's new!",
+          "cn": "这是一个健身房。它好新！"
+        },
+        {
+          "en": "It's a big office.",
+          "cn": "这是一个大办公室。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U521",
+      "list": [
+        {
+          "name": "May：",
+          "en": "Look at the canteen. It's clean.",
+          "cn": "看这食堂。它很干净。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Look at the library. It's very big.",
+          "cn": "看这图书馆。它非常大。"
+        },
+        {
+          "en": "gym, gym",
+          "cn": "健身房，健身房"
+        },
+        {
+          "en": "playground, playground",
+          "cn": "操场，操场"
+        },
+        {
+          "en": "library, library",
+          "cn": "图书馆，图书馆"
+        },
+        {
+          "en": "canteen, canteen",
+          "cn": "食堂，食堂"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U522",
+      "list": [
+        {
+          "en": "Playground, playground, play in the playground.",
+          "cn": "操场，操场，在操场上玩。"
+        },
+        {
+          "en": "Canteen, canteen, eat in the canteen.",
+          "cn": "食堂，食堂，在食堂里吃饭。"
+        },
+        {
+          "en": "Gym, gym, play in the gym.",
+          "cn": "健身房，健身房，在健身房里健身。"
+        },
+        {
+          "en": "Library, library, read in the library.",
+          "cn": "图书馆，图书馆，在图书馆里读书。"
+        },
+        {
+          "en": "We have fun in the school!",
+          "cn": "我们在学校过得很开心！"
+        }
+      ]
+    }
+  ]
+}

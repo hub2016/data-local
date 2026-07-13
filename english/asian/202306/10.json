@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Would you take a picture of me?",
+      "cn": "能帮我照张相吗？"
+    },
+    {
+      "en": "Sure, of course.",
+      "cn": "当然可以。"
+    }
+  ]
+}

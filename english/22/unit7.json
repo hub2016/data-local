@@ -1,0 +1,92 @@
+{
+  "title": "Unit 7：Festival in Each Season",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U711",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "The Qingming Festival is in spring",
+          "cn": "清明节在春天。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "We eat Qingming dumplings. Try some!",
+          "cn": "我们吃清明果。尝尝！"
+        },
+        {
+          "name": "May：",
+          "en": "Great! Thanks!",
+          "cn": "太棒了！谢谢！"
+        },
+        {
+          "en": "Qingming Festival, Qingming Festival",
+          "cn": "清明节，清明节"
+        },
+        {
+          "en": "Qingming dumplings, Qingming dumplings",
+          "cn": "清明果，清明果"
+        }
+      ]
+    },
+    {
+      "title": "Look & Learn",
+      "mp3": "U712",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "We have the Qingming Festival in spring. We eat Qingming dumplings.",
+          "cn": "我们在春天过清明节。我们吃清明果。"
+        },
+        {
+          "name": "Hanghang's sister：",
+          "en": "We have the Dragon Boat Festival in summer. We eat zongzi.",
+          "cn": "我们在夏天过端午节。我们吃粽子。"
+        },
+        {
+          "name": "Hanghang's mother：",
+          "en": "We have the Mid-Autumn Day in autumn. We eat mooncakes.",
+          "cn": "我们在秋天过中秋节。我们吃月饼。"
+        },
+        {
+          "name": "Hanghang's father：",
+          "en": "We have the Spring Festival in winter. We eat spring rolls.",
+          "cn": "我们在冬天过春节。我们吃春卷。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U721",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "The Dragon Boat Festival is in summer. We eat zongzi.",
+          "cn": "端午节在夏天。我们吃粽子。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "And we watch boat races.",
+          "cn": "我们看划船比赛。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Wow! So fun!",
+          "cn": "哇！太有趣了！"
+        },
+        {
+          "en": "Zongzi, Zongzi",
+          "cn": "粽子，粽子"
+        },
+        {
+          "en": "Dragon Boat Festival, Dragon Boat Festival",
+          "cn": "端午节，端午节"
+        }
+      ]
+    }
+  ]
+}

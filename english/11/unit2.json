@@ -1,0 +1,167 @@
+{
+  "title": "Unit 2：Lets Count",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U211",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "Hi, Hanghang. Let's play!",
+          "cn": "嗨，杭杭。让我们来玩吧！"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "OK.",
+          "cn": "好的。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Wow! Eight!",
+          "cn": "哇！八！"
+        },
+        {
+          "en": "one, one",
+          "cn": "一，一"
+        },
+        {
+          "en": "two, two",
+          "cn": "二，二"
+        },
+        {
+          "en": "three, three",
+          "cn": "三，三"
+        },
+        {
+          "en": "four, four",
+          "cn": "四，四"
+        },
+        {
+          "en": "five, five",
+          "cn": "五，五"
+        },
+        {
+          "en": "six, six",
+          "cn": "六，六"
+        },
+        {
+          "en": "seven, seven",
+          "cn": "七，七"
+        },
+        {
+          "en": "eight, eight",
+          "cn": "八，八"
+        },
+        {
+          "en": "nine, nine",
+          "cn": "九，九"
+        },
+        {
+          "en": "ten, ten",
+          "cn": "十，十"
+        }
+      ]
+    },
+    {
+      "title": "Look & Sing",
+      "mp3": "U212",
+      "list": [
+        {
+          "en": "Ten Little Indians",
+          "cn": "十个印第安小男孩"
+        },
+        {
+          "en": "One little, two little, three little Indians.",
+          "cn": "一个，两个，三个小印第安人。"
+        },
+        {
+          "en": "Four little, five little, six little Indians.",
+          "cn": "四个，五个，六个小印第安人。"
+        },
+        {
+          "en": "Seven little, eight little, nine little Indians.",
+          "cn": "七个，八个，九个小印第安人。"
+        },
+        {
+          "en": "Ten little Indians boys.",
+          "cn": "十个印第安小男孩。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U221",
+      "list": [
+        {
+          "name": "May：",
+          "en": "How many?",
+          "cn": "有多少？"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Three",
+          "cn": "三个。"
+        },
+        {
+          "name": "Lee：",
+          "en": "How many?",
+          "cn": "有多少？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Five",
+          "cn": "五个。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Choose",
+      "mp3": "U222",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "How many lollipops？",
+          "cn": "有多少根棒棒糖？"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Nine.",
+          "cn": "九根。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "How many balloons？",
+          "cn": "有多少个气球？"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Eight.",
+          "cn": "八个。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "How many pandas？",
+          "cn": "有多少只熊猫？"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Five.",
+          "cn": "五只。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "How many ducks？",
+          "cn": "有多少只鸭子？"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Four.",
+          "cn": "四只。"
+        }
+      ]
+    }
+  ]
+}

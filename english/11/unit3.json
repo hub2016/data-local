@@ -1,0 +1,196 @@
+{
+  "title": "Unit 3：Pets at Home",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U311",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "What's this?",
+          "cn": "这是什么？"
+        },
+        {
+          "name": "May：",
+          "en": "It's a dog.",
+          "cn": "是条狗。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "What's that?",
+          "cn": "那是什么？"
+        },
+        {
+          "name": "May：",
+          "en": "It's a cat.",
+          "cn": "是只猫。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Point",
+      "mp3": "U312",
+      "list": [
+        {
+          "name": "May：",
+          "en": "What's this?",
+          "cn": "这是什么？"
+        },
+        {
+          "name": "Lee：",
+          "en": "It's a cat. No.3 Cat.",
+          "cn": "这是猫。3号猫。"
+        },
+        {
+          "name": "May：",
+          "en": "What's that?",
+          "cn": "那是什么？"
+        },
+        {
+          "name": "Lee：",
+          "en": "It's a dog. No.2 Dog.",
+          "cn": "那是狗。2号狗。"
+        },
+        {
+          "name": "May：",
+          "en": "What's this?",
+          "cn": "这是什么？"
+        },
+        {
+          "name": "Lee：",
+          "en": "It's a dog. No.3 Dog.",
+          "cn": "这是狗。3号狗。"
+        },
+        {
+          "name": "May：",
+          "en": "What's that?",
+          "cn": "那是什么？"
+        },
+        {
+          "name": "Lee：",
+          "en": "It's a cat. No.1 Cat.",
+          "cn": "那是猫。1号猫。"
+        },
+        {
+          "name": "May：",
+          "en": "What's that?",
+          "cn": "那是什么？"
+        },
+        {
+          "name": "Lee：",
+          "en": "It's a dog. No.1 Dog.",
+          "cn": "那是狗。1号狗。"
+        },
+        {
+          "name": "May：",
+          "en": "What's that?",
+          "cn": "那是什么？"
+        },
+        {
+          "name": "Lee：",
+          "en": "It's a cat. No.2 Cat.",
+          "cn": "那是猫。2号猫。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U313",
+      "list": [
+        {
+          "en": "What's this? What's this?",
+          "cn": "这是什么？这是什么？"
+        },
+        {
+          "en": "It's a dog. It's a dog.",
+          "cn": "是条狗。是条狗。"
+        },
+        {
+          "en": "Woof! Woof! Woof!",
+          "cn": "汪！汪！汪！"
+        },
+        {
+          "en": "What's that? What's that?",
+          "cn": "那是什么？那是什么？"
+        },
+        {
+          "en": "It's a cat. It's a cat.",
+          "cn": "是只猫。是只猫。"
+        },
+        {
+          "en": "Meow! Meow! Meow!",
+          "cn": "喵！喵！喵！"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U321",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "What's that?",
+          "cn": "那是什么？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "It's a bird.",
+          "cn": "是只鸟。"
+        },
+        {
+          "en": "cat, cat",
+          "cn": "猫，猫"
+        },
+        {
+          "en": "dog, dog",
+          "cn": "狗，狗"
+        },
+        {
+          "en": "fish, fish",
+          "cn": "鱼，鱼"
+        },
+        {
+          "en": "bird, bird",
+          "cn": "鸟，鸟"
+        }
+      ]
+    },
+    {
+      "title": "Look & Sing",
+      "mp3": "U322",
+      "list": [
+        {
+          "en": "A Bird and a Fish",
+          "cn": "一只鸟和一条鱼"
+        },
+        {
+          "en": "What's this? What's this? What's this?",
+          "cn": "这是什么？这是什么？这是什么？"
+        },
+        {
+          "en": "What? What?",
+          "cn": "什么？什么？"
+        },
+        {
+          "en": "It's a bird. It's a bird. It's a bird, bird, bird.",
+          "cn": "是只鸟。是只鸟。是只鸟，鸟，鸟。"
+        },
+        {
+          "en": "What's that? What's that? What's that?",
+          "cn": "那是什么？那是什么？那是什么？"
+        },
+        {
+          "en": "What? What?",
+          "cn": "什么？什么？"
+        },
+        {
+          "en": "It's a fish. It's a fish. It's a fish, fish, fish.",
+          "cn": "是条鱼。是条鱼。是条鱼，鱼，鱼。"
+        }
+      ]
+    }
+  ]
+}

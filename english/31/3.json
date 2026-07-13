@@ -1,0 +1,446 @@
+{
+  "title": "Unit Three Look at me!",
+  "sound": true,
+  "path": "u3",
+  "lessons": [
+    {
+      "title": "Look at me!",
+      "mp3": "1",
+      "list": [
+        {
+          "name": "Zoom：",
+          "en": "Let's play!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "OK!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "How are you?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Miss White：",
+          "en": "I'm fine, thank you.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "How are you?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Very well, thanks.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Look at my nose!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "a/1",
+      "list": [
+        {
+          "name": "",
+          "en": "Good morning.",
+          "mp3": "a/tk/1",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Good morning.",
+          "mp3": "a/tk/2",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "How are you?",
+          "mp3": "a/tk/3",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "I'm fine, thank you. Let's go to school.",
+          "mp3": "a/tk/4",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "OK!",
+          "mp3": "a/tk/5",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's play",
+      "mp3": "a/2",
+      "list": [
+        {
+          "name": "",
+          "en": "Hello! Hello!",
+          "mp3": "a/pl/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "How are you?",
+          "mp3": "a/pl/2",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "a/3",
+      "list": [
+        {
+          "name": "Zoom：",
+          "en": "Look at me! This is my face.",
+          "mp3": "a/le/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "ear, ear",
+          "mp3": "a/le/2",
+          "cn": "耳朵"
+        },
+        {
+          "name": "",
+          "en": "eye, eye",
+          "mp3": "a/le/3",
+          "cn": "眼睛"
+        },
+        {
+          "name": "",
+          "en": "nose, nose",
+          "mp3": "a/le/4",
+          "cn": "鼻子"
+        },
+        {
+          "name": "",
+          "en": "mouth, mouth",
+          "mp3": "a/le/5",
+          "cn": "嘴巴"
+        },
+        {
+          "name": "",
+          "en": "face, face",
+          "mp3": "a/le/6",
+          "cn": "脸"
+        }
+      ]
+    },
+    {
+      "title": "Let's do",
+      "mp3": "a/4",
+      "list": [
+        {
+          "name": "Sarah：",
+          "en": "Close your eyes. Close your eyes.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "Open your mouth. Open your mouth.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Touch your nose. Touch your nose.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Touch your ear. Touch your ear.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Touch your face. Touch your face.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Letters and sounds",
+      "mp3": "",
+      "list": [
+        {
+          "name": "",
+          "en": "E-E-E-e-e-e-egg-elephant, F-F-F-f-f-f-face-foot, G-G-G-g-g-g-green-gift, H-H-H-h-h-h-hand-hi, I-I-I-i-i-i-ice cream-ice",
+          "mp3": "a/5",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Ee Ff Gg Hh Ii",
+          "mp3": "a/6",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "g-green, g-green, h-hand, h-hand, f-foot, f-foot, e-egg, e-egg, i-ice cream, i-ice cream",
+          "mp3": "a/7",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz",
+          "mp3": "a/6",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "b/1",
+      "list": [
+        {
+          "name": "Sarah：",
+          "en": "Hi, Mike! How are you?",
+          "mp3": "b/tk/1",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Very well, thanks.",
+          "mp3": "b/tk/2",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Let's make a puppet!",
+          "mp3": "b/tk/3",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Great!",
+          "mp3": "b/tk/4",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "b/2",
+      "list": [
+        {
+          "name": "Sarah：",
+          "en": "This is the arm.",
+          "mp3": "b/le/1",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "This is the leg.",
+          "mp3": "b/le/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "arm, arm",
+          "mp3": "b/le/3",
+          "cn": "手臂"
+        },
+        {
+          "name": "",
+          "en": "hand, hand",
+          "mp3": "b/le/4",
+          "cn": "手"
+        },
+        {
+          "name": "",
+          "en": "head, head",
+          "mp3": "b/le/5",
+          "cn": "头"
+        },
+        {
+          "name": "",
+          "en": "body, body",
+          "mp3": "b/le/6",
+          "cn": "身体"
+        },
+        {
+          "name": "",
+          "en": "leg, leg",
+          "mp3": "b/le/7",
+          "cn": "腿"
+        },
+        {
+          "name": "",
+          "en": "foot, foot",
+          "mp3": "b/le/8",
+          "cn": "脚，脚"
+        }
+      ]
+    },
+    {
+      "title": "Let's do",
+      "mp3": "b/3",
+      "list": [
+        {
+          "name": "Sarah：",
+          "en": "Clap your hands. Clap your hands.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "Touch your head. Touch your head.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Wave your arms. Wave your arms.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Shake your legs. Shake your legs.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Shake your body. Shake your body.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Stamp your foot. Stamp your foot.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's check",
+      "mp3": "b/5",
+      "list": [
+        {
+          "name": "",
+          "en": "Listen and number.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Hi, look at me, this is my nose.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Let's go to school. OK!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "How are you, Sarah! I'm fine, thank you.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "This is the arm. No! No! this is the leg.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's sing",
+      "subtit": "Head and shoulders, knees and toes",
+      "mp3": "b/4",
+      "list": [
+        {
+          "name": "",
+          "en": "Head and shoulders, knees and toes, knees and toes. Head and shoulders, knees and toes, knees and toes. Eyes and ears and mouth and nose. Head and shoulders, knees and toes, knees and toes.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Head and shoulders, knees and toes, knees and toes. Head and shoulders, knees and toes, knees and toes. Eyes and ears and mouth and nose. Head and shoulders, knees and toes, knees and toes.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Story time",
+      "mp3": "c/1",
+      "list": [
+        {
+          "name": "Zoom：",
+          "en": "Let's make a puppet",
+          "mp3": "c/dh/1",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "Good idea!",
+          "mp3": "c/dh/2",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "First, make the head.",
+          "mp3": "c/dh/3",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Then, make the body.",
+          "mp3": "c/dh/4",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "Look! An arm and a leg.",
+          "mp3": "c/dh/5",
+          "cn": ""
+        },
+        {
+          "name": "Zoom & Zip：",
+          "en": "Let's play with the puppet.",
+          "mp3": "c/dh/6",
+          "cn": ""
+        },
+        {
+          "name": "Puppet：",
+          "en": "Goodbye!",
+          "mp3": "c/dh/7",
+          "cn": ""
+        }
+      ]
+    }
+  ]
+}

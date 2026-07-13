@@ -1,0 +1,211 @@
+{
+  "title": "Unit 4：Family Members",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U411",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "This is my family.",
+          "cn": "这是我的家人。"
+        },
+        {
+          "en": "My dad is strong.",
+          "cn": "我爸爸很强壮。"
+        },
+        {
+          "en": "My mum is beautiful.",
+          "cn": "我妈妈很漂亮。"
+        },
+        {
+          "en": "My sister is young.",
+          "cn": "我妹妹很年轻。"
+        },
+        {
+          "en": "My grandpa and grandma are kind.",
+          "cn": "我爷爷和奶奶都很和蔼。"
+        },
+        {
+          "en": "I love my family.",
+          "cn": "我爱我的家人。"
+        },
+        {
+          "en": "beautiful, beautiful",
+          "cn": "漂亮，漂亮"
+        },
+        {
+          "en": "strong, strong",
+          "cn": "强壮，强壮"
+        },
+        {
+          "en": "kind, kind",
+          "cn": "和蔼，和蔼"
+        },
+        {
+          "en": "young, young",
+          "cn": "年轻，年轻"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U412",
+      "list": [
+        {
+          "name": "A：",
+          "en": "My mum is beautiful.",
+          "cn": "我妈妈很漂亮。"
+        },
+        {
+          "name": "B：",
+          "en": "My mum is beautiful, too!",
+          "cn": "我妈妈也很漂亮。"
+        },
+        {
+          "name": "C：",
+          "en": "My dad is strong.",
+          "cn": "爸爸妈很强壮。"
+        },
+        {
+          "name": "D：",
+          "en": "My dad is strong, too!",
+          "cn": "我爸爸也很强壮。"
+        },
+        {
+          "name": "E：",
+          "en": "My mum is fast.",
+          "cn": "我妈妈很敏捷。"
+        },
+        {
+          "name": "F：",
+          "en": "My dad is fast, too!",
+          "cn": "我爸爸也很敏捷。"
+        },
+        {
+          "name": "All：",
+          "en": "Mum and Dad, I love you!",
+          "cn": "妈妈和爸爸，我爱你！"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U421",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "Look! My dad and my mum.",
+          "cn": "看！我的爸爸和我的妈妈。"
+        },
+        {
+          "name": "May：",
+          "en": "Is your dad tall?",
+          "cn": "你的爸爸高吗？"
+        },
+        {
+          "name": "Lee：",
+          "en": "Yes, he is. He is tall and strong.",
+          "cn": "是的，他是，他又高又强壮。"
+        },
+        {
+          "name": "May：",
+          "en": "Is your mum tall, too?",
+          "cn": "你的妈妈也高吗？"
+        },
+        {
+          "name": "Lee：",
+          "en": "No. But she is beautiful.",
+          "cn": "不，但她很漂亮。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Draw",
+      "mp3": "U422",
+      "list": [
+        {
+          "name": "A：",
+          "en": "Is your father strong?",
+          "cn": "你的父亲强壮吗？"
+        },
+        {
+          "name": "B：",
+          "en": "No. He is tall and thin.",
+          "cn": "不。他又高又瘦。"
+        },
+        {
+          "name": "A：",
+          "en": "Is this your grandma?",
+          "cn": "这是你奶奶吗？"
+        },
+        {
+          "name": "B：",
+          "en": "Yes, she is. She is very kind.",
+          "cn": "是的，她是，她非常和蔼。"
+        },
+        {
+          "name": "A：",
+          "en": "Is your sister beautiful?",
+          "cn": "你的妹妹漂亮吗？"
+        },
+        {
+          "name": "B：",
+          "en": "Yes, she is.",
+          "cn": "是的，她是。"
+        },
+        {
+          "name": "A：",
+          "en": "Who is that young boy?",
+          "cn": "那个年轻的男孩是谁？"
+        },
+        {
+          "name": "B：",
+          "en": "He is my brother. He is lovely.",
+          "cn": "他是我的弟弟。他非常可爱。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U423",
+      "list": [
+        {
+          "en": "Strong, old, young and weak.",
+          "cn": "强壮的，年老的，年轻的和虚弱的。"
+        },
+        {
+          "en": "Weak. Weak. Weak.",
+          "cn": "虚弱的。虚弱的。虚弱的。"
+        },
+        {
+          "en": "Old, young, weak and strong.",
+          "cn": "年老的，年轻的，虚弱的和强壮的。"
+        },
+        {
+          "en": "Strong. Strong. Strong.",
+          "cn": "强壮的。强壮的。强壮的。"
+        },
+        {
+          "en": "Young, weak, strong and old.",
+          "cn": "年轻的，虚弱的，强壮的和年老的。"
+        },
+        {
+          "en": "Old. Old. Old.",
+          "cn": "年老的。年老的。年老的。"
+        },
+        {
+          "en": "Weak, strong, old and young.",
+          "cn": "虚弱的，强壮的，年老的和年轻的。"
+        },
+        {
+          "en": "Young. Young. Young.",
+          "cn": "年轻的。年轻的。年轻的。"
+        }
+      ]
+    }
+  ]
+}

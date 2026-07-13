@@ -1,0 +1,41 @@
+{
+  "grade": 11,
+  "course": "english",
+  "subTitle": "小学英语一年级上册",
+  "from": "杭州出版社",
+  "mainTitle": "English for KIDS.Grade 1.A",
+  "units": [
+    {
+      "id": 1,
+      "title": "Colors We See"
+    },
+    {
+      "id": 2,
+      "title": "Lets Count"
+    },
+    {
+      "id": 3,
+      "title": "Pets at Home"
+    },
+    {
+      "id": 4,
+      "title": "Family Members"
+    },
+    {
+      "id": 5,
+      "title": "Places at School"
+    },
+    {
+      "id": 6,
+      "title": "Food and Health"
+    },
+    {
+      "id": 7,
+      "title": "Seasons in a Year"
+    },
+    {
+      "id": 8,
+      "title": "Food in Hangzhou"
+    }
+  ]
+}

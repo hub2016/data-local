@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Here is the book that you ordered.",
+      "cn": "这是你订的书。"
+    },
+    {
+      "en": "Thank you so much!",
+      "cn": "非常感谢！"
+    }
+  ]
+}

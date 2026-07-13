@@ -1,0 +1,152 @@
+{
+  "title": "Unit 7：Seasons in a Year",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U711",
+      "list": [
+        {
+          "name": "May：",
+          "en": "It's warm in spring.",
+          "cn": "春天很暖和。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "In summer, it's hot.",
+          "cn": "夏天很热。"
+        },
+        {
+          "en": "warm, warm",
+          "cn": "暖和，暖和"
+        },
+        {
+          "en": "hot, hot",
+          "cn": "热，热"
+        },
+        {
+          "en": "cool, cool",
+          "cn": "凉爽，凉爽"
+        },
+        {
+          "en": "cold, cold",
+          "cn": "冷，冷"
+        }
+      ]
+    },
+    {
+      "title": "Look & Number",
+      "mp3": "U712",
+      "list": [
+        {
+          "en": "It's hot in summer.",
+          "cn": "夏天很热。"
+        },
+        {
+          "en": "In spring, it's warm.",
+          "cn": "春天很暖和。"
+        },
+        {
+          "en": "It's cool and yellow in autumn.",
+          "cn": "秋天是凉爽的，黄色的。"
+        },
+        {
+          "en": "In winter, it's cold and white.",
+          "cn": "冬天是寒冷的，白色的。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U713",
+      "list": [
+        {
+          "en": "Mmm! It's warm.",
+          "cn": "嗯！天气暖和。"
+        },
+        {
+          "en": "It's warm in spring.",
+          "cn": "春天很暖和。"
+        },
+        {
+          "en": "Oh! It's hot.",
+          "cn": "哦！天气很热。"
+        },
+        {
+          "en": "It's hot in summer.",
+          "cn": "夏天很热。"
+        },
+        {
+          "en": "Ah! It's cool.",
+          "cn": "啊！天气很凉爽。"
+        },
+        {
+          "en": "It's cool in autumn.",
+          "cn": "秋天很凉爽。"
+        },
+        {
+          "en": "Brr! It's cold.",
+          "cn": "天气真冷！"
+        },
+        {
+          "en": "It's cold in winter.",
+          "cn": "冬天很冷。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U721",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "It's hot in summer.",
+          "cn": "夏天很热。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Yes, it's too hot. I don't like it.",
+          "cn": "是的，太热了。我不喜欢。"
+        },
+        {
+          "name": "Lee：",
+          "en": "It's cool in autumn.",
+          "cn": "秋天很凉爽。"
+        },
+        {
+          "name": "May：",
+          "en": "Yes, it's cool. I love it.",
+          "cn": "是的，很凉爽。我很喜欢。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U722",
+      "list": [
+        {
+          "en": "Four Suns",
+          "cn": "四个太阳"
+        },
+        {
+          "en": "In summer, I draw a green sun. It's cool now.",
+          "cn": "夏天，我画了一个绿色的太阳。现在凉爽了。"
+        },
+        {
+          "en": "In autumn, I draw a golden sun. The fruits are everywhere.",
+          "cn": "秋天，我画了一个金色的太阳。到处是水果。"
+        },
+        {
+          "en": "In winter, I draw a red sun. It's warm now.",
+          "cn": "冬天，我画了一个红色的太阳。现在暖和了。"
+        },
+        {
+          "en": "I draw a sun for spring. What color is it?",
+          "cn": "我为春天画了一个太阳。它是什么颜色的呢？"
+        }
+      ]
+    }
+  ]
+}

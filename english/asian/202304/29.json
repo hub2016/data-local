@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Can I help you? What can I do for you?",
+      "cn": "我能帮助您吗？"
+    },
+    {
+      "en": "check in/check out",
+      "cn": "登记入住/结账退房"
+    }
+  ]
+}

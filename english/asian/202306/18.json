@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Do you have a reservation, sir?",
+      "cn": "请问您订位了吗先生？"
+    },
+    {
+      "en": "No, I am afraid I don't.",
+      "cn": "没有。"
+    }
+  ]
+}

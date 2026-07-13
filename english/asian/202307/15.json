@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Please tell him to call me back.",
+      "cn": "请叫他给我回电话。"
+    },
+    {
+      "en": "Sorry, what's the number?",
+      "cn": "不好意思, 你的电话号码是多少？"
+    }
+  ]
+}

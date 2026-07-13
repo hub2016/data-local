@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Take the first left.",
+      "cn": "在第一个路口向左拐。"
+    },
+    {
+      "en": "It's opposite the bank.",
+      "cn": "它在银行对面。"
+    }
+  ]
+}

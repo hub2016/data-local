@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "There's a traffic jam. ",
+      "cn": "有点堵车。"
+    },
+    {
+      "en": "Sorry, I'm changing shift now.",
+      "cn": "对不起，我正赶去交班。"
+    }
+  ]
+}

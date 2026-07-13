@@ -1,0 +1,172 @@
+{
+  "title": "Unit 4：Family Members",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U411",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "Look at my family photos. This is my uncle.",
+          "cn": "看我的家庭照。这是我的叔叔。"
+        },
+        {
+          "name": "Lee：",
+          "en": "He is very tall.",
+          "cn": "他好高呀。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Yeah!",
+          "cn": "是的！"
+        },
+        {
+          "en": "uncle, uncle",
+          "cn": "叔叔，叔叔"
+        },
+        {
+          "en": "aunt, aunt",
+          "cn": "阿姨，阿姨"
+        },
+        {
+          "en": "cousin, cousin",
+          "cn": "表妹，表妹"
+        },
+        {
+          "en": "family, family",
+          "cn": "家庭，家庭"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U421",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "Look at my family.",
+          "cn": "看看我的家人。"
+        },
+        {
+          "name": "May：",
+          "en": "Who is she?",
+          "cn": "她是谁？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "She is my aunt.",
+          "cn": "她是我的阿姨。"
+        },
+        {
+          "name": "May：",
+          "en": "Who is he? Your brother?",
+          "cn": "他是谁？你的亲兄弟？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "No. he is my cousin.",
+          "cn": "不，他是我的堂兄弟。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Tick",
+      "mp3": "U422",
+      "list": [
+        {
+          "name": "A：",
+          "en": "Who is she?",
+          "cn": "她是谁？"
+        },
+        {
+          "name": "B：",
+          "en": "She is my cousin.",
+          "cn": "她是我的表妹。"
+        },
+        {
+          "name": "A：",
+          "en": "Who is he?",
+          "cn": "他是谁？"
+        },
+        {
+          "name": "B：",
+          "en": "He is my uncle.",
+          "cn": "他是我的叔叔。"
+        },
+        {
+          "name": "A：",
+          "en": "Who is she?",
+          "cn": "她是谁？"
+        },
+        {
+          "name": "B：",
+          "en": "She is my aunt.",
+          "cn": "她是我的阿姨。"
+        },
+        {
+          "en": "Look at the photo. My uncle, my aunt and me.",
+          "cn": "看这张照片。我叔叔，我阿姨和我。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U423",
+      "list": [
+        {
+          "name": "Girl：",
+          "en": "Who is he?",
+          "cn": "他是谁？"
+        },
+        {
+          "name": "Boy：",
+          "en": "He is my grandfather.",
+          "cn": "他是我的祖父。"
+        },
+        {
+          "name": "Girl：",
+          "en": "Who is she?",
+          "cn": "她是谁？"
+        },
+        {
+          "name": "Boy：",
+          "en": "She is my grandmother.",
+          "cn": "她是我的祖母。"
+        },
+        {
+          "name": "Girl：",
+          "en": "Who is she?",
+          "cn": "她是谁？"
+        },
+        {
+          "name": "Boy：",
+          "en": "She is my aunt.",
+          "cn": "她是我的阿姨。"
+        },
+        {
+          "name": "Girl：",
+          "en": "Who is he?",
+          "cn": "他是谁？"
+        },
+        {
+          "name": "Boy：",
+          "en": "He is my uncle.",
+          "cn": "他是我的叔叔。"
+        },
+        {
+          "name": "Boy：",
+          "en": "That is my cousin.",
+          "cn": "那是我的表弟。"
+        },
+        {
+          "name": "Both：",
+          "en": "What a happy family!",
+          "cn": "多么幸福的一家人！"
+        }
+      ]
+    }
+  ]
+}

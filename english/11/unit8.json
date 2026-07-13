@@ -1,0 +1,102 @@
+{
+  "title": "Unit 8：Food in Hangzhou",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U811",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "I'm in Hangzhou. I like Dongpo Pork.",
+          "cn": "我在杭州。我喜欢东坡肉。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "I'm in Hangzhou. I like Jiaohua Chicken.",
+          "cn": "我在杭州。我喜欢叫花鸡。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U821",
+      "list": [
+        {
+          "en": "pork, pork",
+          "cn": "猪肉，猪肉"
+        },
+        {
+          "en": "fish, fish",
+          "cn": "鱼肉，鱼肉"
+        },
+        {
+          "en": "chicken, chicken",
+          "cn": "鸡肉，鸡肉"
+        },
+        {
+          "en": "tea, tea",
+          "cn": "茶，茶"
+        },
+        {
+          "name": "May：",
+          "en": "I like pork. And you?",
+          "cn": "我喜欢猪肉。你呢？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "I like chicken.",
+          "cn": "我喜欢鸡肉。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U822",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "I like pork.",
+          "cn": "我喜欢猪肉。"
+        },
+        {
+          "name": "May：",
+          "en": "Me, too.",
+          "cn": "我也是。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "I like fish.",
+          "cn": "我喜欢鱼肉。"
+        },
+        {
+          "name": "May：",
+          "en": "Me, too.",
+          "cn": "我也是。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "I like chicken.",
+          "cn": "我喜欢鸡肉。"
+        },
+        {
+          "name": "May：",
+          "en": "Me, too.",
+          "cn": "我也是。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "And I like tea.",
+          "cn": "我还喜欢喝茶。"
+        },
+        {
+          "name": "May：",
+          "en": "Sorry, I don't.",
+          "cn": "抱歉，我不喜欢。"
+        }
+      ]
+    }
+  ]
+}

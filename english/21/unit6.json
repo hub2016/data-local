@@ -1,0 +1,118 @@
+{
+  "title": "Unit 6：Sports and Health",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U611",
+      "list": [
+        {
+          "name": "May：",
+          "en": "I like running.",
+          "cn": "我喜欢跑步。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Me, too.",
+          "cn": "我也是。"
+        },
+        {
+          "en": "running, running",
+          "cn": "跑步，跑步"
+        },
+        {
+          "en": "swimming, swimming",
+          "cn": "游泳，游泳"
+        },
+        {
+          "en": "jumping, jumping",
+          "cn": "跳，跳"
+        },
+        {
+          "en": "skipping, skipping",
+          "cn": "跳绳，跳绳"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U612",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "I like running. I can run fast.",
+          "cn": "我喜欢跑步。我能跑得很快。"
+        },
+        {
+          "name": "May：",
+          "en": "I like skipping. I can skip well.",
+          "cn": "我喜欢跳绳。我跳得很好。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "I like jumping. I can jump high.",
+          "cn": "我喜欢跳。我能跳得很高。"
+        },
+        {
+          "name": "All：",
+          "en": "We like sports. They're good for health.",
+          "cn": "我们喜欢运动。它们对健康有好处。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U621",
+      "list": [
+        {
+          "name": "May：",
+          "en": "I like skipping.",
+          "cn": "我喜欢跳绳。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Me, too. Let's go and play.",
+          "cn": "我也是。我们去玩吧。"
+        },
+        {
+          "name": "Lee：",
+          "en": "I like running.",
+          "cn": "我喜欢跑步。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Me, too. Let's go to the playground.",
+          "cn": "我也是。我们去操场吧。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Match",
+      "mp3": "U622",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "Hello! I'm Lee. I like running. I often run on the playground.",
+          "cn": "你好！我是李。我喜欢跑步。我经常在操场上跑步。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Hi! I'm Zhouzhou. I like jumping. I can jump very high.",
+          "cn": "嗨！我是州州。我喜欢跳。我能跳得很高。"
+        },
+        {
+          "name": "May：",
+          "en": "Hello! I'm May. I like skipping. I skip every day.",
+          "cn": "你好！我是梅，我喜欢跳绳。我每天都跳。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Hi! I'm Hanghang. I like swimming. I swim in a swimming pool.",
+          "cn": "嗨！我是杭杭。我喜欢游泳。我在游泳池游泳。"
+        }
+      ]
+    }
+  ]
+}

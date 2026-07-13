@@ -1,0 +1,162 @@
+{
+  "title": "Unit 3：Pets at Home",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U311",
+      "list": [
+        {
+          "name": "May：",
+          "en": "Good morning, Zhouzhou.",
+          "cn": "早上好，州州。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Morning, May.",
+          "cn": "早上好，梅。"
+        },
+        {
+          "name": "May：",
+          "en": "Look at my cat.",
+          "cn": "看我的猫。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "It's fat and funny.",
+          "cn": "它又胖又有趣。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Match",
+      "mp3": "U312",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "Hi, I'm Zhouzhou. Look at the bird. It's fat and funny.",
+          "cn": "嗨，我是州州，看这鸟。它又胖又有趣。"
+        },
+        {
+          "name": "May：",
+          "en": "Hello, I'm May. This is my fish. It's fat. I love it.",
+          "cn": "你好，我是梅。这是我的鱼。它很胖。我喜欢它。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "My name's Hanghang. I have a fat dog. I love my pet.",
+          "cn": "我叫杭杭。我有一只胖狗。我爱我的宠物。"
+        },
+        {
+          "name": "Lee：",
+          "en": "I'm Lee. Look at my cat. It's fat and big.",
+          "cn": "我是李。看我的猫。它又胖又大。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Sing",
+      "mp3": "U313",
+      "list": [
+        {
+          "en": "Two Little Fat Cats",
+          "cn": "两只小肥猫"
+        },
+        {
+          "en": "Two little fat cats sitting on a hat.",
+          "cn": "两只小肥猫坐在帽子上。"
+        },
+        {
+          "en": "One is Peter, one is Pat.",
+          "cn": "一只叫彼得，一只叫帕特。"
+        },
+        {
+          "en": "Run away, Peter. Run away, Pat.",
+          "cn": "走开，彼得。走开，帕特。"
+        },
+        {
+          "en": "Come back, Peter. Come back, Pat.",
+          "cn": "回来，彼得。回来，帕特。"
+        },
+        {
+          "en": "Two little fat cats sitting on a hat.",
+          "cn": "两只小肥猫坐在帽子上。"
+        },
+        {
+          "en": "One is Peter, one is Pat.",
+          "cn": "一只叫彼得，一只叫帕特。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U321",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "Hi, Hanghang.",
+          "cn": "嗨，杭杭。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Hi, Lee.",
+          "cn": "嗨，李。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Look at the dog.",
+          "cn": "看那只狗。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "It's thin.",
+          "cn": "它瘦瘦的。"
+        },
+        {
+          "en": "big, big",
+          "cn": "大，大"
+        },
+        {
+          "en": "small, small",
+          "cn": "小，小"
+        },
+        {
+          "en": "fat, fat",
+          "cn": "胖，胖"
+        },
+        {
+          "en": "thin, thin",
+          "cn": "瘦，瘦"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U322",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "Fat, fat, fat, My cat is fat.",
+          "cn": "胖，胖，胖，我的猫很胖。"
+        },
+        {
+          "name": "May：",
+          "en": "Thin, thin, thin, My cat is thin.",
+          "cn": "瘦，瘦，瘦，我的猫很瘦。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Big, big, big, My dog is big.",
+          "cn": "大，大，大，我的狗很大。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Small, small, small, My dog is small.",
+          "cn": "小，小，小，我的狗很小。"
+        }
+      ]
+    }
+  ]
+}

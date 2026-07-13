@@ -1,0 +1,139 @@
+{
+  "title": "Unit 6：Food and Health",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U611",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "I'd like a pizza.",
+          "cn": "我想要一个披萨。"
+        },
+        {
+          "name": "Shop assistant：",
+          "en": "What about you?",
+          "cn": "那你呢？"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "I'd like an apple pie.",
+          "cn": "我想要一个苹果派。"
+        },
+        {
+          "en": "burger, burger",
+          "cn": "汉堡，汉堡"
+        },
+        {
+          "en": "hot dog, hot dog",
+          "cn": "热狗，热狗"
+        },
+        {
+          "en": "pie, pie",
+          "cn": "馅饼，馅饼"
+        },
+        {
+          "en": "pizza, pizza",
+          "cn": "披萨，披萨"
+        }
+      ]
+    },
+    {
+      "title": "Look & Match",
+      "mp3": "U612",
+      "list": [
+        {
+          "en": "I'm Lee. I'm hungry. I'd like a pie.",
+          "cn": "我是李。我饿了。我想要一个馅饼。"
+        },
+        {
+          "en": "I'm Zhouzhou. I'm hungry. I'd like a pizza.",
+          "cn": "我是州州。我饿了。我想要一个披萨。"
+        },
+        {
+          "en": "I'm May. I'm hungry. I'd like a hot dog.",
+          "cn": "我是梅。我饿了。我想要一个热狗。"
+        },
+        {
+          "en": "I'm Hanghang. I'm hungry. I'd like a burger.",
+          "cn": "我是杭杭。我饿了。我想要一个汉堡。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U621",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "Mum, I'm hungry.",
+          "cn": "妈妈，我饿了。"
+        },
+        {
+          "name": "Lee's monther：",
+          "en": "Have a hot dog then.",
+          "cn": "那就吃热狗吧。"
+        },
+        {
+          "name": "Lee：",
+          "en": "OK. Thanks.",
+          "cn": "好的。谢谢。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U622",
+      "list": [
+        {
+          "name": "Narrator：",
+          "en": "Mr.Pig is very lazy. He always stays in bed.",
+          "cn": "猪先生很懒。它总是躺在床上。"
+        },
+        {
+          "name": "Mr.Pig：",
+          "en": "I'm hungry.",
+          "cn": "我饿了。"
+        },
+        {
+          "name": "Bird：",
+          "en": "Have a pizza, please.",
+          "cn": "请吃披萨。"
+        },
+        {
+          "name": "Mr.Pig：",
+          "en": "I'm hungry.",
+          "cn": "我饿了。"
+        },
+        {
+          "name": "Bird：",
+          "en": "Have a burger, please.",
+          "cn": "请吃汉堡。"
+        },
+        {
+          "name": "Mr.Pig：",
+          "en": "I'm hungry.",
+          "cn": "我饿了。"
+        },
+        {
+          "name": "Bird：",
+          "en": "Have a pie, please.",
+          "cn": "请吃馅饼。"
+        },
+        {
+          "name": "Mr.Pig：",
+          "en": "I'm not well.",
+          "cn": "我感觉不舒服。"
+        },
+        {
+          "name": "Dog：",
+          "en": "Oh, you eat too much.",
+          "cn": "噢，你吃太多啦。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "grade": 31,
+  "course": "senior",
+  "subTitle": "三年级起点",
+  "from": "人民教育出版社",
+  "mainTitle": "人教版三上英语PEP",
+  "units": [
+    {
+      "id": 1,
+      "title": "Unit 1 Hello!"
+    },
+    {
+      "id": 2,
+      "title": "Unit 2 Colours"
+    },
+    {
+      "id": 3,
+      "title": "Unit 3 Look me!"
+    },
+    {
+      "id": 4,
+      "title": "Recycle 1"
+    },
+    {
+      "id": 5,
+      "title": "Unit 4 We love animals"
+    },
+    {
+      "id": 6,
+      "title": "Unit 5 Let's eat!"
+    },
+    {
+      "id": 7,
+      "title": "Unit 6 Happy birthday!"
+    },
+    {
+      "id": 8,
+      "title": "Recycle 2"
+    }
+  ]
+}

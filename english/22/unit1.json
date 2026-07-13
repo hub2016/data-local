@@ -1,0 +1,120 @@
+{
+  "title": "Unit 1：Colors Around Us",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U111",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "Look! The sea is dark blue.",
+          "cn": "看！深蓝色的大海。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "The sky is light blue.",
+          "cn": "浅蓝色的天空。"
+        },
+        {
+          "en": "dark blue, dark blue",
+          "cn": "深蓝色，深蓝色"
+        },
+        {
+          "en": "light blue, light blue",
+          "cn": "浅蓝色，浅蓝色"
+        },
+        {
+          "en": "dark green, dark green",
+          "cn": "深绿色，深绿色"
+        },
+        {
+          "en": "light green, light green",
+          "cn": "浅绿色，浅绿色"
+        },
+        {
+          "en": "dark purple, dark purple",
+          "cn": "深紫色，深紫色"
+        },
+        {
+          "en": "light purple, light purple",
+          "cn": "浅紫色，浅紫色"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U121",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "The balloons are colorful. What color do you like, Zhouzhou?",
+          "cn": "五颜六色的气球。你喜欢什么颜色，州州？"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "I like light blue.",
+          "cn": "我喜欢浅蓝色。"
+        },
+        {
+          "name": "May：",
+          "en": "What about you, Hanghang?",
+          "cn": "你呢，杭杭？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "I like dark green.",
+          "cn": "我喜欢深绿色。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U122",
+      "list": [
+        {
+          "en": "What color do you like?",
+          "cn": "你喜欢什么颜色？"
+        },
+        {
+          "en": "I like green.",
+          "cn": "我喜欢绿色。"
+        },
+        {
+          "en": "I like running on the green grass.",
+          "cn": "我喜欢在绿色的草地上奔跑。"
+        },
+        {
+          "en": "What color do you like?",
+          "cn": "你喜欢什么颜色？"
+        },
+        {
+          "en": "I like blue.",
+          "cn": "我喜欢蓝色。"
+        },
+        {
+          "en": "I like swimming in the blue sea.",
+          "cn": "我喜欢在蓝色的海洋里游泳。"
+        },
+        {
+          "en": "What color do you like?",
+          "cn": "你喜欢什么颜色？"
+        },
+        {
+          "en": "I like purple.",
+          "cn": "我喜欢紫色。"
+        },
+        {
+          "en": "I like jumping on the purple bed.",
+          "cn": "我喜欢在紫色的床上跳来跳去。"
+        },
+        {
+          "en": "What color do YOU like?",
+          "cn": "你喜欢什么颜色？"
+        }
+      ]
+    }
+  ]
+}

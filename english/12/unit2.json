@@ -1,0 +1,151 @@
+{
+  "title": "Unit 2：Lets Count",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U211",
+      "list": [
+        {
+          "name": "Teacher：",
+          "en": "How many? Let's count.",
+          "cn": "有多少？让我们数一数。"
+        },
+        {
+          "name": "Students：",
+          "en": "One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen.",
+          "cn": "一，二，三，四，五，六，七，八，九，十，十一，十二，十三，十四，十五。"
+        },
+        {
+          "en": "eleven, eleven",
+          "cn": "十一，十一"
+        },
+        {
+          "en": "twelve, twelve",
+          "cn": "十二，十二"
+        },
+        {
+          "en": "thirteen, thirteen",
+          "cn": "十三，十三"
+        },
+        {
+          "en": "fourteen, fourteen",
+          "cn": "十四，十四"
+        },
+        {
+          "en": "fifteen, fifteen",
+          "cn": "十五，十五"
+        }
+      ]
+    },
+    {
+      "title": "Look & Sing",
+      "mp3": "U212",
+      "list": [
+        {
+          "en": "Here Are the Numbers",
+          "cn": "这是数字"
+        },
+        {
+          "en": "Here are the numbers, eleven to fifteen.",
+          "cn": "这是数字， 十一到十五。"
+        },
+        {
+          "en": "And here are the numbers, eleven to fifteen.",
+          "cn": "这是数字， 十一到十五。"
+        },
+        {
+          "en": "With numbers here, and numbers there.",
+          "cn": "这里有数字，那里有数字。"
+        },
+        {
+          "en": "Eleven, twelve, thirteen, fourteen, fifteen.",
+          "cn": "十一，十二，十三，十四，十五。"
+        },
+        {
+          "en": "Here are the numbers, eleven to fifteen.",
+          "cn": "这是数字， 十一到十五。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U221",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "I have candies.",
+          "cn": "我有糖果。"
+        },
+        {
+          "name": "Lee：",
+          "en": "How many?",
+          "cn": "有多少？"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Let's count.",
+          "cn": "让我们来数一数。"
+        },
+        {
+          "name": "Both：",
+          "en": "One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, twelve candies.",
+          "cn": "一，二，三，四，五，六，七，八，九，十，十一，十二，十二颗糖果。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Six for you, six for me.",
+          "cn": "六颗给你，六颗给我。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Listen",
+      "mp3": "U222",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "How many dogs？ Let's count.",
+          "cn": "有多少条狗？让我们来数一数。"
+        },
+        {
+          "name": "Zhouzhou & May：",
+          "en": "One, two, three, four, five, six, seven, eight, nine, ten, eleven, eleven dogs.",
+          "cn": "一，二，三，四，五，六，七，八，九，十，十一，十一条狗。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "How many apples？ Let's count.",
+          "cn": "有多少个苹果？让我们来数一数。"
+        },
+        {
+          "name": "Hanghang & Lee：",
+          "en": "One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, thirteen apples.",
+          "cn": "一，二，三，四，五，六，七，八，九，十，十一，十二，十三，十三个苹果。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "How many flowers？ Let's count.",
+          "cn": "有多少朵花？让我们来数一数。"
+        },
+        {
+          "name": "Zhouzhou & May：",
+          "en": "One, two, three, four, five, six, seven, seven flowers.",
+          "cn": "一，二，三，四，五，六，七，七朵花。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "How many fish？ Let's count.",
+          "cn": "有多少条鱼？让我们来数一数。"
+        },
+        {
+          "name": "Hanghang & May：",
+          "en": "One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, fifteen fish.",
+          "cn": "一，二，三，四，五，六，七，八，九，十，十一，十二，十三，十四，十五，十五条鱼。"
+        }
+      ]
+    }
+  ]
+}

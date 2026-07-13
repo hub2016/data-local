@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "How much is the entrance fee?",
+      "cn": "门票多少钱？"
+    },
+    {
+      "en": "Twenty yuan per person.",
+      "cn": "二十元一人。"
+    }
+  ]
+}

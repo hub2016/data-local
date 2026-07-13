@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "It's a nice day.",
+      "cn": "天气真好。"
+    },
+    {
+      "en": "What can I see in Hangzhou?",
+      "cn": "杭州有什么景点? "
+    }
+  ]
+}

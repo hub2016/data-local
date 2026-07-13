@@ -1,0 +1,146 @@
+{
+  "title": "Unit 3：Animals at the Zoo",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U311",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "I see a monkey. It's over there.",
+          "cn": "我看到了一只猴子。它在那里。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Wow! There is an elephant over there.",
+          "cn": "哇！那里有一头大象。"
+        },
+        {
+          "en": "panda, panda",
+          "cn": "熊猫，熊猫"
+        },
+        {
+          "en": "tiger, tiger",
+          "cn": "老虎，老虎"
+        },
+        {
+          "en": "monkey, monkey",
+          "cn": "猴子，猴子"
+        },
+        {
+          "en": "elephant, elephant",
+          "cn": "大象，大象"
+        }
+      ]
+    },
+    {
+      "title": "Look & Do",
+      "mp3": "U312",
+      "list": [
+        {
+          "en": "It's fat. It's black and white.",
+          "cn": "它很胖，黑白相间。"
+        },
+        {
+          "en": "What's this?",
+          "cn": "这是什么？"
+        },
+        {
+          "en": "It's very big. It's gray. It has a long nose.",
+          "cn": "它很大。是灰色的。还有长长的鼻子。"
+        },
+        {
+          "en": "What's this?",
+          "cn": "这是什么？"
+        },
+        {
+          "en": "It's brown. It likes peaches.",
+          "cn": "它是棕色的。喜欢吃桃子。"
+        },
+        {
+          "en": "What's this?",
+          "cn": "这是什么？"
+        },
+        {
+          "en": "It's yellow and black. It's strong.",
+          "cn": "它是黄色和黑色的。非常强壮。"
+        },
+        {
+          "en": "What's this?",
+          "cn": "这是什么？"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U321",
+      "list": [
+        {
+          "name": "May：",
+          "en": "Zhouzhou, I see a monkey and an elephant.",
+          "cn": "州州，我看到了一只猴子和一头大象"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Yeah. The monkey is small. And the elephant is big.",
+          "cn": "是的。猴子小。大象大。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Draw",
+      "mp3": "U322",
+      "list": [
+        {
+          "en": "I see a fish. The fish is small.",
+          "cn": "我看见一条鱼。这条鱼很小。"
+        },
+        {
+          "en": "Look at the bird. It's small.",
+          "cn": "看那只鸟。它很小。"
+        },
+        {
+          "en": "I see an elephant. It is very big.",
+          "cn": "我看见一头大象。它非常大。"
+        },
+        {
+          "en": "Look at the bird. It's big.",
+          "cn": "看那只鸟。它很大。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U323",
+      "list": [
+        {
+          "en": "I'm in the zoo. I see a panda.",
+          "cn": "我在动物园里。看到一只熊猫。"
+        },
+        {
+          "en": "Black and white, Fat and strong.",
+          "cn": "黑色和白色，又胖又强壮。"
+        },
+        {
+          "en": "You are in the zoo. You see a giraffe.",
+          "cn": "你在动物园里。你看到一只长颈鹿。"
+        },
+        {
+          "en": "Brown and yellow, Tall and thin.",
+          "cn": "棕色和黄色，又高又廋"
+        },
+        {
+          "en": "We are in the zoo. We see animals.",
+          "cn": "我们在动物园里。看到很多动物。"
+        },
+        {
+          "en": "Big, small, Cute and funny.",
+          "cn": "大的，小的，可爱的，有趣的。"
+        }
+      ]
+    }
+  ]
+}

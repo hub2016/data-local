@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "How much is the entrance fee?",
+      "cn": "门票是多少？"
+    },
+    {
+      "en": "How many tickets do you want?",
+      "cn": "你需要几张票？"
+    }
+  ]
+}

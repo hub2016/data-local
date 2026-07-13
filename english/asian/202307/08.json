@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Guess you have some trouble with that question, and here is the answer.",
+      "cn": "看起来你做不出这道题了，给，这是答案。"
+    },
+    {
+      "en": "Oh, it's very nice of you.",
+      "cn": "啊，你真好。"
+    }
+  ]
+}

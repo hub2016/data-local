@@ -1,0 +1,428 @@
+{
+  "title": "Unit Four We love animals",
+  "sound": true,
+  "path": "u4",
+  "lessons": [
+    {
+      "title": "We love animals",
+      "mp3": "1",
+      "list": [
+        {
+          "name": "Zoom：",
+          "en": "Look, a panda!",
+          "mp3": "dh/1",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "Look, Zoom!",
+          "mp3": "dh/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "What's that?",
+          "mp3": "dh/3",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "It's an elephant.",
+          "mp3": "dh/4",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Cool! I like it.",
+          "mp3": "dh/5",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "What's this?",
+          "mp3": "dh/6",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "It's a bear.",
+          "mp3": "dh/7",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "a/1",
+      "list": [
+        {
+          "name": "Wu Binbin：",
+          "en": "What's this?",
+          "mp3": "a/tk/1",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "It's a duck.",
+          "mp3": "a/tk/2",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "What's this?",
+          "mp3": "a/tk/1",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "It's a dog.",
+          "mp3": "a/tk/3",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "What's this?",
+          "mp3": "a/tk/4",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Oh, no! It's a bear!",
+          "mp3": "a/tk/5",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Oh, It's Zoom!",
+          "mp3": "a/tk/6",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "a/3",
+      "list": [
+        {
+          "name": "",
+          "en": "pig, pig",
+          "mp3": "a/le/1",
+          "cn": "猪"
+        },
+        {
+          "name": "",
+          "en": "bear, bear",
+          "mp3": "a/le/2",
+          "cn": "熊"
+        },
+        {
+          "name": "",
+          "en": "cat, cat",
+          "mp3": "a/le/3",
+          "cn": "猫"
+        },
+        {
+          "name": "",
+          "en": "duck, duck",
+          "mp3": "a/le/4",
+          "cn": "鸭子"
+        },
+        {
+          "name": "Sarah：",
+          "en": "It's a duck.",
+          "mp3": "a/le/6",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "dog, dog",
+          "mp3": "a/le/5",
+          "cn": "狗"
+        },
+        {
+          "name": "",
+          "en": "It's a dog.",
+          "mp3": "a/le/7",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's chant",
+      "mp3": "a/3",
+      "list": [
+        {
+          "name": "",
+          "en": "Look at the cat. It is fat.",
+          "mp3": "a/ch/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Look at the pig. It is big.",
+          "mp3": "a/ch/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Look at the dog. It's on the log.",
+          "mp3": "a/ch/3",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Look at the duck. It's in the truck.",
+          "mp3": "a/ch/4",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Look at the bear. It's on the pear. Oops!",
+          "mp3": "a/ch/5",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Letters and sounds",
+      "mp3": "",
+      "list": [
+        {
+          "name": "",
+          "en": "J-J-J-j-j-j-jeep-jump, K-K-K-k-k-k-kate-kite, L-L-L-l-l-l-long-leg, M-M-M-m-m-m-mum-milk, N-N-N-n-n-n-nose-noodles. J-J-J. Jump up high. K-K-K. Kick the sky. L-L-L. Look and see. M-M-M. Mum and me. N-N-N. Let's chant again. L-M-N. Let's chant again.",
+          "mp3": "a/4",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Jj Kk Ll Mm Nn",
+          "mp3": "a/5",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "j-jeep, j-jeep, l-leg, l-leg, k-kite, k-kite, m-milk, m-milk, n-nose, n-nose",
+          "mp3": "a/6",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "b/1",
+      "list": [
+        {
+          "name": "",
+          "en": "What's that?",
+          "mp3": "b/tk/1",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "A bear?",
+          "mp3": "b/tk/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "No! It's a panda.",
+          "mp3": "b/tk/3",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Look! A funny dog!",
+          "mp3": "b/tk/4",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Cool! I like it.",
+          "mp3": "b/tk/5",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "b/2",
+      "list": [
+        {
+          "name": "Zip：",
+          "en": "What's that?",
+          "mp3": "b/le/1",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "It's a tiger!",
+          "mp3": "b/le/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "zoo, zoo",
+          "mp3": "b/le/3",
+          "cn": "动物园"
+        },
+        {
+          "name": "",
+          "en": "bird, bird",
+          "mp3": "b/le/4",
+          "cn": "鸟"
+        },
+        {
+          "name": "",
+          "en": "panda, panda",
+          "mp3": "b/le/5",
+          "cn": "熊猫"
+        },
+        {
+          "name": "",
+          "en": "tiger, tiger",
+          "mp3": "b/le/6",
+          "cn": "老虎"
+        },
+        {
+          "name": "",
+          "en": "elephant, elephant",
+          "mp3": "b/le/7",
+          "cn": "大象"
+        },
+        {
+          "name": "",
+          "en": "monkey, monkey",
+          "mp3": "b/le/8",
+          "cn": "猴子"
+        }
+      ]
+    },
+    {
+      "title": "Let's do",
+      "mp3": "b/3",
+      "list": [
+        {
+          "name": "Mike：",
+          "en": "Act like an elephant. Act like an elephant.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Act like a bird. Act like a bird.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Act like a tiger. Act like a tiger.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "Act like a monkey. Act like a monkey.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Act like a panda. Act like a panda.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's check",
+      "mp3": "b/5",
+      "list": [
+        {
+          "name": "",
+          "en": "What's this? It's a monkey.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "What's that? It's a teddy bear.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Look that panda. I like it.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I have an orange bird. Wow!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's sing",
+      "subtit": "Old MacDonald",
+      "mp3": "b/4",
+      "list": [
+        {
+          "name": "",
+          "en": "Old MacDonald had a farm, E-I-E-I-O. And on that farm he had some ducks, E-I-E-I-O. With quack quack here and a quack quack there, Here a quack, there a quack, everywhere a quack quack. Old MacDonald had a farm, E-I-E-I-O.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Old MacDonald had a farm, E-I-E-I-O. And on that farm he had some ducks, E-I-E-I-O. With quack quack here and a quack quack there, Here a quack, there a quack, everywhere a quack quack. Old MacDonald had a farm, E-I-E-I-O.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Story time",
+      "mp3": "c/1",
+      "list": [
+        {
+          "name": "Zoom：",
+          "en": "Hello, Pig! Follow me!",
+          "mp3": "c/dh/1",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Hello, Dog! Follow Pig. Follow me!",
+          "mp3": "c/dh/2",
+          "cn": ""
+        },
+        {
+          "name": "Dog：",
+          "en": "Hello, Duck! Follow Zoom. Follow Pig. Follow me!",
+          "mp3": "c/dh/3",
+          "cn": ""
+        },
+        {
+          "name": "Duck：",
+          "en": "Hello, Rabbit! Follow Zoom. Follow Pig. Follow Dog. Follow me!",
+          "mp3": "c/dh/4",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I have a carrot. Follow me!",
+          "mp3": "c/dh/5",
+          "cn": ""
+        },
+        {
+          "name": "Rabbit：",
+          "en": "Follow Zip! Follow me!",
+          "mp3": "c/dh/6",
+          "cn": ""
+        }
+      ]
+    }
+  ]
+}

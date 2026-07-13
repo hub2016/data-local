@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Is there something I can help you with?",
+      "cn": "我能帮上你什么忙吗？"
+    },
+    {
+      "en": "No. I'll figure it out.",
+      "cn": "不用了。我会搞定的。"
+    }
+  ]
+}

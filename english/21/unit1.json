@@ -1,0 +1,150 @@
+{
+  "title": "Unit 1：Colors Around Us",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U111",
+      "list": [
+        {
+          "name": "May：",
+          "en": "I have a new pet.",
+          "cn": "我有一只新宠物。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Really? What is it?",
+          "cn": "真的吗？它是什么？"
+        },
+        {
+          "name": "May：",
+          "en": "It's a dog.",
+          "cn": "它是一只狗。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "What color is it?",
+          "cn": "它是什么颜色呢？"
+        },
+        {
+          "name": "May：",
+          "en": "It's white.",
+          "cn": "它是白色的。"
+        },
+        {
+          "en": "gray, gray",
+          "cn": "灰色，灰色"
+        },
+        {
+          "en": "black, black",
+          "cn": "黑色，黑色"
+        },
+        {
+          "en": "white, white",
+          "cn": "白色，白色"
+        }
+      ]
+    },
+    {
+      "title": "Look & Number",
+      "mp3": "U112",
+      "list": [
+        {
+          "en": "It's black and white. It's fat.",
+          "cn": "它是黑白相间的。还很胖。"
+        },
+        {
+          "en": "It's so big. It's gray.",
+          "cn": "它很大。是灰色的"
+        },
+        {
+          "en": "It's white. It's lovely.",
+          "cn": "它是白色的。很可爱。"
+        },
+        {
+          "en": "It's black. It's small and cute.",
+          "cn": "它是黑色的。又小又可爱。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U121",
+      "list": [
+        {
+          "name": "May：",
+          "en": "What do you see?",
+          "cn": "你看到了什么？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "I see a red bird.",
+          "cn": "我看到了一只红色的鸟。"
+        },
+        {
+          "name": "May：",
+          "en": "Let me have a look.",
+          "cn": "让我来看一下。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "What do you see?",
+          "cn": "你看到了什么？"
+        },
+        {
+          "name": "May：",
+          "en": "I see a white bird.",
+          "cn": "我看到了一只白色的鸟。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Match",
+      "mp3": "U122",
+      "list": [
+        {
+          "name": "Teacher：",
+          "en": "Hi, May. What do you see?",
+          "cn": "嗨，梅。你看到了什么？"
+        },
+        {
+          "name": "May：",
+          "en": "I see an orange cat.",
+          "cn": "我看到了一只橙色的猫。"
+        },
+        {
+          "name": "Teacher：",
+          "en": "Hi, Hanghang. What do you see?",
+          "cn": "嗨，杭杭。你看到了什么？"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "I see a red apple.",
+          "cn": "我看到了一个红苹果。"
+        },
+        {
+          "name": "Teacher：",
+          "en": "Hi, Lee. What do you see?",
+          "cn": "嗨，李。你看到了什么？"
+        },
+        {
+          "name": "Lee：",
+          "en": "I see a gray dog.",
+          "cn": "我看到了一只灰色的狗。"
+        },
+        {
+          "name": "Teacher：",
+          "en": "Hi, Zhouzhou. What do you see?",
+          "cn": "嗨，州州。你看到了什么？"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "I see a green kiwi.",
+          "cn": "我看到了一个绿色的猕猴桃。"
+        }
+      ]
+    }
+  ]
+}

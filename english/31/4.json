@@ -1,0 +1,104 @@
+{
+  "title": "Recycle 1",
+  "sound": true,
+  "path": "r1",
+  "lessons": [
+    {
+      "title": "Read aloud",
+      "mp3": "1",
+      "list": [
+        {
+          "name": "Mike & John：",
+          "en": "Morning!",
+          "mp3": "re/1",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Good morning. I'm Chen Jie. This is Sarah.",
+          "mp3": "re/2",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "I'm Zoom.",
+          "mp3": "re/3",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "My name's Zip",
+          "mp3": "re/4",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "White hands?",
+          "mp3": "re/5",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Brown arms?",
+          "mp3": "re/6",
+          "cn": ""
+        },
+        {
+          "name": "Zoom & Zip：",
+          "en": "Hello!",
+          "mp3": "re/7",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Look! Zoom and Zip!",
+          "mp3": "re/8",
+          "cn": ""
+        },
+        {
+          "name": "Mike & John：",
+          "en": "Bye!",
+          "mp3": "re/9",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Hey!",
+          "mp3": "re/10",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Listen and colour",
+      "mp3": "3",
+      "list": [
+        {
+          "name": "",
+          "en": "Look and tick",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's sing",
+      "subtit": "How are you?",
+      "mp3": "2",
+      "list": [
+        {
+          "name": "",
+          "en": "Hello, Mike. Hello, Chen Jie. Hello, hello! How are you? This is Mary. This is Willy. Nice to meet you. How are you? I'm fine. I'm fine. Thank you, thank you very much. I'm fine. I'm fine. Thank you, thank you very much.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Hello, Mike. Hello, Chen Jie. Hello, hello! How are you? This is Mary. This is Willy. Nice to meet you. How are you? I'm fine. I'm fine. Thank you, thank you very much. I'm fine. I'm fine. Thank you, thank you very much.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    }
+  ]
+}

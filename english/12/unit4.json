@@ -1,0 +1,115 @@
+{
+  "title": "Unit 4：Family Members",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U411",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "This is my sister. She is lovely.",
+          "cn": "这是我妹妹。她很可爱。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "This is my brother. He is tall.",
+          "cn": "这是我兄弟。他很高。"
+        },
+        {
+          "en": "sister, sister",
+          "cn": "妹妹，妹妹"
+        },
+        {
+          "en": "brother, brother",
+          "cn": "兄弟，兄弟"
+        }
+      ]
+    },
+    {
+      "title": "Look & Tick",
+      "mp3": "U412",
+      "list": [
+        {
+          "en": "This is my sister. She is lovely.",
+          "cn": "这是我妹妹。她很可爱。"
+        },
+        {
+          "en": "This is my grandma. She is old.",
+          "cn": "这是我奶奶。她老了。"
+        },
+        {
+          "en": "He's very lovely. He's my baby brother.",
+          "cn": "他很可爱。他是我的小弟弟。"
+        },
+        {
+          "en": "This is my dad. He is very tall.",
+          "cn": "这是我的爸爸。他很高。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Play",
+      "mp3": "U413",
+      "list": [
+        {
+          "en": "I'm Daddy Finger. Good afternoon!",
+          "cn": "我是手指爸爸。下午好！"
+        },
+        {
+          "en": "I'm Mummy Finger. Hello!",
+          "cn": "我是手指妈妈。你好！"
+        },
+        {
+          "en": "I'm Sister Finger. Hi!",
+          "cn": "我是手指妹妹。嗨！"
+        },
+        {
+          "en": "I'm Brother Finger. Hello!",
+          "cn": "我是手指弟弟。你好！"
+        },
+        {
+          "en": "I'm Cat Finger. Meow!",
+          "cn": "我是手指猫。喵！"
+        },
+        {
+          "en": "Have a good day.",
+          "cn": "祝您今天过得愉快。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U421",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "This is my dad. He is tall.",
+          "cn": "这是我的爸爸。他很高。"
+        },
+        {
+          "en": "It's me. I'm short.",
+          "cn": "这是我。我很矮。"
+        },
+        {
+          "en": "They are my grandpa and grandma. They are old.",
+          "cn": "他们是我的爷爷和奶奶。他们老了。"
+        },
+        {
+          "en": "tall, tall",
+          "cn": "高，高"
+        },
+        {
+          "en": "short, short",
+          "cn": "矮，矮"
+        },
+        {
+          "en": "old, old",
+          "cn": "老，老"
+        }
+      ]
+    }
+  ]
+}

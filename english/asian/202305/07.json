@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "What would you like to have?",
+      "cn": "你们想吃些什么？"
+    },
+    {
+      "en": "Would you like drinks? ",
+      "cn": "您想要饮料吗？"
+    }
+  ]
+}

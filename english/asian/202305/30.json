@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Would you take a picture of me?",
+      "cn": "你能帮我照张相吗？"
+    },
+    {
+      "en": "May I take a picture of you?",
+      "cn": "我可以给你照张相吗？"
+    }
+  ]
+}

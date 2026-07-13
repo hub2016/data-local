@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "You have to change lines.",
+      "cn": "你需要换乘。"
+    },
+    {
+      "en": "Please to Line 7 at Middle Qingliu Road.",
+      "cn": "请在青六中路转7号线。"
+    }
+  ]
+}

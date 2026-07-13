@@ -1,0 +1,185 @@
+{
+  "title": "Unit 3：Animals at the Zoo",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U311",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "Look at the bear. It's big and brown. I like it.",
+          "cn": "看看这只熊。它又大又是棕色的。我喜欢它。"
+        },
+        {
+          "en": "bear, bear",
+          "cn": "熊，熊"
+        },
+        {
+          "en": "fox, fox",
+          "cn": "狐狸，狐狸"
+        },
+        {
+          "en": "rabbit, rabbit",
+          "cn": "兔子，兔子"
+        },
+        {
+          "en": "lion, lion",
+          "cn": "狮子，狮子"
+        },
+        {
+          "en": "giraffe, giraffe",
+          "cn": "长颈鹿，长颈鹿"
+        }
+      ]
+    },
+    {
+      "title": "Look & Do",
+      "mp3": "U312",
+      "list": [
+        {
+          "name": "May：",
+          "en": "Act like a panda.",
+          "cn": "扮演一只熊猫。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Act like a tiger.",
+          "cn": "扮演一只老虎。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Act like a bear.",
+          "cn": "扮演一只熊。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Act like a rabbit.",
+          "cn": "扮演一只兔子。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U313",
+      "list": [
+        {
+          "name": "Narrator：",
+          "en": "Fat bear, fat bear, what do you see.",
+          "cn": "胖熊，胖熊，你看到了什么。"
+        },
+        {
+          "name": "Bear：",
+          "en": "I see a thin monkey looking at me.",
+          "cn": "我看见一只瘦猴在看我。"
+        },
+        {
+          "name": "Narrator：",
+          "en": "Thin monkey, thin monkey, what do you see.",
+          "cn": "瘦猴，瘦猴，你看到了什么。"
+        },
+        {
+          "name": "Monkey：",
+          "en": "I see a big lion looking at me.",
+          "cn": "我看见一只大狮子在看我。"
+        },
+        {
+          "name": "Narrator：",
+          "en": "Big lion, big lion, what do you see.",
+          "cn": "大狮子，大狮子，你看到了什么。"
+        },
+        {
+          "name": "Lion：",
+          "en": "I see children looking at me.",
+          "cn": "我看到孩子们在看我。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U321",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "I see a giraffe. It's tall and thin. I like it.",
+          "cn": "我看见一只长颈鹿。它又高又瘦。我喜欢它。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "I like the fox. It's small and brown.",
+          "cn": "我喜欢狐狸。它又小又是棕色的。"
+        },
+        {
+          "name": "May：",
+          "en": "I like the rabbit over there. It's lovely.",
+          "cn": "我喜欢那边的兔子。真可爱。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Number",
+      "mp3": "U322",
+      "list": [
+        {
+          "en": "I see a lion. It's brown and big.",
+          "cn": "我看见一只狮子。它是棕色的，又大。"
+        },
+        {
+          "en": "Look at the rabbit. It's white and beautiful.",
+          "cn": "看那只兔子。它又白又美丽。"
+        },
+        {
+          "en": "I see an tall giraffe. It's yellow and brown. I like it.",
+          "cn": "我看见一只高高的长颈鹿。它是黄色和棕色的。我喜欢它。"
+        },
+        {
+          "en": "I like the fox over there. It's small and lovely.",
+          "cn": "我喜欢那边的狐狸。它又小又可爱。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Act",
+      "mp3": "U323",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "I see a fox. It's small and thin.",
+          "cn": "我看见一只狐狸。它又小又瘦。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "I see a bear. It's fat and brown.",
+          "cn": "我看见一只熊。它又肥又是棕色的。"
+        },
+        {
+          "name": "May：",
+          "en": "I see a elephant. It's big and gray.",
+          "cn": "我看见一头大象。它又大又是灰色的。"
+        },
+        {
+          "name": "Lee：",
+          "en": "I see a panda. It's black and white.",
+          "cn": "我看到一只熊猫。它是黑白相间的。"
+        },
+        {
+          "name": "Boy：",
+          "en": "I see a tiger. It's strong.",
+          "cn": "我看见一只老虎。它很强壮。"
+        },
+        {
+          "name": "Tiger：",
+          "en": "Roar!",
+          "cn": "吼叫！"
+        },
+        {
+          "name": "Children：",
+          "en": "Oh! no!",
+          "cn": "噢！不！"
+        }
+      ]
+    }
+  ]
+}

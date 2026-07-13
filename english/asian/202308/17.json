@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "What is your plan?",
+      "cn": "你的计划是什么？"
+    },
+    {
+      "en": "What can you see?",
+      "cn": "你能看见什么？"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Your passport, please.",
+      "cn": "请出示您的护照。"
+    },
+    {
+      "en": "Your phone number, please.",
+      "cn": "请出示您的电话号码。"
+    }
+  ]
+}

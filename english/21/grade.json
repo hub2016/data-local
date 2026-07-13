@@ -1,0 +1,41 @@
+{
+  "grade": 21,
+  "course": "english",
+  "subTitle": "小学英语二年级上册",
+  "from": "杭州出版社",
+  "mainTitle": "English for KIDS.Grade 2.A",
+  "units": [
+    {
+      "id": 1,
+      "title": "Colors Around Us"
+    },
+    {
+      "id": 2,
+      "title": "Numbers in Life"
+    },
+    {
+      "id": 3,
+      "title": "Animals at the Zoo"
+    },
+    {
+      "id": 4,
+      "title": "Family Members"
+    },
+    {
+      "id": 5,
+      "title": "Toys at Home"
+    },
+    {
+      "id": 6,
+      "title": "Sports and Health"
+    },
+    {
+      "id": 7,
+      "title": "Festival Each Season"
+    },
+    {
+      "id": 8,
+      "title": "Scenery in Hangzhou"
+    }
+  ]
+}

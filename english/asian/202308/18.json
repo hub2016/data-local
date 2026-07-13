@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Which is the right size?",
+      "cn": "哪个尺码是对的？"
+    },
+    {
+      "en": "Did you miss the bus?",
+      "cn": "你错过公共汽车了？"
+    }
+  ]
+}

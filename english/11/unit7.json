@@ -1,0 +1,130 @@
+{
+  "title": "Unit 7：Seasons in a Year",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U711",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "It's autumn. It's yellow.",
+          "cn": "现在是秋天。它是黄色的。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Yes. I like autumn.",
+          "cn": "是的。我喜欢秋天。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "It's winter. It's white.",
+          "cn": "现在是冬天。它是白色的。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Wow, It's so white.",
+          "cn": "哇，真白。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Sing",
+      "mp3": "U712",
+      "list": [
+        {
+          "en": "The Seasons Song",
+          "cn": "季节之歌"
+        },
+        {
+          "en": "Summer, winter, Spring and fall.",
+          "cn": "夏天，冬天，春天和秋天。"
+        },
+        {
+          "en": "Spring and fall, Spring and fall.",
+          "cn": "春天和秋天，春天和秋天。"
+        },
+        {
+          "en": "Summer, winter, Spring and fall,",
+          "cn": "夏天，冬天，春天和秋天，"
+        },
+        {
+          "en": "Oh, I like them all!",
+          "cn": "哦，我都喜欢！"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U721",
+      "list": [
+        {
+          "en": "spring, spring",
+          "cn": "春天，春天"
+        },
+        {
+          "en": "summer, summer",
+          "cn": "夏天，夏天"
+        },
+        {
+          "en": "autumn, autumn",
+          "cn": "秋天，秋天"
+        },
+        {
+          "en": "winter, winter",
+          "cn": "冬天，冬天"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "It's red and green in summer.",
+          "cn": "夏天是红色和绿色的。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "It's white in winter.",
+          "cn": "冬天是白色的。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U722",
+      "list": [
+        {
+          "en": "Spring, spring, spring, Spring is pink.",
+          "cn": "春天，春天，春天，春天是粉色的。"
+        },
+        {
+          "en": "Look, look, look! The flower is pink.",
+          "cn": "看，看，看！花是粉色的。"
+        },
+        {
+          "en": "Summer, summer, summer, Summer is green.",
+          "cn": "夏天，夏天，夏天，夏天是绿色的。"
+        },
+        {
+          "en": "Look, look, look! The tree is green.",
+          "cn": "看，看，看！树是绿色的。"
+        },
+        {
+          "en": "Autumn, autumn, autumn, Autumn is yellow.",
+          "cn": "秋天，秋天，秋天，秋天是黄色的。"
+        },
+        {
+          "en": "Look, look, look! The leaf is yellow.",
+          "cn": "看，看，看！落叶是黄色的。"
+        },
+        {
+          "en": "Winter, winter, winter, Winter is white.",
+          "cn": "冬天，冬天，冬天，冬天是白色的。"
+        },
+        {
+          "en": "Look, look, look! The snow is white.",
+          "cn": "看，看，看！雪是白色的。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Here you are. What kind of food do you like?",
+      "cn": "给您。你喜欢吃什么菜？"
+    },
+    {
+      "en": "Oh, This is my first time to Hangzhou. I'd like to try some local cuisines. What would you recommend, waiter.",
+      "cn": "这是我第一次来杭州，我想吃一点当地菜。您给我推荐什么呢，服务生。"
+    }
+  ]
+}

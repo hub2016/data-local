@@ -1,0 +1,94 @@
+{
+  "title": "Unit 7：Festival Each Season",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U711",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "The Mid-Autumn Day is in autumn. We eat mooncakes",
+          "cn": "中秋节在秋天。我们吃月饼。"
+        },
+        {
+          "name": "May：",
+          "en": "It's interesting!",
+          "cn": "真有趣！"
+        },
+        {
+          "en": "Mid-Autumn Day, Mid-Autumn Day",
+          "cn": "中秋节，中秋节"
+        },
+        {
+          "en": "have a big dinner, have a big dinner",
+          "cn": "吃大餐，吃大餐"
+        },
+        {
+          "en": "admire the moon, admire the moon",
+          "cn": "赏月，赏月"
+        }
+      ]
+    },
+    {
+      "title": "Look & Read",
+      "mp3": "U712",
+      "list": [
+        {
+          "en": "It's autumn. The Mid-Autumn Day is coming.",
+          "cn": "现在是秋天。中秋节快到了。"
+        },
+        {
+          "en": "We listen to the story.",
+          "cn": "我们听故事。"
+        },
+        {
+          "en": "And we have a big dinner together.",
+          "cn": "我们一起吃了一顿丰盛的晚餐。"
+        },
+        {
+          "en": "Then we admire the moon.",
+          "cn": "然后我们赏月。"
+        },
+        {
+          "en": "And we eat mooncakes.",
+          "cn": "我们吃月饼。"
+        },
+        {
+          "en": "How interesting!",
+          "cn": "真有趣！"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U721",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "The Spring Festival is in winter. We eat spring rolls.",
+          "cn": "春节在冬天。我们吃春卷。"
+        },
+        {
+          "name": "May：",
+          "en": "Spring rolls? Cool!",
+          "cn": "春卷？太酷了！"
+        },
+        {
+          "en": "Spring Festival, Spring Festival",
+          "cn": "春节，春节"
+        },
+        {
+          "en": "clean the house, clean the house",
+          "cn": "打扫房子，打扫房子"
+        },
+        {
+          "en": "visit friends, visit friends",
+          "cn": "拜访朋友，拜访朋友"
+        }
+      ]
+    }
+  ]
+}

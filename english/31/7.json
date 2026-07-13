@@ -1,0 +1,380 @@
+{
+  "title": "Unit Six Happy birthday!",
+  "sound": true,
+  "path": "u6",
+  "lessons": [
+    {
+      "title": "Happy birthday!",
+      "mp3": "1",
+      "list": [
+        {
+          "name": "Mike：",
+          "en": "How old are you?",
+          "mp3": "dh/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I'm six.",
+          "mp3": "dh/2",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Happy birthday!",
+          "mp3": "dh/3",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "1,2...",
+          "mp3": "dh/4",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "a/1",
+      "list": [
+        {
+          "name": "",
+          "en": "This one, please.",
+          "mp3": "a/tk/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Sure. How many plates?",
+          "mp3": "a/tk/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Five.",
+          "mp3": "a/tk/3",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "OK. Here you are.",
+          "mp3": "a/tk/4",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "a/2",
+      "list": [
+        {
+          "name": "Chen Jie：",
+          "en": "1,2,3,4,5",
+          "mp3": "a/le/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "one, one",
+          "mp3": "a/le/2",
+          "cn": "1"
+        },
+        {
+          "name": "",
+          "en": "two, two",
+          "mp3": "a/le/3",
+          "cn": "2"
+        },
+        {
+          "name": "",
+          "en": "three, three",
+          "mp3": "a/le/4",
+          "cn": "3"
+        },
+        {
+          "name": "",
+          "en": "four, four",
+          "mp3": "a/le/5",
+          "cn": "4"
+        },
+        {
+          "name": "",
+          "en": "five, five",
+          "mp3": "a/le/6",
+          "cn": "5"
+        }
+      ]
+    },
+    {
+      "title": "Let's chant",
+      "mp3": "a/3",
+      "list": [
+        {
+          "name": "",
+          "en": "Jump! Jump! Jump! One, two, three.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Jump! Jump! Jump! Three, two, one.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Four and five! Four and five!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Jump up high! Jump up high!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Five! Four! Three, two, one!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Jump! Jump! It's so fun!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Letters and sounds",
+      "mp3": "",
+      "list": [
+        {
+          "name": "",
+          "en": "U-U-U-u-u-u-umbrella-under, V-V-V-v-v-v-vet-vest, W-W-W-w-w-w-wet-water, X-X-X-x-x-x-fox-box, Y-Y-Y-y-y-y-yellow-yo-yo, Z-Z-Z-z-z-z-zoo-Zip.",
+          "mp3": "a/4",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "v-vest, y-yellow, x-six, z-zoo, w-water",
+          "mp3": "a/5",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Uu Vv Ww Xx Yy Zz",
+          "mp3": "a/6",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "b/1",
+      "list": [
+        {
+          "name": "Sarah：",
+          "en": "John, this is my brother, Sam.",
+          "mp3": "b/tk/1",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "Hi, Sam. Happy birthday!",
+          "mp3": "b/tk/2",
+          "cn": ""
+        },
+        {
+          "name": "Sam：",
+          "en": "Thank you.",
+          "mp3": "b/tk/3",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "How old are you?",
+          "mp3": "b/tk/4",
+          "cn": ""
+        },
+        {
+          "name": "Sam：",
+          "en": "I'm six years old.",
+          "mp3": "b/tk/5",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "b/2",
+      "list": [
+        {
+          "name": "Li Li：",
+          "en": "I'm six years old.",
+          "mp3": "b/le/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "six, six",
+          "mp3": "b/le/2",
+          "cn": "6"
+        },
+        {
+          "name": "",
+          "en": "seven, seven",
+          "mp3": "b/le/3",
+          "cn": "7"
+        },
+        {
+          "name": "",
+          "en": "eight, eight",
+          "mp3": "b/le/4",
+          "cn": "8"
+        },
+        {
+          "name": "",
+          "en": "nine, nine",
+          "mp3": "b/le/5",
+          "cn": "9"
+        },
+        {
+          "name": "",
+          "en": "ten, ten",
+          "mp3": "b/le/6",
+          "cn": "10"
+        }
+      ]
+    },
+    {
+      "title": "Let's do",
+      "mp3": "b/3",
+      "list": [
+        {
+          "name": "Sarah：",
+          "en": "Show me six. Show me six.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Show me seven. Show me seven.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "Show me eight. Show me eight.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Show me nine. Show me nine.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Show me ten. Show me ten.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's check",
+      "mp3": "b/4",
+      "list": [
+        {
+          "name": "",
+          "en": "How many cats? Seven.",
+          "mp3": "b/ch/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Happy birthday. Thanks.",
+          "mp3": "b/ch/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "How many books? Two.",
+          "mp3": "b/ch/3",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "How old are you? I'm four.",
+          "mp3": "b/ch/4",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's sing",
+      "subtit": "Ten little candles",
+      "mp3": "b/5",
+      "list": [
+        {
+          "name": "",
+          "en": "One little, two little, three little candles, Four little, five little, six little candles, Seven little, eight little, nine little candles, Ten little candles dancing.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "One little, two little, three little candles, Four little, five little, six little candles, Seven little, eight little, nine little candles, Ten little candles dancing.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Story time",
+      "mp3": "c/1",
+      "list": [
+        {
+          "name": "",
+          "en": "I have two gifts.",
+          "mp3": "c/dh/1",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Shh! There's Zoom!",
+          "mp3": "c/dh/2",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Surprise!",
+          "mp3": "c/dh/3",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Happy birthday!",
+          "mp3": "c/dh/4",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Thank you. Let's eat the cake!",
+          "mp3": "c/dh/5",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "1,2,3... I see so many candles. You are old!",
+          "mp3": "c/dh/6",
+          "cn": ""
+        }
+      ]
+    }
+  ]
+}

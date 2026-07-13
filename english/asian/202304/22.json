@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "It's about a ten-minute drive to Hospital.",
+      "cn": "到医院开车大概十分钟。"
+    },
+    {
+      "en": "It's a five-minute walk.",
+      "cn": "走路五分钟。"
+    }
+  ]
+}

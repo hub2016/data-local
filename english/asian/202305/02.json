@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Please don't smoke in the room.",
+      "cn": "请不要在房间内吸烟。"
+    },
+    {
+      "en": "One moment, please.",
+      "cn": "请稍等片刻。"
+    }
+  ]
+}

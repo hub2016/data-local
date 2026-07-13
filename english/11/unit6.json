@@ -1,0 +1,113 @@
+{
+  "title": "Unit 6：Food and Health",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U611",
+      "list": [
+        {
+          "name": "Zhouzhou：",
+          "en": "This is an apple. It's red.",
+          "cn": "这是一个苹果。它是红色的。"
+        },
+        {
+          "name": "Lee：",
+          "en": "This is an mango. It's yellow.",
+          "cn": "这是一个芒果。它是黄色的。"
+        },
+        {
+          "en": "apple, apple",
+          "cn": "苹果，苹果"
+        },
+        {
+          "en": "mango, mango",
+          "cn": "芒果，芒果"
+        },
+        {
+          "en": "orange, orange",
+          "cn": "桔子，桔子"
+        },
+        {
+          "en": "kiwi, kiwi",
+          "cn": "猕猴桃，猕猴桃"
+        }
+      ]
+    },
+    {
+      "title": "Look & Paint",
+      "mp3": "U612",
+      "list": [
+        {
+          "name": "May：",
+          "en": "This is an apple. It's green.",
+          "cn": "这是一个苹果。它是绿色的。"
+        },
+        {
+          "name": "May：",
+          "en": "This is an mango. It's yellow and red.",
+          "cn": "这是一个苹果。它是黄色和红色的。"
+        },
+        {
+          "name": "May：",
+          "en": "This is an kiwi. It's green.",
+          "cn": "这是一个猕猴桃。它是绿色的。"
+        },
+        {
+          "name": "May：",
+          "en": "This is an orange. It's orange.",
+          "cn": "这是一个桔子。它是橙色的。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Sing",
+      "mp3": "U613",
+      "list": [
+        {
+          "en": "An Apple a Day",
+          "cn": "一天一个苹果"
+        },
+        {
+          "en": "An apple a day keeps the doctor away.",
+          "cn": "一天一个苹果，医生远离我。"
+        },
+        {
+          "en": "An apple a day keeps the doctor away.",
+          "cn": "一天一个苹果，医生远离我。"
+        },
+        {
+          "en": "An apple a day keeps the doctor away.",
+          "cn": "一天一个苹果，医生远离我。"
+        },
+        {
+          "en": "A-P-P-L-E, apple.",
+          "cn": "A-P-P-L-E，苹果。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U621",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "What's this?",
+          "cn": "这是什么？"
+        },
+        {
+          "name": "Lee：",
+          "en": "It's a kiwi.",
+          "cn": "是一个猕猴桃。"
+        },
+        {
+          "name": "Hanghang：",
+          "en": "Yes. It's good for you.",
+          "cn": "是的，它对你有好处。"
+        }
+      ]
+    }
+  ]
+}

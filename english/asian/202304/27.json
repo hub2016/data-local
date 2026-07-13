@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "What is the next stop？",
+      "cn": "下站是哪个站？"
+    },
+    {
+      "en": "There's a traffic jam.",
+      "cn": "有点堵车。"
+    }
+  ]
+}

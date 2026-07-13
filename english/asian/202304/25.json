@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Which subway line goes to Wenze Road？",
+      "cn": "几号地铁去文泽路？"
+    },
+    {
+      "en": "Line 1 goes there.",
+      "cn": "一号线去那儿。"
+    }
+  ]
+}

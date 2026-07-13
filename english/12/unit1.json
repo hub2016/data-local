@@ -1,0 +1,123 @@
+{
+  "title": "Unit 1：Colors We See",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U111",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "Wow! So many flowers!",
+          "cn": "哇！这么多花！"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Yes! Orange, pink, purple and brown flowers.",
+          "cn": "是的！有橙色、粉色、紫色和棕色的花。"
+        },
+        {
+          "name": "May：",
+          "en": "Let's paint!",
+          "cn": "让我们来涂颜色吧！"
+        },
+        {
+          "en": "orange, orange",
+          "cn": "橙色，橙色"
+        },
+        {
+          "en": "pink, pink",
+          "cn": "粉色，粉色"
+        },
+        {
+          "en": "purple, purple",
+          "cn": "紫色，紫色"
+        },
+        {
+          "en": "brown, brown",
+          "cn": "棕色，棕色"
+        }
+      ]
+    },
+    {
+      "title": "Look & Sing",
+      "mp3": "U112",
+      "list": [
+        {
+          "en": "Colorful Flowers",
+          "cn": "五颜六色的花"
+        },
+        {
+          "en": "Orange, purple. Orange, purple.",
+          "cn": "橙色，紫色。橙色，紫色。"
+        },
+        {
+          "en": "Pink, brown flowers. Pink, brown flowers.",
+          "cn": "粉色，棕色的花。粉色，棕色的花。"
+        },
+        {
+          "en": "I can sing the colors. I can sing the colors.",
+          "cn": "我能唱颜色。我能唱颜色。"
+        },
+        {
+          "en": "Sing with me. Sing with me.",
+          "cn": "和我一起唱。和我一起唱。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U121",
+      "list": [
+        {
+          "name": "Lee：",
+          "en": "Look at this flower.",
+          "cn": "看这朵花。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "It's yellow and red.",
+          "cn": "它是黄色和红色的。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "Look at that flower. It's pink and purple.",
+          "cn": "看那朵花。它是粉色和紫色的。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Wow! It's pretty.",
+          "cn": "哇！很漂亮。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Tick",
+      "mp3": "U122",
+      "list": [
+        {
+          "en": "Look at this flower. It's purple and orange.",
+          "cn": "看这朵花。它是紫色和橙色的。"
+        },
+        {
+          "en": "Look at this flower. It's yellow and pink.",
+          "cn": "看这朵花。它是黄色和粉色的。"
+        },
+        {
+          "en": "What color is this flower?",
+          "cn": "这朵花是什么颜色的？"
+        },
+        {
+          "en": "It's blue and yellow.",
+          "cn": "它是蓝色和黄色的。"
+        },
+        {
+          "en": "Look at that flower. It's purple and brown.",
+          "cn": "看那朵花。它是紫色和棕色的。"
+        }
+      ]
+    }
+  ]
+}

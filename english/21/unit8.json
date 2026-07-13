@@ -1,0 +1,86 @@
+{
+  "title": "Unit 8：Scenery in Hangzhou",
+  "sound": true,
+  "lesson1": [
+    {
+      "title": "Look & Say",
+      "mp3": "U811",
+      "list": [
+        {
+          "name": "Teacher：",
+          "en": "Hi, kids! This is the West Lake.",
+          "cn": "嗨，孩子们！这是西湖。"
+        },
+        {
+          "name": "All：",
+          "en": "Hooray!",
+          "cn": "好哇！"
+        },
+        {
+          "name": "Teacher：",
+          "en": "Come on! Look at the peach flowers.",
+          "cn": "快来！看那些桃花。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Wow! The flowers are beautiful in Hangzhou.",
+          "cn": "哇！杭州的花真漂亮。"
+        }
+      ]
+    }
+  ],
+  "lesson2": [
+    {
+      "title": "Look & Say",
+      "mp3": "U821",
+      "list": [
+        {
+          "name": "Hanghang：",
+          "en": "Look at the trees over there.",
+          "cn": "看那边的树。"
+        },
+        {
+          "name": "Zhouzhou：",
+          "en": "I see brown trees.",
+          "cn": "我看到了棕色的树。"
+        },
+        {
+          "name": "May：",
+          "en": "I see yellow trees and green trees.",
+          "cn": "我看到了黄色和绿色的树。"
+        },
+        {
+          "name": "Lee：",
+          "en": "Wow! They are colorful.",
+          "cn": "哇！它们五颜六色。"
+        }
+      ]
+    },
+    {
+      "title": "Look & Chant",
+      "mp3": "U822",
+      "list": [
+        {
+          "en": "Trees, trees, colorful trees.",
+          "cn": "树，树，五颜六色的树。"
+        },
+        {
+          "en": "What color do you see?",
+          "cn": "你看到了什么颜色的树？"
+        },
+        {
+          "en": "I see yellow, I see green.",
+          "cn": "我看到了黄色的，绿色的。"
+        },
+        {
+          "en": "I see red, I see brown.",
+          "cn": "我看到了红色的，棕色的。"
+        },
+        {
+          "en": "Trees, trees, colorful trees.",
+          "cn": "树，树，五颜六色的树。"
+        }
+      ]
+    }
+  ]
+}

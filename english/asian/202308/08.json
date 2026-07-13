@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "What shows do you watch regularly?",
+      "cn": "你平时看什么节目？"
+    },
+    {
+      "en": "What channel is the Peking opera?",
+      "cn": "京剧在哪个频道？"
+    }
+  ]
+}

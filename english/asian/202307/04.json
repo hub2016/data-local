@@ -1,0 +1,13 @@
+{
+  "sound": true,
+  "list": [
+    {
+      "en": "Would you care to have a drink at the lounge until a table is available?",
+      "cn": "你们介意在休息室喝点东西直至有空桌吗？"
+    },
+    {
+      "en": "No，thanks. We'll come back later.",
+      "cn": "不用了，谢谢。我们等一会儿再来。"
+    }
+  ]
+}
