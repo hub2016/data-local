@@ -1,6 +1,6 @@
 {
   "title": "Unit One Hello!",
-  "sound": true,
+  "sound": false,
   "path": "u1",
   "lessons": [
     {
