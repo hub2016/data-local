@@ -1,6 +1,6 @@
 {
   "title": "Recycle 1",
-  "sound": false,
+  "sound": true,
   "path": "r1",
   "lessons": [
     {

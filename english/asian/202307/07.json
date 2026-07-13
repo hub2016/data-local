@@ -1,5 +1,5 @@
 {
-  "sound": false,
+  "sound": true,
   "list": [
     {
       "en": "Here is the book that you ordered.",
