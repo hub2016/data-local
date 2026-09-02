@@ -4,5 +4,17 @@
     "course": "senior",
     "subTitle": "三年级起点",
     "mainTitle": "人教版三上英语PEP"
+  },
+  {
+    "grade": 41,
+    "course": "senior",
+    "subTitle": "2024新版",
+    "mainTitle": "人教版四年级英语PEP"
+  },
+  {
+    "grade": 61,
+    "course": "senior",
+    "subTitle": "2024新版",
+    "mainTitle": "人教版六年级英语PEP"
   }
 ]
