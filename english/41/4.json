@@ -1,7 +1,7 @@
 {
-  "title": "Unit 3 Places we live in",
+  "title": "Unit 4 Helping in the community",
   "sound": true,
-  "path": "U3",
+  "path": "U4",
   "lessons": [
     {
       "title": "Listen and chant",
@@ -9,37 +9,49 @@
       "list": [
         {
           "name": "",
-          "en": "What makes a community?",
+          "en": "What do people do,",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "The animals or the families?",
+          "en": "To help the community?",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "The park or the hospital?",
+          "en": "Some wash the windows.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "The playground or the school?",
+          "en": "Some help others cross the street.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "We all make our community!",
+          "en": "What can you do,",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "It's a place for us all!",
+          "en": "To help your community?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I can sing for old people,",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Or tell stories for kids!",
           "mp3": "",
           "cn": ""
         }
@@ -51,7 +63,7 @@
       "list": [
         {
           "name": "",
-          "en": "We love our community!",
+          "en": "Helping in the community",
           "mp3": "",
           "cn": ""
         }
@@ -63,49 +75,49 @@
       "list": [
         {
           "name": "",
-          "en": "What can we see in a community?",
+          "en": "What jobs are important in a community?",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Good afternoon!",
+          "en": "Look! A firefighter!",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "Chen Jie：",
-          "en": "Good afternoon!",
+          "en": "Our neighbour is a firefighter. He often helps people.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Your neighbours are very friendly.",
+          "en": "Yes, he's a very nice man.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "Chen Jie：",
-          "en": "Yes, they are. There is a playground. We often play there.",
+          "en": "Liu Jia's father is also very nice.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "That's nice.",
+          "en": "Why?",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "Chen Jie：",
-          "en": "There is also a nice park over there.",
+          "en": "He's a school bus driver. He takes us to school every day.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Let's go and see!",
+          "en": "That's an important job too!",
           "mp3": "",
           "cn": ""
         }
@@ -117,37 +129,37 @@
       "list": [
         {
           "name": "",
-          "en": "Listen and repeat. Then read aloud.",
+          "en": "Listen, repeat and chant.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "ck",
+          "en": "ph",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Some ducks are in the park.",
+          "en": "Philip has a phone.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "The poor ducklings feel cold there.",
+          "en": "He takes photos with his phone.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Some nice children go back home,",
+          "en": "This is a photo of some elephants.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "For black socks they can wear.",
+          "en": "It's a photo from his phone!",
           "mp3": "",
           "cn": ""
         }
@@ -159,31 +171,31 @@
       "list": [
         {
           "name": "",
-          "en": "Read, listen and circle.",
+          "en": "Read, listen and number.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "tick",
+          "en": "photo",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "back",
+          "en": "elephant",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "sock",
+          "en": "Philip",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "black",
+          "en": "phone",
           "mp3": "",
           "cn": ""
         }
@@ -201,13 +213,13 @@
         },
         {
           "name": "",
-          "en": "These ducks are so cute.",
+          "en": "These are some photos.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Look! They have black socks.",
+          "en": "There are three elephants in the photo.",
           "mp3": "",
           "cn": ""
         }
@@ -219,73 +231,31 @@
       "list": [
         {
           "name": "",
-          "en": "What do people do in a community?",
+          "en": "How can young people help their community?",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "Chen Jie：",
-          "en": "This is a library.",
+          "name": "Mike Black：",
+          "en": "Look! The students are busy now!",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "",
-          "en": "Wow! There are so many books.",
+          "name": "Mike Black：",
+          "en": "Chen Jie is making the bed.",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "Chen Jie：",
-          "en": "There is a taijiquan club.",
+          "name": "Mike Black：",
+          "en": "Here is Zhang Peng. He's singing old songs.",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "",
-          "en": "There are many people.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "Chen Jie：",
-          "en": "There is a gym too.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "",
-          "en": "Great! Let's do some sports.",
-          "mp3": "",
-          "cn": ""
-        }
-      ]
-    },
-    {
-      "title": "Listen and do",
-      "mp3": "BListenanddo",
-      "list": [
-        {
-          "name": "",
-          "en": "There is a beautiful park. I often take a walk there.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "",
-          "en": "There is a playground. I do sports there.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "",
-          "en": "There is a shop. I go shopping there.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "",
-          "en": "There is a hospital. I see a doctor there.",
+          "name": "Mike Black：",
+          "en": "Binbin and John are telling funny stories. Everyone is happy!",
           "mp3": "",
           "cn": ""
         }
@@ -297,61 +267,55 @@
       "list": [
         {
           "name": "",
-          "en": "Read and tick.",
+          "en": "Read and match.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "My favourite place is the museum.",
+          "en": "We are community helpers.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "There are many old things and photos.",
+          "en": "We often help children and old people.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "I can read stories about them.",
+          "en": "In the kindergarten, John and Class One are singing songs together.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "I can \"hear\" them too!",
+          "en": "Zhang Peng is telling stories to Class Two.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "There is also a nice shop.",
+          "en": "In the old people's home, Chen Jie is making the bed.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "People buy gifts and books there.",
+          "en": "Amy is drawing a picture of Ms Xu.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "The museum is in a nice park.",
+          "en": "They are all happy.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "We often play in the park.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "",
-          "en": "I love that museum!",
+          "en": "We love the people in our community.",
           "mp3": "",
           "cn": ""
         }
@@ -363,13 +327,13 @@
       "list": [
         {
           "name": "",
-          "en": "Make a dream community model",
+          "en": "Make a poster of your school helpers",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Binbin and Amy are talking about their dream communities. Listen, tick and match.",
+          "en": "The children are talking about jobs. Listen, tick and match.",
           "mp3": "",
           "cn": ""
         }
@@ -381,111 +345,93 @@
       "list": [
         {
           "name": "",
-          "en": "*afternoon /ˌɑːftəˈnuːn/",
+          "en": "firefighter /ˈfaɪəfaɪtə(r)/",
           "mp3": "",
-          "cn": "下午"
+          "cn": "消防队员 "
         },
         {
           "name": "",
-          "en": "*there /ðeə(r)/",
+          "en": "*why /waɪ/",
           "mp3": "",
-          "cn": "（表示存在或发生）；在那里"
+          "cn": "为什么 "
         },
         {
           "name": "",
-          "en": "*playground /ˈpleɪɡraʊnd/",
+          "en": "*driver /ˈdraɪvə(r)/",
           "mp3": "",
-          "cn": "游乐场；操场"
+          "cn": "司机 "
         },
         {
           "name": "",
-          "en": "*park /pɑːk/",
+          "en": "important /ɪmˈpɔːtnt/",
           "mp3": "",
-          "cn": "公园"
+          "cn": "重要的 "
         },
         {
           "name": "",
-          "en": "*over /ˈəʊvə(r)/",
+          "en": "cleaner /ˈkliːnə(r)/",
           "mp3": "",
-          "cn": "在......的远端（或对面）"
+          "cn": "清洁工 "
         },
         {
           "name": "",
-          "en": "*hospital /ˈhɒspɪtl/",
+          "en": "*cook /kʊk/",
           "mp3": "",
-          "cn": "医院"
+          "cn": "厨师 "
         },
         {
           "name": "",
-          "en": "*shop /ʃɒp/",
+          "en": "delivery /dɪˈlɪvəri/ worker",
           "mp3": "",
-          "cn": "商店"
+          "cn": "快递员 "
         },
         {
           "name": "",
-          "en": "*toilet /ˈtɔɪlət/",
+          "en": "police /pəˈliːs/ officer /ˈɒfɪsə(r)/",
           "mp3": "",
-          "cn": "厕所；卫生间"
+          "cn": "警察；警员 "
         },
         {
           "name": "",
-          "en": "bus /bʌs/ stop /stɒp/",
+          "en": "a lot /lɒt/ of /əv/",
           "mp3": "",
-          "cn": "公共汽车站"
+          "cn": "大量；许多 "
         },
         {
           "name": "",
-          "en": "*library /ˈlaɪbrəri/",
+          "en": "*now /naʊ/",
           "mp3": "",
-          "cn": "图书馆"
+          "cn": "现在 "
         },
         {
           "name": "",
-          "en": "*sport /spɔːt/",
+          "en": "make the bed /bed/",
           "mp3": "",
-          "cn": "体育运动"
+          "cn": "铺床 "
         },
         {
           "name": "",
-          "en": "*walk /wɔːk/",
+          "en": "*old /əʊld/",
           "mp3": "",
-          "cn": "散步；行走"
+          "cn": "过去的；年纪大的；老的 "
         },
         {
           "name": "",
-          "en": "community /kəˈmjuːnəti/",
+          "en": "*tell /tel/",
           "mp3": "",
-          "cn": "社区"
+          "cn": "讲述；告诉"
         },
         {
           "name": "",
-          "en": "*favourite /ˈfeɪvərɪt/",
+          "en": "everyone /ˈevriwʌn/",
           "mp3": "",
-          "cn": "最喜欢的"
+          "cn": "每人 "
         },
         {
           "name": "",
-          "en": "*place /pleɪs/",
+          "en": "*Ms /mɪz/",
           "mp3": "",
-          "cn": "地方；场所"
-        },
-        {
-          "name": "",
-          "en": "*photo /ˈfəʊtəʊ/",
-          "mp3": "",
-          "cn": "照片"
-        },
-        {
-          "name": "",
-          "en": "*story /ˈstɔːri/",
-          "mp3": "",
-          "cn": "故事"
-        },
-        {
-          "name": "",
-          "en": "*buy /baɪ/",
-          "mp3": "",
-          "cn": "购买"
+          "cn": "（用于女子的姓氏或姓名前，不指明婚否）女士"
         }
       ]
     }
