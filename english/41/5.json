@@ -1,7 +1,7 @@
 {
-  "title": "Unit 4 Helping in the community",
+  "title": "Unit 5 The weather and us",
   "sound": true,
-  "path": "U4",
+  "path": "U5",
   "lessons": [
     {
       "title": "Listen and chant",
@@ -9,49 +9,49 @@
       "list": [
         {
           "name": "",
-          "en": "What do people do,",
+          "en": "It's sunny today.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "To help the community?",
+          "en": "I do sports and I play.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Some wash the windows.",
+          "en": "It's windy today.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Some help others cross the street.",
+          "en": "I fly a kite and I play.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "What can you do,",
+          "en": "It's snowy today.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "To help your community?",
+          "en": "I make a snowman and I play.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "I can sing for old people,",
+          "en": "It's rainy today.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Or tell stories for kids!",
+          "en": "I stay at home and I wait.",
           "mp3": "",
           "cn": ""
         }
@@ -63,7 +63,7 @@
       "list": [
         {
           "name": "",
-          "en": "Helping in the community",
+          "en": "The weather and us",
           "mp3": "",
           "cn": ""
         }
@@ -75,49 +75,49 @@
       "list": [
         {
           "name": "",
-          "en": "What jobs are important in a community?",
+          "en": "How can the weather be different?",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "",
-          "en": "Look! A firefighter!",
+          "name": "Mark：",
+          "en": "Hello! Mark speaking.",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "Chen Jie：",
-          "en": "Our neighbour is a firefighter. He often helps people.",
+          "name": "John Baker：",
+          "en": "Hi, Mark! This is John. What's the weather like in Sydney?",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "",
-          "en": "Yes, he's a very nice man.",
+          "name": "Mark：",
+          "en": "Well, it's sunny today.",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "Chen Jie：",
-          "en": "Liu Jia's father is also very nice.",
+          "name": "John Baker：",
+          "en": "Is it hot?",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "",
-          "en": "Why?",
+          "name": "Mark：",
+          "en": "No, it isn't. It's 21 degrees.",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "Chen Jie：",
-          "en": "He's a school bus driver. He takes us to school every day.",
+          "name": "John Baker：",
+          "en": "That's not bad. It's only two degrees in Beijing.",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "",
-          "en": "That's an important job too!",
+          "name": "Mark：",
+          "en": "Wow! It's cold!",
           "mp3": "",
           "cn": ""
         }
@@ -129,37 +129,37 @@
       "list": [
         {
           "name": "",
-          "en": "Listen, repeat and chant.",
+          "en": "Listen and repeat. Then read aloud.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "ph",
+          "en": "th",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "It's warm again. I'm thirsty and hungry.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Philip has a phone.",
+          "en": "Good to see you! You are so thin now.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "He takes photos with his phone.",
+          "en": "These gifts are for you.",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "",
-          "en": "This is a photo of some elephants.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "",
-          "en": "It's a photo from his phone!",
+          "name": "Zoom：",
+          "en": "Thanks. They're my favourite!",
           "mp3": "",
           "cn": ""
         }
@@ -171,31 +171,31 @@
       "list": [
         {
           "name": "",
-          "en": "Read, listen and number.",
+          "en": "Read, listen and circle.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "photo",
+          "en": "Thank you, Chen Jie.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "elephant",
+          "en": "Who are they?",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Philip",
+          "en": "There is a big playground.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "phone",
+          "en": "Your friend is tall and thin.",
           "mp3": "",
           "cn": ""
         }
@@ -212,14 +212,14 @@
           "cn": ""
         },
         {
-          "name": "",
-          "en": "These are some photos.",
+          "name": "Zoom：",
+          "en": "Mum, you're very thin now.",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "",
-          "en": "There are three elephants in the photo.",
+          "name": "Mum：",
+          "en": "Thank you, my dear.",
           "mp3": "",
           "cn": ""
         }
@@ -231,31 +231,43 @@
       "list": [
         {
           "name": "",
-          "en": "How can young people help their community?",
+          "en": "What do we do in different weather?",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "Mike Black：",
-          "en": "Look! The students are busy now!",
+          "name": "Wu Binbin：",
+          "en": "John, it's raining now.",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "Mike Black：",
-          "en": "Chen Jie is making the bed.",
+          "name": "John Baker：",
+          "en": "Oh no! We can't play basketball in the park.",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "Mike Black：",
-          "en": "Here is Zhang Peng. He's singing old songs.",
+          "name": "Wu Binbin：",
+          "en": "It's OK. We can go to the library.",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "Mike Black：",
-          "en": "Binbin and John are telling funny stories. Everyone is happy!",
+          "name": "John Baker：",
+          "en": "But it's closed now.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Hmm. Let's go and see a film.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "John Baker：",
+          "en": "That's a good idea!",
           "mp3": "",
           "cn": ""
         }
@@ -267,55 +279,73 @@
       "list": [
         {
           "name": "",
-          "en": "Read and match.",
+          "en": "Read and answer.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "We are community helpers.",
+          "en": "Hi, John!",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "We often help children and old people.",
+          "en": "How are you?",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "In the kindergarten, John and Class One are singing songs together.",
+          "en": "I'm in a big park in Sydney today.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Zhang Peng is telling stories to Class Two.",
+          "en": "It's hot and sunny here.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "In the old people's home, Chen Jie is making the bed.",
+          "en": "It's fun to go to the park with my new friends.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Amy is drawing a picture of Ms Xu.",
+          "en": "We play basketball together.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "They are all happy.",
+          "en": "Their children swim in the pool.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "We love the people in our community.",
+          "en": "How about you?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Is it cold and windy in Beijing?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Can you fly your kite?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Love, Dad",
           "mp3": "",
           "cn": ""
         }
@@ -327,13 +357,13 @@
       "list": [
         {
           "name": "",
-          "en": "Make a poster of your school helpers",
+          "en": "Make a bad weather reminder",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "The children are talking about jobs. Listen, tick and match.",
+          "en": "Sort the weather from good to bad. Then listen and circle.",
           "mp3": "",
           "cn": ""
         }
@@ -345,93 +375,147 @@
       "list": [
         {
           "name": "",
-          "en": "firefighter /ˈfaɪəfaɪtə(r)/",
+          "en": "*speak /spiːk/",
           "mp3": "",
-          "cn": "消防队员"
+          "cn": "说话；发言"
         },
         {
           "name": "",
-          "en": "*why /waɪ/",
+          "en": "*weather /ˈweðə(r)/",
           "mp3": "",
-          "cn": "为什么"
+          "cn": "天气"
         },
         {
           "name": "",
-          "en": "*driver /ˈdraɪvə(r)/",
+          "en": "*sunny /ˈsʌni/",
           "mp3": "",
-          "cn": "司机"
+          "cn": "阳光充足的"
         },
         {
           "name": "",
-          "en": "important /ɪmˈpɔːtnt/",
+          "en": "*hot /hɒt/",
           "mp3": "",
-          "cn": "重要的"
+          "cn": "热的"
         },
         {
           "name": "",
-          "en": "cleaner /ˈkliːnə(r)/",
+          "en": "*bad /bæd/",
           "mp3": "",
-          "cn": "清洁工"
+          "cn": "令人不快的；坏的"
         },
         {
           "name": "",
-          "en": "*cook /kʊk/",
+          "en": "*cold /kəʊld/",
           "mp3": "",
-          "cn": "厨师"
+          "cn": "冷的"
         },
         {
           "name": "",
-          "en": "delivery /dɪˈlɪvəri/ worker",
+          "en": "*windy /ˈwɪndi/",
           "mp3": "",
-          "cn": "快递员"
+          "cn": "多风的"
         },
         {
           "name": "",
-          "en": "police /pəˈliːs/ officer /ˈɒfɪsə(r)/",
+          "en": "*cloudy /ˈklaʊdi/",
           "mp3": "",
-          "cn": "警察；警员"
+          "cn": "多云的"
         },
         {
           "name": "",
-          "en": "a lot /lɒt/ of /əv/",
+          "en": "rainy /ˈreɪni/",
           "mp3": "",
-          "cn": "大量；许多"
+          "cn": "阴雨的"
         },
         {
           "name": "",
-          "en": "*now /naʊ/",
+          "en": "snowy /ˈsnəʊi/",
           "mp3": "",
-          "cn": "现在"
+          "cn": "多雪的"
         },
         {
           "name": "",
-          "en": "make the bed /bed/",
+          "en": "*cool /kuːl/",
           "mp3": "",
-          "cn": "铺床"
+          "cn": "凉爽的"
         },
         {
           "name": "",
-          "en": "*old /əʊld/",
+          "en": "*warm /wɔːm/",
           "mp3": "",
-          "cn": "过去的；年纪大的；老的"
+          "cn": "温暖的"
         },
         {
           "name": "",
-          "en": "*tell /tel/",
+          "en": "*tomorrow /təˈmɒrəʊ/",
           "mp3": "",
-          "cn": "讲述；告诉"
+          "cn": "在明天"
         },
         {
           "name": "",
-          "en": "everyone /ˈevriwʌn/",
+          "en": "*rain /reɪn/",
           "mp3": "",
-          "cn": "每人"
+          "cn": "下雨；雨"
         },
         {
           "name": "",
-          "en": "*Ms /mɪz/",
+          "en": "closed /kləʊzd/",
           "mp3": "",
-          "cn": "（用于女子的姓氏或姓名前，不指明婚否）女士"
+          "cn": "关闭的"
+        },
+        {
+          "name": "",
+          "en": "*film /fɪlm/",
+          "mp3": "",
+          "cn": "电影"
+        },
+        {
+          "name": "",
+          "en": "*idea /aɪˈdɪə/",
+          "mp3": "",
+          "cn": "想法；主意"
+        },
+        {
+          "name": "",
+          "en": "*fly /flaɪ/",
+          "mp3": "",
+          "cn": "操纵（飞行器等）；飞"
+        },
+        {
+          "name": "",
+          "en": "*kite /kaɪt/",
+          "mp3": "",
+          "cn": "风筝"
+        },
+        {
+          "name": "",
+          "en": "snowman /ˈsnəʊmæn/",
+          "mp3": "",
+          "cn": "雪人"
+        },
+        {
+          "name": "",
+          "en": "fun /fʌn/",
+          "mp3": "",
+          "cn": "享乐；乐趣"
+        },
+        {
+          "name": "",
+          "en": "*their /ðeə(r)/",
+          "mp3": "",
+          "cn": "他们的；她们的；它们的"
+        },
+        {
+          "name": "",
+          "en": "*swim /swɪm/",
+          "mp3": "",
+          "cn": "游泳"
+        },
+        {
+          "name": "",
+          "en": "Sydney /ˈsɪdni/",
+          "mp3": "",
+          "cn": "悉尼"
         }
       ]
     }
