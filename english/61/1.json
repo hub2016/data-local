@@ -1,0 +1,806 @@
+{
+  "title": "Unit 1 Amazing places",
+  "sound": true,
+  "path": "U1",
+  "lessons": [
+    {
+      "title": "Listen and sing",
+      "mp3": "Listenandsing",
+      "list": [
+        {
+          "name": "",
+          "en": "Travelling around",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "ALetstalk",
+      "list": [
+        {
+          "name": "",
+          "en": "What famous places do you know?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Zhang Peng is talking with John. Listen and choose.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Zhang Peng：",
+          "en": "Hi, Leo! How was your weekend?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Leo：",
+          "en": "Not too bad, thanks. And you?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Zhang Peng：",
+          "en": "It was great! I climbed the Great Wall.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Leo：",
+          "en": "Wow! The Great Wall is amazing.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Zhang Peng：",
+          "en": "Yes, it is! It's about 21,000 kilometres long. What did you do, Leo?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Leo：",
+          "en": "I visited the \"Gingerbread House\" last Saturday.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Zhang Peng：",
+          "en": "What did you do there? Eat gingerbread?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Leo：",
+          "en": "Ha! Ha! No! It's a beautiful train station in New Zealand.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Zhang Peng：",
+          "en": "That sounds interesting. Please send me some pictures.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "ALetslearn",
+      "list": [
+        {
+          "name": "",
+          "en": "Amy walked around the Palace Museum.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Mike visited the Hong Kong-Zhuhai-Macao Bridge.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Zhang Peng climbed Mount Taishan.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Liu Jia's family travelled to Paris and visited the Eiffel Tower.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Oliver and his cousin watched a show at the Sydney Opera House.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "walk, walked",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "visit, visited",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "climb, climbed",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "travel, travelled",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "watch, watched",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "What did they do in the summer holidays?",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "BLetstalk",
+      "list": [
+        {
+          "name": "",
+          "en": "What makes a trip special?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Binbin and Sarah meet Amy at school. Listen and write T (True) or F (False).",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Amy：",
+          "en": "Where did you go over the summer holidays, Binbin?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Binbin：",
+          "en": "I went to Xi'an with my family.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "I like Xi'an. What did you do there?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Binbin：",
+          "en": "We ate some famous Xi'an noodles. Then we went to see the Terracotta Warriors.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Wow! I really want to go there! How was it?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Binbin：",
+          "en": "Amazing! There are over seven thousand clay warriors and horses.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Amy：",
+          "en": "I saw pictures on the internet. What else did you do?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Binbin：",
+          "en": "Well, we walked around the old city and rode bikes on the old city wall.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Amy：",
+          "en": "That sounds great fun!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    
+    {
+      "title": "Let's learn",
+      "mp3": "BLetslearn",
+      "list": [
+        {
+          "name": "",
+          "en": "Binbin and Xinxin went to a nearby village. They saw beautiful peach flowers.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Sarah went to Wuhan. She ate hot dry noodles.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Amy took a trip to Shanghai. The view from the tower was great.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Chen Jie took a trip to Singapore. She took nice photos there.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "went, went",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "saw, saw",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "went, went",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "ate, ate",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "took, took",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "was, was",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "took, took",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "took, took",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Where did you go over the holidays?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I went to Wuhan. I ate hot dry noodles.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Listen and chant",
+      "mp3": "BListenandchant",
+      "list": [
+        {
+          "name": "",
+          "en": "Mum and Dad are busy.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I cook for my family.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I look after my doggy.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I sweep the floor. It's easy.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "We are a happy family.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Read and write",
+      "mp3": "BReadandwrite",
+      "list": [
+        {
+          "name": "",
+          "en": "Look at the text. Where could you find this? What does \"Reviews\" mean?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Hotels, Flights, Trains, Cars, Tours & Tickets, Attractions",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Jinggang Mountains",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "4.9/5 2,099 Reviews",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "No.1 Can't Miss Attraction in Ji'an, Mountain Climbing, Must-try Food",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Reviews",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Sun Lin, Xining, China",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "A must-see",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "My trip to the Jinggangshan Revolution Museum was amazing!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I walked around the museum for hours and saw many old books and photos.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "The volunteers told great stories about the Red Army.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "The stories were really inspiring.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I learnt a lot.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Do you want to learn more about the Red Army?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "You should go there!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Colin, London, UK",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Wonderful views and food",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "This was a great place for a summer trip!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "We climbed the Jinggang Mountains and took many photos of the bamboo forest.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "We tried delicious pumpkin soup and red rice in a nice restaurant too.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "The Jinggang Mountains are only about 1.5 hours from the airport by bus.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I want to go there again!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Project",
+      "mp3": "CProject",
+      "list": [
+        {
+          "name": "",
+          "en": "Make a holiday scrapbook",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "The children are making a holiday scrapbook. Listen and tick or cross.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Reading time",
+      "mp3": "Readingtime",
+      "list": [
+        {
+          "name": "",
+          "en": "Landmarks you shouldn't miss!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Eye-opening findings in Sanxingdui",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "My trip to Sanxingdui was great! In the Sanxingdui Museum, I saw strange masks, the \"big guy\" statue and a life-size \"fruit\" tree.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Some thought people from Sanxingdui were aliens. But it's not true. Maybe they ate hotpot three thousand years ago, just like we do today.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "(Chen Li, history teacher)",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "The pearl of Hangzhou",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I visited the West Lake last autumn. On the f irst night, my friends and I watched the moon rising from a boat on the lake. We ate mooncakes and drank Longjing tea. The next day we walked along the lake. It was such a nice trip.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "(Jessica, nurse)",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "A magical island",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "On Easter Island, I saw huge statues called Moai. The Rapa Nui people made them hundreds of years ago. I loved the food on the island. The locals cooked fresh food on rocks! We had fish. It was so delicious!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "(Lucy, 10-year-old student)",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "An unusual \"table\"",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I climbed many mountains on my trips, but Table Mountain in South Africa was a special one. Its name comes from its top. It is flat like a table! But it only looks flat from one side.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I went to the top by cable car. The first cable car opened in 1929. The view was so amazing!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "(William, mountain lover)",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Words in each unit",
+      "mp3": "Wordsineachunit",
+      "list": [
+        {
+          "name": "",
+          "en": "*was /wəz/",
+          "mp3": "",
+          "cn": "（be 的第一和第三人称单数过去式）"
+        },
+        {
+          "name": "",
+          "en": "be /bi/",
+          "mp3": "",
+          "cn": "存在；是"
+        },
+        {
+          "name": "",
+          "en": "climb /klaɪm/",
+          "mp3": "",
+          "cn": "攀登；爬"
+        },
+        {
+          "name": "",
+          "en": "kilometre /kɪˈlɒmɪtə(r)/",
+          "mp3": "",
+          "cn": "（=km）千米；公里"
+        },
+        {
+          "name": "",
+          "en": "gingerbread /ˈdʒɪndʒəbred/ house",
+          "mp3": "",
+          "cn": "姜饼屋"
+        },
+        {
+          "name": "",
+          "en": "send /send/",
+          "mp3": "",
+          "cn": "邮寄；发送"
+        },
+        {
+          "name": "",
+          "en": "*go /ɡəʊ/",
+          "mp3": "",
+          "cn": "去；走"
+        },
+        {
+          "name": "",
+          "en": "went /went/",
+          "mp3": "",
+          "cn": "去；走（go 过去式）"
+        },
+        {
+          "name": "",
+          "en": "thousand /ˈθaʊznd/",
+          "mp3": "",
+          "cn": "一千"
+        },
+        {
+          "name": "",
+          "en": "clay /kleɪ/",
+          "mp3": "",
+          "cn": "黏土；陶土"
+        },
+        {
+          "name": "",
+          "en": "*see /siː/",
+          "mp3": "",
+          "cn": "看见"
+        },
+        {
+          "name": "",
+          "en": "saw /sɔː/",
+          "mp3": "",
+          "cn": "看见（see 过去式）"
+        },
+        {
+          "name": "",
+          "en": "village /ˈvɪlɪdʒ/",
+          "mp3": "",
+          "cn": "村庄；村镇"
+        },
+        {
+          "name": "",
+          "en": "*eat /iːt/",
+          "mp3": "",
+          "cn": "吃"
+        },
+        {
+          "name": "",
+          "en": "ate /eɪt/",
+          "mp3": "",
+          "cn": "吃（eat 过去式）"
+        },
+        {
+          "name": "",
+          "en": "dry /draɪ/",
+          "mp3": "",
+          "cn": "干的"
+        },
+        {
+          "name": "",
+          "en": "*take /teɪk/",
+          "mp3": "",
+          "cn": "做（某个动作；和名词连用代替某个动词；）"
+        },
+        {
+          "name": "",
+          "en": "took /tʊk/",
+          "mp3": "",
+          "cn": "做（take 过去式）"
+        },
+        {
+          "name": "",
+          "en": "view /vjuː/",
+          "mp3": "",
+          "cn": "景色"
+        },
+        {
+          "name": "",
+          "en": "inspiring /ɪnˈspaɪərɪŋ/",
+          "mp3": "",
+          "cn": "鼓舞人心的"
+        },
+        {
+          "name": "",
+          "en": "bamboo /ˌbæmˈbuː/",
+          "mp3": "",
+          "cn": "竹；竹子"
+        },
+        {
+          "name": "",
+          "en": "pumpkin /ˈpʌmpkɪn/",
+          "mp3": "",
+          "cn": "南瓜"
+        },
+        {
+          "name": "",
+          "en": "restaurant /ˈrestrɒnt/",
+          "mp3": "",
+          "cn": "餐馆；餐厅"
+        },
+        {
+          "name": "",
+          "en": "airport /ˈeəpɔːt/",
+          "mp3": "",
+          "cn": "机场"
+        },
+        {
+          "name": "",
+          "en": "New Zealand /ˌnjuː ˈziːlənd/",
+          "mp3": "",
+          "cn": "新西兰"
+        },
+        {
+          "name": "",
+          "en": "Hong Kong /ˌhɒŋˈkɒŋ/-Zhuhai-Macao /məˈkaʊ/ Bridge /brɪdʒ/",
+          "mp3": "",
+          "cn": "港珠澳大桥"
+        },
+        {
+          "name": "",
+          "en": "Paris /ˈpærɪs/",
+          "mp3": "",
+          "cn": "巴黎"
+        },
+        {
+          "name": "",
+          "en": "Eiffel /ˈaɪfəl/ Tower",
+          "mp3": "",
+          "cn": "埃菲尔铁塔"
+        },
+        {
+          "name": "",
+          "en": "Terracotta /ˌterəˈkɒtə/ Warriors /ˈwɒriəz/",
+          "mp3": "",
+          "cn": "兵马俑"
+        },
+        {
+          "name": "",
+          "en": "Jinggangshan Revolution /ˌrevəˈluːʃn/ Museum",
+          "mp3": "",
+          "cn": "井冈山革命博物馆"
+        },
+        {
+          "name": "",
+          "en": "the Red Army",
+          "mp3": "",
+          "cn": "红军"
+        }
+      ]
+    }
+  ]
+}
