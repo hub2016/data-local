@@ -1,0 +1,37 @@
+{
+  "grade": 41,
+  "course": "senior",
+  "subTitle": "2024新版",
+  "from": "人民教育出版社",
+  "mainTitle": "人教版四上英语PEP",
+  "units": [
+    {
+      "id": 1,
+      "title": "Unit 1 Helping at home"
+    },
+    {
+      "id": 2,
+      "title": "Unit 2 My friends"
+    },
+    {
+      "id": 3,
+      "title": "Unit 3 Places we live in"
+    },
+    {
+      "id": 4,
+      "title": "Unit 4 Helping in the community"
+    },
+    {
+      "id": 5,
+      "title": "Unit 5 The weather and us"
+    },
+    {
+      "id": 6,
+      "title": "Unit 6 Changing for the seasons"
+    },
+    {
+      "id": 7,
+      "title": "Revision Let's help!"
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "title": "Unit 1 Helping at home",
+  "sound": true,
+  "path": "U1",
+  "lessons": [
+    {
+      "title": "Listen and chant",
+      "mp3": "Listenandchant",
+      "list": [
+        {
+          "name": "Father：",
+          "en": "Can you help?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Children：",
+          "en": "Yes, I can. I can clean my room.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Father：",
+          "en": "Can she help?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Children：",
+          "en": "Yes, she can. She can do some chores.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Father：",
+          "en": "Can he help?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Children：",
+          "en": "Yes, he can. He can sweep the floor.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Father：",
+          "en": "Can we help?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Children：",
+          "en": "Yes, we can. That's for sure!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "a/bg",
+      "list": [
+        {
+          "name": "Miss White：",
+          "en": "Hello, I'm Miss White.",
+          "mp3": "a/a1",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Hello, I'm Wu Binbin.",
+          "mp3": "a/a2",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "Hi! I'm Sarah.",
+          "mp3": "a/a3",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "a/bg2",
+      "list": [
+        {
+          "name": "Zoom：",
+          "en": "I have a ruler.",
+          "mp3": "a/al1",
+          "cn": "我有一把尺子。"
+        },
+        {
+          "name": "Zip：",
+          "en": "I have an eraser.",
+          "mp3": "a/al2",
+          "cn": "我有一块橡皮"
+        },
+        {
+          "name": "",
+          "en": "ruler, ruler",
+          "mp3": "a/al3",
+          "cn": "尺子"
+        },
+        {
+          "name": "",
+          "en": "pencil, pencil",
+          "mp3": "a/al4",
+          "cn": "铅笔"
+        },
+        {
+          "name": "",
+          "en": "crayon, crayon",
+          "mp3": "a/al5",
+          "cn": "蜡笔"
+        },
+        {
+          "name": "",
+          "en": "eraser, eraser",
+          "mp3": "a/al6",
+          "cn": "橡皮"
+        }
+      ]
+    },
+    {
+      "title": "Let's chant",
+      "mp3": "a/bg3",
+      "list": [
+        {
+          "name": "Zoom & Zip：",
+          "en": "I have a ruler. Me too!",
+          "mp3": "a/me1",
+          "cn": "我有一把尺子。我也是！"
+        },
+        {
+          "name": "Zoom & Zip：",
+          "en": "I have a pencil. Me too!",
+          "mp3": "a/me2",
+          "cn": "我有一把铅笔。我也是！"
+        },
+        {
+          "name": "Zoom & Zip：",
+          "en": "I have a crayon. Me too!",
+          "mp3": "a/me3",
+          "cn": "我有一把蜡笔。我也是！"
+        },
+        {
+          "name": "Zoom & Zip：",
+          "en": "I have an eraser. Me too!",
+          "mp3": "a/me4",
+          "cn": "我有一把橡皮。我也是！"
+        }
+      ]
+    },
+    {
+      "title": "Let's sing",
+      "subtit": "A B C song",
+      "mp3": "a/bg4",
+      "list": [
+        {
+          "name": "",
+          "en": "Aa-Bb-Cc-Dd-Ee-Ff-Gg, Hh-Ii-Jj-Kk-Ll-Mm-Nn, Oo-Pp-Qq-Rr-Ss-Tt, Uu-Vv-Ww-Xx-Yy-Zz. Xx-Yy-Zz, now you see, I can say my ABCs",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Aa-Bb-Cc-Dd-Ee-Ff-Gg, Hh-Ii-Jj-Kk-Ll-Mm-Nn, Oo-Pp-Qq-Rr-Ss-Tt, Uu-Vv-Ww-Xx-Yy-Zz. Xx-Yy-Zz, now you see, I can say my ABCs",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "b/book/1",
+      "list": [
+        {
+          "name": "Mike：",
+          "en": "Hello, I'm Mike. What's your name?",
+          "mp3": "b/book/dh/1",
+          "cn": ""
+        },
+        {
+          "name": "John：",
+          "en": "My name's John.",
+          "mp3": "b/book/dh/2",
+          "cn": ""
+        },
+        {
+          "name": "Mike & John：",
+          "en": "Bye, Miss White.",
+          "mp3": "b/book/dh/3",
+          "cn": ""
+        },
+        {
+          "name": "Miss White：",
+          "en": "Goodbye!",
+          "mp3": "b/book/dh/4",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "b/book/2",
+      "list": [
+        {
+          "name": "Zip：",
+          "en": "Zoom! your bag!",
+          "mp3": "b/5",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Oh, no!",
+          "mp3": "b/6",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "bag, bag",
+          "mp3": "b/1",
+          "cn": "包"
+        },
+        {
+          "name": "",
+          "en": "pen, pen",
+          "mp3": "b/2",
+          "cn": "笔"
+        },
+        {
+          "name": "",
+          "en": "pencil box, pencil box",
+          "mp3": "b/3",
+          "cn": "铅笔盒"
+        },
+        {
+          "name": "",
+          "en": "book, book",
+          "mp3": "b/4",
+          "cn": "书"
+        }
+      ]
+    },
+    {
+      "title": "Let's do",
+      "mp3": "b/book/5",
+      "list": [
+        {
+          "name": "Mike：",
+          "en": "Open your pencil box. Open your pencil box.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Show me your pen. Show me your pen.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Close your book. Close your book.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Carry your bag. Carry your bag.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's check",
+      "mp3": "b/7",
+      "list": [
+        {
+          "name": "Miss White：",
+          "en": "Hello, I'm Miss White.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Hello, Miss White.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Hello, I'm Zoom.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Hi, I'm Mike. What's your name?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "My name's Chen Jie.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Goodbye.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie & Sarah：",
+          "en": "Bye.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's sing",
+      "subtit": "Hello!",
+      "mp3": "b/book/4",
+      "list": [
+        {
+          "name": "",
+          "en": "Hello, Sarah! Do, oh, do. Hello, John! Do, oh, do. Hello, Mike! Do, oh, do. Hello! Hello! Hello!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Hello, Sarah! Do, oh, do. Hello, John! Do, oh, do. Hello, Mike! Do, oh, do. Hello! Hello! Hello!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Story time",
+      "mp3": "c/1",
+      "list": [
+        {
+          "name": "Zip：",
+          "en": "Hello!",
+          "mp3": "c/t1",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Hi! Who's there?",
+          "mp3": "c/t2",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "Guess!",
+          "mp3": "c/t3",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Are you Tutu?",
+          "mp3": "c/t4",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "No!",
+          "mp3": "c/t5",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "Haha! I'm Zip!",
+          "mp3": "c/t6",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Hi, Zip! My name's Zoom.",
+          "mp3": "c/t7",
+          "cn": ""
+        },
+        {
+          "name": "Zoom：",
+          "en": "Let's play! OK?",
+          "mp3": "c/t8",
+          "cn": ""
+        },
+        {
+          "name": "Zip：",
+          "en": "Great!",
+          "mp3": "c/t9",
+          "cn": ""
+        }
+      ]
+    }
+  ]
+}
