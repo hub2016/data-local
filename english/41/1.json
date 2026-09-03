@@ -5,7 +5,7 @@
   "lessons": [
     {
       "title": "Listen and chant",
-      "mp3": "Listenandchant",
+      "mp3": "AListenandchant",
       "list": [
         {
           "name": "Father：",
@@ -58,115 +58,156 @@
       ]
     },
     {
-      "title": "Let's talk",
-      "mp3": "a/bg",
+      "title": "Listen and sing",
+      "mp3": "Listenandsing",
       "list": [
         {
-          "name": "Miss White：",
-          "en": "Hello, I'm Miss White.",
-          "mp3": "a/a1",
+          "name": "",
+          "en": "Helping at home",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "ALetstalk",
+      "list": [
+        {
+          "name": "",
+          "en": "How are families different?",
+          "mp3": "",
           "cn": ""
         },
         {
           "name": "Wu Binbin：",
-          "en": "Hello, I'm Wu Binbin.",
-          "mp3": "a/a2",
+          "en": "You have a big family. Is this your father?",
+          "mp3": "",
           "cn": ""
         },
         {
-          "name": "Sarah：",
-          "en": "Hi! I'm Sarah.",
-          "mp3": "a/a3",
+          "name": "Sarah Miller：",
+          "en": "Yes, it is. He's a PE teacher.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "What's your mother's job?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Sarah Miller：",
+          "en": "She's a doctor.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Wu Binbin：",
+          "en": "Doctors are great! My father is a doctor too.",
+          "mp3": "",
           "cn": ""
         }
       ]
     },
     {
-      "title": "Let's learn",
-      "mp3": "a/bg2",
-      "list": [
-        {
-          "name": "Zoom：",
-          "en": "I have a ruler.",
-          "mp3": "a/al1",
-          "cn": "我有一把尺子。"
-        },
-        {
-          "name": "Zip：",
-          "en": "I have an eraser.",
-          "mp3": "a/al2",
-          "cn": "我有一块橡皮"
-        },
-        {
-          "name": "",
-          "en": "ruler, ruler",
-          "mp3": "a/al3",
-          "cn": "尺子"
-        },
-        {
-          "name": "",
-          "en": "pencil, pencil",
-          "mp3": "a/al4",
-          "cn": "铅笔"
-        },
-        {
-          "name": "",
-          "en": "crayon, crayon",
-          "mp3": "a/al5",
-          "cn": "蜡笔"
-        },
-        {
-          "name": "",
-          "en": "eraser, eraser",
-          "mp3": "a/al6",
-          "cn": "橡皮"
-        }
-      ]
-    },
-    {
-      "title": "Let's chant",
-      "mp3": "a/bg3",
-      "list": [
-        {
-          "name": "Zoom & Zip：",
-          "en": "I have a ruler. Me too!",
-          "mp3": "a/me1",
-          "cn": "我有一把尺子。我也是！"
-        },
-        {
-          "name": "Zoom & Zip：",
-          "en": "I have a pencil. Me too!",
-          "mp3": "a/me2",
-          "cn": "我有一把铅笔。我也是！"
-        },
-        {
-          "name": "Zoom & Zip：",
-          "en": "I have a crayon. Me too!",
-          "mp3": "a/me3",
-          "cn": "我有一把蜡笔。我也是！"
-        },
-        {
-          "name": "Zoom & Zip：",
-          "en": "I have an eraser. Me too!",
-          "mp3": "a/me4",
-          "cn": "我有一把橡皮。我也是！"
-        }
-      ]
-    },
-    {
-      "title": "Let's sing",
-      "subtit": "A B C song",
-      "mp3": "a/bg4",
+      "title": "Let's spell - Listen",
+      "mp3": "ALetsspellListen",
       "list": [
         {
           "name": "",
-          "en": "Aa-Bb-Cc-Dd-Ee-Ff-Gg, Hh-Ii-Jj-Kk-Ll-Mm-Nn, Oo-Pp-Qq-Rr-Ss-Tt, Uu-Vv-Ww-Xx-Yy-Zz. Xx-Yy-Zz, now you see, I can say my ABCs",
+          "en": "Listen and repeat. Then read aloud.",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Aa-Bb-Cc-Dd-Ee-Ff-Gg, Hh-Ii-Jj-Kk-Ll-Mm-Nn, Oo-Pp-Qq-Rr-Ss-Tt, Uu-Vv-Ww-Xx-Yy-Zz. Xx-Yy-Zz, now you see, I can say my ABCs",
+          "en": "ch",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "My grandpa can teach Chinese.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "He can make nice chairs.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "My grandma can make good lunches.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Her peaches are great!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's spell - Read",
+      "mp3": "ALetsspellRead",
+      "list": [
+        {
+          "name": "",
+          "en": "Read, listen and circle.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "How much is it?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I come from China.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "The child can help.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I like my teacher.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's spell - Look",
+      "mp3": "ALetsspellLook",
+      "list": [
+        {
+          "name": "",
+          "en": "Look, listen and write.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "My grandpa is a Chinese teacher.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "People speak Chinese in China.",
           "mp3": "",
           "cn": ""
         }
@@ -174,230 +215,253 @@
     },
     {
       "title": "Let's talk",
-      "mp3": "b/book/1",
+      "mp3": "BLetstalk",
       "list": [
         {
-          "name": "Mike：",
-          "en": "Hello, I'm Mike. What's your name?",
-          "mp3": "b/book/dh/1",
-          "cn": ""
-        },
-        {
-          "name": "John：",
-          "en": "My name's John.",
-          "mp3": "b/book/dh/2",
-          "cn": ""
-        },
-        {
-          "name": "Mike & John：",
-          "en": "Bye, Miss White.",
-          "mp3": "b/book/dh/3",
-          "cn": ""
-        },
-        {
-          "name": "Miss White：",
-          "en": "Goodbye!",
-          "mp3": "b/book/dh/4",
-          "cn": ""
-        }
-      ]
-    },
-    {
-      "title": "Let's learn",
-      "mp3": "b/book/2",
-      "list": [
-        {
-          "name": "Zip：",
-          "en": "Zoom! your bag!",
-          "mp3": "b/5",
-          "cn": ""
-        },
-        {
-          "name": "Zoom：",
-          "en": "Oh, no!",
-          "mp3": "b/6",
-          "cn": ""
-        },
-        {
           "name": "",
-          "en": "bag, bag",
-          "mp3": "b/1",
-          "cn": "包"
-        },
-        {
-          "name": "",
-          "en": "pen, pen",
-          "mp3": "b/2",
-          "cn": "笔"
-        },
-        {
-          "name": "",
-          "en": "pencil box, pencil box",
-          "mp3": "b/3",
-          "cn": "铅笔盒"
-        },
-        {
-          "name": "",
-          "en": "book, book",
-          "mp3": "b/4",
-          "cn": "书"
-        }
-      ]
-    },
-    {
-      "title": "Let's do",
-      "mp3": "b/book/5",
-      "list": [
-        {
-          "name": "Mike：",
-          "en": "Open your pencil box. Open your pencil box.",
+          "en": "How can we help our family?",
           "mp3": "",
           "cn": ""
         },
         {
-          "name": "Mike：",
+          "name": "Mike Black：",
+          "en": "Mum and Dad are busy and tired. What can we do for them?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "We can do some chores.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike Black：",
+          "en": "I can cook.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I can clean the room.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike Black：",
+          "en": "We can also make a gift!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Listen and chant",
+      "mp3": "BListenandchant",
+      "list": [
+        {
+          "name": "",
+          "en": "Mum and Dad are busy.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I cook for my family.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I look after my doggy.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I sweep the floor. It's easy.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "We are a happy family.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Read and write",
+      "mp3": "BReadandwrite",
+      "list": [
+        {
+          "name": "",
+          "en": "Read and tick.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Xiao Lin：",
+          "en": "Mum, You are a great nurse. You help many people. I can help you at home! Xiao Lin",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mum：",
           "en": "Show me your pen. Show me your pen.",
-          "mp3": "",
+          "mp3": "Xiao Lin, You are still a child. What can you do? Mum",
           "cn": ""
         },
         {
-          "name": "Mike：",
-          "en": "Close your book. Close your book.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "Mike：",
-          "en": "Carry your bag. Carry your bag.",
+          "name": "Xiao Lin：",
+          "en": "Mum, I am a big boy now. I can sweep the floor. I can cook. I can look after my baby sister too! Xiao Lin",
           "mp3": "",
           "cn": ""
         }
       ]
     },
     {
-      "title": "Let's check",
-      "mp3": "b/7",
+      "title": "Project",
+      "mp3": "CProject",
       "list": [
         {
-          "name": "Miss White：",
-          "en": "Hello, I'm Miss White.",
+          "name": "",
+          "en": "Make a poster of a happy family",
           "mp3": "",
           "cn": ""
         },
         {
           "name": "",
-          "en": "Hello, Miss White.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "Zoom：",
-          "en": "Hello, I'm Zoom.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "Mike：",
-          "en": "Hi, I'm Mike. What's your name?",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "Chen Jie：",
-          "en": "My name's Chen Jie.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "Wu Binbin：",
-          "en": "Goodbye.",
-          "mp3": "",
-          "cn": ""
-        },
-        {
-          "name": "Chen Jie & Sarah：",
-          "en": "Bye.",
+          "en": "What do Chen Jie’s parents do? Listen, choose and match.",
           "mp3": "",
           "cn": ""
         }
       ]
     },
     {
-      "title": "Let's sing",
-      "subtit": "Hello!",
-      "mp3": "b/book/4",
+      "title": "Words in each unit",
+      "mp3": "Wordsineachunit_Unit1",
       "list": [
         {
           "name": "",
-          "en": "Hello, Sarah! Do, oh, do. Hello, John! Do, oh, do. Hello, Mike! Do, oh, do. Hello! Hello! Hello!",
+          "en": "*PE /ˌpiː ˈiː/",
           "mp3": "",
-          "cn": ""
+          "cn": "体育（课）"
         },
         {
           "name": "",
-          "en": "Hello, Sarah! Do, oh, do. Hello, John! Do, oh, do. Hello, Mike! Do, oh, do. Hello! Hello! Hello!",
+          "en": "*job /dʒɒb/",
           "mp3": "",
-          "cn": ""
-        }
-      ]
-    },
-    {
-      "title": "Story time",
-      "mp3": "c/1",
-      "list": [
-        {
-          "name": "Zip：",
-          "en": "Hello!",
-          "mp3": "c/t1",
-          "cn": ""
+          "cn": "工作；职业"
         },
         {
-          "name": "Zoom：",
-          "en": "Hi! Who's there?",
-          "mp3": "c/t2",
-          "cn": ""
+          "name": "",
+          "en": "*doctor /ˈdɒktə(r)/",
+          "mp3": "",
+          "cn": "医生"
         },
         {
-          "name": "Zip：",
-          "en": "Guess!",
-          "mp3": "c/t3",
-          "cn": ""
+          "name": "",
+          "en": "*farmer /ˈfɑːmə(r)/",
+          "mp3": "",
+          "cn": "农场主；农民"
         },
         {
-          "name": "Zoom：",
-          "en": "Are you Tutu?",
-          "mp3": "c/t4",
-          "cn": ""
+          "name": "",
+          "en": "*nurse /nɜːs/",
+          "mp3": "",
+          "cn": "护士"
         },
         {
-          "name": "Zip：",
-          "en": "No!",
-          "mp3": "c/t5",
-          "cn": ""
+          "name": "",
+          "en": "office /ˈɒfɪs/ worker /ˈwɜːkə(r)/",
+          "mp3": "",
+          "cn": "公司职员"
         },
         {
-          "name": "Zip：",
-          "en": "Haha! I'm Zip!",
-          "mp3": "c/t6",
-          "cn": ""
+          "name": "",
+          "en": "factory /ˈfæktri/ worker",
+          "mp3": "",
+          "cn": "工厂工人"
         },
         {
-          "name": "Zoom：",
-          "en": "Hi, Zip! My name's Zoom.",
-          "mp3": "c/t7",
-          "cn": ""
+          "name": "",
+          "en": "*busy /ˈbɪzi/",
+          "mp3": "",
+          "cn": "忙碌的"
         },
         {
-          "name": "Zoom：",
-          "en": "Let's play! OK?",
-          "mp3": "c/t8",
-          "cn": ""
+          "name": "",
+          "en": "*tired /ˈtaɪəd/",
+          "mp3": "",
+          "cn": "疲倦的"
         },
         {
-          "name": "Zip：",
-          "en": "Great!",
-          "mp3": "c/t9",
-          "cn": ""
+          "name": "",
+          "en": "*chore /tʃɔː(r)/",
+          "mp3": "",
+          "cn": "家庭杂务"
+        },
+        {
+          "name": "",
+          "en": "*cook /kʊk/",
+          "mp3": "",
+          "cn": "烹饪；煮"
+        },
+        {
+          "name": "",
+          "en": "*clean /kliːn/",
+          "mp3": "",
+          "cn": "打扫；干净的"
+        },
+        {
+          "name": "",
+          "en": "*room /ruːm/",
+          "mp3": "",
+          "cn": "房间"
+        },
+        {
+          "name": "",
+          "en": "look after",
+          "mp3": "",
+          "cn": "照顾"
+        },
+        {
+          "name": "",
+          "en": "*sweep /swiːp/",
+          "mp3": "",
+          "cn": "扫"
+        },
+        {
+          "name": "",
+          "en": "*floor /flɔː(r)/",
+          "mp3": "",
+          "cn": "地板；地面"
+        },
+        {
+          "name": "",
+          "en": "together /təˈɡeðə(r)/",
+          "mp3": "",
+          "cn": "在一起；共同"
+        },
+        {
+          "name": "",
+          "en": "*people /ˈpiːpl/",
+          "mp3": "",
+          "cn": "人；人们"
+        },
+        {
+          "name": "",
+          "en": "*child /tʃaɪld/",
+          "mp3": "",
+          "cn": "儿童；小孩 "
+        },
+        {
+          "name": "",
+          "en": "children /ˈtʃɪldrən/",
+          "mp3": "",
+          "cn": "儿童；小孩（复数）"
         }
       ]
     }
