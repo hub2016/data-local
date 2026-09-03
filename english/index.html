@@ -1,0 +1,1692 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
+    <title>英语学习 - PEP小学英语</title>
+    <style>
+        /* ===== 全局重置 & 基础 ===== */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, "PingFang SC", "Helvetica Neue", Arial, sans-serif;
+            background: #f5f8fc;
+            color: #1e2a3a;
+            min-height: 100vh;
+            padding-bottom: 40px;
+        }
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        /* ===== 顶部导航 ===== */
+        .app-header {
+            background: linear-gradient(90deg, #4a7cf7 0%, #8a63f9 100%);
+            padding: 14px 24px 14px;
+            color: #fff;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15);
+            position: sticky;
+            top: 0;
+            z-index: 50;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .app-header .brand {
+            font-size: 20px;
+            font-weight: 700;
+            letter-spacing: 0.5px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .app-header .right-controls {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .app-header .right-controls label {
+            font-size: 14px;
+            opacity: 0.9;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .app-header .right-controls select {
+            padding: 4px 8px;
+            border-radius: 20px;
+            border: none;
+            font-size: 14px;
+            background: rgba(255, 255, 255, 0.2);
+            color: #fff;
+            cursor: pointer;
+            outline: none;
+            transition: background 0.2s;
+            appearance: none;
+            -webkit-appearance: none;
+            padding-right: 24px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='white' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 8px center;
+            background-size: 10px;
+        }
+        .app-header .right-controls select option {
+            color: #1e2a3a;
+            background: #fff;
+        }
+        .app-header .right-controls select:hover {
+            background-color: rgba(255, 255, 255, 0.3);
+        }
+
+        .app-header .nav-path {
+            font-size: 14px;
+            opacity: 0.85;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+            flex: 1;
+        }
+        .app-header .nav-path span {
+            cursor: pointer;
+            transition: opacity 0.2s;
+        }
+        .app-header .nav-path span:hover {
+            opacity: 0.7;
+        }
+        .app-header .nav-path .sep {
+            opacity: 0.5;
+            cursor: default;
+        }
+        .app-header .nav-path .sep:hover {
+            opacity: 0.5;
+        }
+
+        /* ===== 容器 ===== */
+        .container {
+            max-width: 880px;
+            margin: 0 auto;
+            padding: 20px 16px 0;
+        }
+
+        /* ===== 年级选择页 ===== */
+        .page-grades .page-title {
+            font-size: 26px;
+            font-weight: 700;
+            color: #1e2a3a;
+            margin-bottom: 6px;
+        }
+        .page-grades .page-sub {
+            color: #6b7a8a;
+            font-size: 15px;
+            margin-bottom: 24px;
+        }
+        .grade-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 24px;
+        }
+        .grade-card {
+            background: #fff;
+            border-radius: 20px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+            overflow: hidden;
+            cursor: pointer;
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            border: 1px solid rgba(0, 0, 0, 0.04);
+        }
+        .grade-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 32px rgba(0, 0, 0, 0.10);
+        }
+        .grade-card .cover {
+            width: 100%;
+            aspect-ratio: 1/1;
+            background: #e9eef3;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 48px;
+            font-weight: 300;
+            color: #a0b3c5;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        .grade-card .cover img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
+        .grade-card .info {
+            padding: 16px 18px 18px;
+        }
+        .grade-card .info .main {
+            font-size: 17px;
+            font-weight: 700;
+            color: #1e2a3a;
+        }
+        .grade-card .info .sub {
+            font-size: 13px;
+            color: #6b7a8a;
+            margin-top: 2px;
+        }
+
+        /* ===== 单元列表页 ===== */
+        .page-units .back-row {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+        .page-units .back-row button {
+            background: none;
+            border: none;
+            font-size: 28px;
+            cursor: pointer;
+            color: #2b6c94;
+            padding: 0 4px;
+            transition: transform 0.2s;
+        }
+        .page-units .back-row button:hover {
+            transform: scale(1.1);
+        }
+        .page-units .page-title {
+            font-size: 24px;
+            font-weight: 700;
+        }
+        .page-units .page-sub {
+            color: #6b7a8a;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+        .unit-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+            gap: 16px;
+        }
+        .unit-card {
+            background: #fff;
+            border-radius: 16px;
+            padding: 18px 14px;
+            text-align: center;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+            cursor: pointer;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            border: 1px solid rgba(0, 0, 0, 0.04);
+        }
+        .unit-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+        }
+        .unit-card .num {
+            font-size: 32px;
+            font-weight: 300;
+            color: #6a6ff8;
+            display: block;
+            margin-bottom: 4px;
+        }
+        .unit-card .title {
+            font-size: 20px;
+            font-weight: 600;
+            color: #1e2a3a;
+            line-height: 1.3;
+        }
+
+        /* ===== 单元详情页 ===== */
+        .page-detail .back-row {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 12px;
+            flex-wrap: wrap;
+        }
+        .page-detail .back-row button {
+            background: none;
+            border: none;
+            font-size: 28px;
+            cursor: pointer;
+            color: #2b6c94;
+            padding: 0 4px;
+            transition: transform 0.2s;
+        }
+        .page-detail .back-row button:hover {
+            transform: scale(1.1);
+        }
+        .page-detail .unit-title {
+            font-size: 26px;
+            font-weight: 700;
+            color: #1e2a3a;
+        }
+
+        /* ===== Lesson 卡片 ===== */
+        .lesson-block {
+            background: #fff;
+            border-radius: 18px;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+            margin-bottom: 20px;
+            overflow: hidden;
+            border: 1px solid rgba(0, 0, 0, 0.04);
+            transition: border-color 0.3s, box-shadow 0.3s, transform 0.2s;
+            scroll-margin-top: 80px;
+        }
+        .lesson-block.active {
+            border-color: #6a6ff8;
+            box-shadow: 0 0 0 3px rgba(106, 111, 248, 0.25), 0 4px 20px rgba(106, 111, 248, 0.15);
+            transform: scale(1.01);
+        }
+        .lesson-block .lesson-header {
+            padding: 14px 20px 12px;
+            background: #f8faff;
+            border-bottom: 1px solid #eef3f8;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .lesson-block .lesson-header .title {
+            font-size: 18px;
+            font-weight: 700;
+            color: #1e2a3a;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .lesson-block .lesson-header .title .badge {
+            font-size: 13px;
+            font-weight: 500;
+            background: #e0e8f0;
+            color: #3d5a73;
+            padding: 0 10px;
+            border-radius: 30px;
+            line-height: 24px;
+        }
+        .lesson-block .lesson-header .controls {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+        .lesson-block .lesson-header .audio-btn {
+            background: linear-gradient(90deg, #4a7cf7 0%, #8a63f9 100%);
+            border: none;
+            color: #fff;
+            padding: 6px 16px;
+            border-radius: 30px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: background 0.2s, transform 0.15s;
+            flex-shrink: 0;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+            min-width: 60px;
+        }
+        .lesson-block .lesson-header .audio-btn:hover {
+            background: #8a63f9;
+        }
+        .lesson-block .lesson-header .audio-btn:active {
+            transform: scale(0.95);
+        }
+        .lesson-block .lesson-header .audio-btn.playing {
+            background: #e67e22;
+            animation: pulse 1s infinite;
+        }
+        .lesson-block .lesson-header .continue-btn {
+            background: #34a853;
+            border: none;
+            color: #fff;
+            padding: 6px 14px;
+            border-radius: 30px;
+            font-size: 13px;
+            cursor: pointer;
+            transition: background 0.2s, transform 0.15s;
+            flex-shrink: 0;
+            font-weight: 500;
+            letter-spacing: 0.3px;
+            white-space: nowrap;
+        }
+        .lesson-block .lesson-header .continue-btn:hover {
+            background: #2d9248;
+        }
+        .lesson-block .lesson-header .continue-btn:active {
+            transform: scale(0.95);
+        }
+        .lesson-block .lesson-header .continue-btn.playing {
+            background: #e67e22;
+            animation: pulse 1s infinite;
+        }
+        .lesson-block .lesson-header .stop-btn {
+            background: #ea4335;
+            border: none;
+            color: #fff;
+            padding: 6px 14px;
+            border-radius: 30px;
+            font-size: 13px;
+            cursor: pointer;
+            transition: background 0.2s, transform 0.15s;
+            flex-shrink: 0;
+            font-weight: 500;
+            letter-spacing: 0.3px;
+            white-space: nowrap;
+        }
+        .lesson-block .lesson-header .stop-btn:hover {
+            background: #d33426;
+        }
+        .lesson-block .lesson-header .stop-btn:active {
+            transform: scale(0.95);
+        }
+        .lesson-block .lesson-header .btn-hidden {
+            display: none !important;
+        }
+        @keyframes pulse {
+            0%,
+            100% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.05);
+            }
+        }
+        .lesson-block .lesson-body {
+            padding: 10px 20px 16px;
+        }
+
+        /* ===== 条目列表 ===== */
+        .entry-list {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+        .entry-item {
+            padding: 8px 6px;
+            border-radius: 8px;
+            line-height: 1.6;
+            font-size: 15px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: baseline;
+            gap: 4px 8px;
+        }
+        .entry-item .speaker {
+            font-weight: 700;
+            color: #2b6c94;
+            flex-shrink: 0;
+        }
+        .entry-item .en {
+            color: #1e2a3a;
+            word-break: break-word;
+        }
+        .entry-item .cn {
+            color: #6b7a8a;
+            font-size: 14px;
+            margin-left: 4px;
+            word-break: break-word;
+        }
+        .entry-item .cn::before {
+            content: "（";
+        }
+        .entry-item .cn::after {
+            content: "）";
+        }
+        /* 单词列表特殊样式 */
+        .lesson-block.type-words .entry-item .en {
+            font-weight: 500;
+            color: #1e2a3a;
+        }
+        .lesson-block.type-words .entry-item .cn {
+            color: #6b7a8a;
+            font-weight: 400;
+        }
+        .lesson-block.type-words .entry-item .cn::before {
+            content: "";
+        }
+        .lesson-block.type-words .entry-item .cn::after {
+            content: "";
+        }
+        .lesson-block.type-words .entry-item {
+            padding: 5px 6px;
+            border-bottom: 1px solid #f0f4f9;
+        }
+        .lesson-block.type-words .entry-item:last-child {
+            border-bottom: none;
+        }
+
+        /* 空状态 & 错误提示 */
+        .empty-state {
+            text-align: center;
+            padding: 40px 20px;
+            color: #8a9aa8;
+            font-size: 15px;
+        }
+        .error-state {
+            text-align: center;
+            padding: 40px 20px;
+            color: #c0392b;
+            font-size: 16px;
+            background: #fff5f5;
+            border-radius: 12px;
+            border: 1px solid #fdd;
+        }
+        .error-state .hint {
+            margin-top: 12px;
+            font-size: 14px;
+            color: #6b7a8a;
+            background: #f0f4f9;
+            padding: 12px 16px;
+            border-radius: 8px;
+            display: inline-block;
+            text-align: left;
+        }
+        .error-state .hint code {
+            background: #e9eef3;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 13px;
+        }
+
+        /* ===== 加载状态 ===== */
+        .loading {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6b7a8a;
+            font-size: 16px;
+        }
+        .loading .spinner {
+            display: inline-block;
+            width: 32px;
+            height: 32px;
+            border: 3px solid #e0e8f0;
+            border-top-color: #6a6ff8;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin-bottom: 12px;
+        }
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* ===== 提示 Toast ===== */
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(30, 42, 58, 0.88);
+            color: #fff;
+            padding: 10px 24px;
+            border-radius: 30px;
+            font-size: 14px;
+            backdrop-filter: blur(4px);
+            opacity: 0;
+            transition: opacity 0.3s ease, transform 0.3s ease;
+            pointer-events: none;
+            z-index: 999;
+            white-space: nowrap;
+        }
+        .toast.show {
+            opacity: 1;
+            transform: translateX(-50%) translateY(0);
+        }
+
+        /* ===== 响应式 ===== */
+        @media (max-width: 600px) {
+            .app-header {
+                padding: 12px 16px 10px;
+                flex-direction: column;
+                align-items: stretch;
+                gap: 8px;
+            }
+            .app-header .brand {
+                font-size: 17px;
+            }
+            .app-header .nav-path {
+                font-size: 12px;
+                order: 2;
+            }
+            .app-header .right-controls {
+                order: 1;
+                justify-content: flex-end;
+            }
+            .app-header .right-controls label {
+                font-size: 13px;
+            }
+            .app-header .right-controls select {
+                font-size: 13px;
+                padding: 2px 6px;
+                padding-right: 20px;
+            }
+            .container {
+                padding: 12px 12px 0;
+            }
+            .page-grades .page-title {
+                font-size: 22px;
+            }
+            .grade-grid {
+                grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+                gap: 16px;
+            }
+            .grade-card .info .main {
+                font-size: 15px;
+            }
+            .unit-grid {
+                grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+                gap: 12px;
+            }
+            .unit-card .num {
+                font-size: 26px;
+            }
+            .unit-card .title {
+                font-size: 13px;
+            }
+            .page-detail .unit-title {
+                font-size: 21px;
+            }
+            .lesson-block .lesson-header {
+                padding: 12px 14px 10px;
+            }
+            .lesson-block .lesson-header .title {
+                font-size: 16px;
+            }
+            .lesson-block .lesson-body {
+                padding: 8px 14px 12px;
+            }
+            .entry-item {
+                font-size: 14px;
+                padding: 6px 4px;
+            }
+            .entry-item .cn {
+                font-size: 13px;
+            }
+            .toast {
+                font-size: 13px;
+                padding: 8px 18px;
+                white-space: normal;
+                max-width: 90%;
+            }
+            .lesson-block .lesson-header .audio-btn,
+            .lesson-block .lesson-header .continue-btn,
+            .lesson-block .lesson-header .stop-btn {
+                font-size: 12px;
+                padding: 4px 10px;
+                min-width: 44px;
+            }
+        }
+        @media (max-width: 400px) {
+            .grade-grid {
+                grid-template-columns: 1fr 1fr;
+                gap: 12px;
+            }
+            .unit-grid {
+                grid-template-columns: 1fr 1fr;
+                gap: 10px;
+            }
+            .unit-card {
+                padding: 14px 10px;
+            }
+        }
+
+        /* ===== 工具类 ===== */
+        .hidden {
+            display: none !important;
+        }
+        .mt-8 {
+            margin-top: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- ===== 顶部导航 ===== -->
+    <header class="app-header" id="appHeader">
+        <div class="brand">
+            <span>PEP 英语</span>
+        </div>
+        <div class="nav-path" id="navPath">
+            <span data-target="grades">年级</span>
+        </div>
+        <div class="right-controls">
+            <label for="speedSelect">
+                语速
+                <select id="speedSelect">
+                    <option value="0.5">0.5x</option>
+                    <option value="0.75">0.75x</option>
+                    <option value="1.0" selected>1.0x</option>
+                    <option value="1.25">1.25x</option>
+                    <option value="1.5">1.5x</option>
+                    <option value="2.0">2.0x</option>
+                </select>
+            </label>
+        </div>
+    </header>
+
+    <!-- ===== 页面容器 ===== -->
+    <div class="container" id="appContainer">
+        <!-- 年级选择页 -->
+        <div id="pageGrades" class="page-grades">
+            <div class="page-title">选择年级</div>
+            <div class="page-sub">人教版 PEP 小学英语 · 2024 新版</div>
+            <div class="grade-grid" id="gradeGrid">
+                <!-- 动态渲染 -->
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <div>加载中...</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 单元列表页 -->
+        <div id="pageUnits" class="page-units hidden">
+            <div class="back-row">
+                <button id="backToGrades" aria-label="返回年级">‹</button>
+                <span class="page-title" id="unitListTitle">单元列表</span>
+            </div>
+            <div class="page-sub" id="unitListSub">选择要学习的单元</div>
+            <div class="unit-grid" id="unitGrid">
+                <!-- 动态渲染 -->
+            </div>
+        </div>
+
+        <!-- 单元详情页 -->
+        <div id="pageDetail" class="page-detail hidden">
+            <div class="back-row">
+                <button id="backToUnits" aria-label="返回单元列表">‹</button>
+                <span class="unit-title" id="detailTitle">Unit 1</span>
+            </div>
+            <div id="detailContent">
+                <!-- 动态渲染 -->
+            </div>
+        </div>
+    </div>
+
+    <!-- ===== Toast 提示 ===== -->
+    <div class="toast" id="toast"></div>
+
+    <script>
+        // ============================================================
+        //  配置
+        // ============================================================
+        const CONFIG = {
+            seniorsPath: 'seniors.json',
+            coverDir: 'cover/',
+            gradeDir: '',
+            audioDirMap: {
+                41: '4A',
+                61: '6A'
+            },
+        };
+
+        // ============================================================
+        //  状态
+        // ============================================================
+        const state = {
+            grades: [],
+            currentGrade: null,
+            currentGradeData: null,
+            currentUnit: null,
+            currentUnitData: null,
+            audioPlayers: {},
+            currentSpeed: 1.0,
+            // 播放模式: 'single' | 'continuous' | 'idle'
+            mode: 'idle',
+            // 单次播放
+            singleAudio: null,
+            singleBtn: null,
+            singleIndex: -1,
+            // 连续播放
+            continuousAudio: null,
+            continuousBtn: null,
+            continuousIndex: -1,
+            continuousQueue: [],
+            queueIndex: -1,
+        };
+
+        // ============================================================
+        //  DOM 引用
+        // ============================================================
+        const $ = (sel) => document.querySelector(sel);
+        const $$ = (sel) => document.querySelectorAll(sel);
+
+        const elPages = {
+            grades: $('#pageGrades'),
+            units: $('#pageUnits'),
+            detail: $('#pageDetail'),
+        };
+        const elGradeGrid = $('#gradeGrid');
+        const elUnitGrid = $('#unitGrid');
+        const elUnitListTitle = $('#unitListTitle');
+        const elUnitListSub = $('#unitListSub');
+        const elDetailTitle = $('#detailTitle');
+        const elDetailContent = $('#detailContent');
+        const elNavPath = $('#navPath');
+        const elToast = $('#toast');
+        const elSpeedSelect = $('#speedSelect');
+
+        // ============================================================
+        //  工具函数
+        // ============================================================
+        function showToast(msg, duration = 2200) {
+            elToast.textContent = msg;
+            elToast.classList.add('show');
+            clearTimeout(elToast._hideTimer);
+            elToast._hideTimer = setTimeout(() => {
+                elToast.classList.remove('show');
+            }, duration);
+        }
+
+        function getAudioFolder(grade) {
+            return CONFIG.audioDirMap[grade] || `A${grade}`;
+        }
+
+        function buildAudioPath(grade, path, mp3) {
+            if (!mp3) return null;
+            const folder = getAudioFolder(grade);
+            return `${folder}/${path}/${mp3}.mp3`;
+        }
+
+        function isFileProtocol() {
+            return window.location.protocol === 'file:';
+        }
+
+        // ============================================================
+        //  导航路径更新
+        // ============================================================
+        function updateNavPath(segments) {
+            let html = '';
+            segments.forEach((seg, idx) => {
+                if (idx > 0) {
+                    html += `<span class="sep"> › </span>`;
+                }
+                const dataAttr = seg.data ? ` data-grade="${seg.data.grade}" data-unit="${seg.data.unit || ''}"` :
+                '';
+                html += `<span data-target="${seg.target}"${dataAttr}>${seg.label}</span>`;
+            });
+            elNavPath.innerHTML = html;
+
+            elNavPath.querySelectorAll('[data-target]').forEach((el) => {
+                el.addEventListener('click', (e) => {
+                    const target = el.dataset.target;
+                    if (target === 'grades') {
+                        resetAll();
+                        showPage('grades');
+                    } else if (target === 'units') {
+                        const grade = parseInt(el.dataset.grade);
+                        if (grade && state.currentGrade) {
+                            resetAll();
+                            loadUnitList(grade);
+                        }
+                    } else if (target === 'detail') {
+                        showToast('请从单元列表进入');
+                    }
+                });
+            });
+        }
+
+        // ============================================================
+        //  页面切换
+        // ============================================================
+        function showPage(page, data) {
+            Object.keys(elPages).forEach((key) => {
+                elPages[key].classList.add('hidden');
+            });
+
+            if (page === 'grades') {
+                elPages.grades.classList.remove('hidden');
+                updateNavPath([{ label: '年级', target: 'grades' }]);
+                renderGrades();
+            } else if (page === 'units') {
+                elPages.units.classList.remove('hidden');
+                const g = data?.grade || state.currentGrade;
+                if (g) {
+                    updateNavPath([
+                        { label: '年级', target: 'grades' },
+                        { label: `${g.mainTitle || g.grade}`, target: 'units', data: { grade: g.grade } }
+                    ]);
+                }
+                renderUnitList();
+            } else if (page === 'detail') {
+                elPages.detail.classList.remove('hidden');
+                const g = state.currentGrade;
+                const u = state.currentUnit;
+                if (g && u) {
+                    updateNavPath([
+                        { label: '年级', target: 'grades' },
+                        { label: `${g.mainTitle || g.grade}`, target: 'units', data: { grade: g.grade } },
+                        { label: `Unit ${u.id}`, target: 'detail', data: { grade: g.grade, unit: u.id } }
+                    ]);
+                }
+                renderDetail();
+            }
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        // ============================================================
+        //  1. 年级页
+        // ============================================================
+        async function renderGrades() {
+            if (isFileProtocol()) {
+                elGradeGrid.innerHTML = `
+                    <div class="error-state">
+                        <div style="font-size: 20px; margin-bottom: 8px;">无法加载数据</div>
+                        <div>检测到当前使用 <code>file://</code> 协议打开，浏览器安全策略禁止读取本地 JSON 文件。</div>
+                        <div class="hint">
+                            请使用以下方式之一运行：<br>
+                            1. VS Code 中右键此文件，选择 <strong>"Open with Live Server"</strong><br>
+                            2. 在终端进入此目录，运行 <code>python -m http.server 8080</code>，然后访问 <code>http://localhost:8080</code>
+                        </div>
+                    </div>
+                `;
+                return;
+            }
+
+            if (state.grades.length === 0) {
+                elGradeGrid.innerHTML =
+                    `<div class="loading"><div class="spinner"></div><div>加载年级列表...</div></div>`;
+                try {
+                    const resp = await fetch(CONFIG.seniorsPath);
+                    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+                    const data = await resp.json();
+                    state.grades = data;
+                } catch (err) {
+                    console.error('加载 seniors.json 失败:', err);
+                    elGradeGrid.innerHTML =
+                        `<div class="empty-state">加载失败，请检查文件路径<br><span style="font-size:13px;color:#999;">${err.message}</span></div>`;
+                    return;
+                }
+            }
+
+            if (!state.grades.length) {
+                elGradeGrid.innerHTML = `<div class="empty-state">暂无年级数据</div>`;
+                return;
+            }
+
+            let html = '';
+            for (const g of state.grades) {
+                const coverImg = `${CONFIG.coverDir}grade${g.grade}.jpg`;
+                html += `
+                    <div class="grade-card" data-grade="${g.grade}">
+                        <div class="cover" style="background-image: url('${coverImg}');">
+                        </div>
+                        <div class="info">
+                            <div class="main">${g.mainTitle || `Grade ${g.grade}`}</div>
+                            <div class="sub">${g.subTitle || ''}</div>
+                        </div>
+                    </div>
+                `;
+            }
+            elGradeGrid.innerHTML = html;
+
+            elGradeGrid.querySelectorAll('.grade-card').forEach((card) => {
+                card.addEventListener('click', () => {
+                    const grade = parseInt(card.dataset.grade);
+                    const g = state.grades.find((item) => item.grade === grade);
+                    if (g) {
+                        resetAll();
+                        loadUnitList(grade);
+                    }
+                });
+            });
+        }
+
+        // ============================================================
+        //  2. 单元列表页
+        // ============================================================
+        async function loadUnitList(grade) {
+            const g = state.grades.find((item) => item.grade === grade);
+            if (!g) {
+                showToast('未找到该年级信息');
+                return;
+            }
+            state.currentGrade = g;
+
+            const gradeDir = `${grade}/`;
+            const gradeJsonPath = `${gradeDir}grade.json`;
+
+            try {
+                const resp = await fetch(gradeJsonPath);
+                if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+                const data = await resp.json();
+                state.currentGradeData = data;
+
+                elUnitListTitle.textContent = data.mainTitle || `Grade ${grade}`;
+                elUnitListSub.textContent = `${data.subTitle || ''} ${data.from || ''}`.trim() || '选择单元';
+
+                showPage('units');
+            } catch (err) {
+                console.error('加载 grade.json 失败:', err);
+                showToast(`加载失败: ${err.message}`);
+                showPage('grades');
+            }
+        }
+
+        function renderUnitList() {
+            const data = state.currentGradeData;
+            if (!data || !data.units) {
+                elUnitGrid.innerHTML = `<div class="empty-state">暂无单元数据</div>`;
+                return;
+            }
+
+            let html = '';
+            for (const unit of data.units) {
+                const id = unit.id;
+                const title = unit.title.slice(6);
+                html += `
+                    <div class="unit-card" data-unit="${id}">
+                        <span class="num">Unit ${id}</span>
+                        <div class="title">${title}</div>
+                    </div>
+                `;
+            }
+            elUnitGrid.innerHTML = html;
+
+            elUnitGrid.querySelectorAll('.unit-card').forEach((card) => {
+                card.addEventListener('click', () => {
+                    const id = parseInt(card.dataset.unit);
+                    const unit = data.units.find((u) => u.id === id);
+                    if (unit) {
+                        resetAll();
+                        loadUnitDetail(unit);
+                    }
+                });
+            });
+        }
+
+        // ============================================================
+        //  3. 单元详情页
+        // ============================================================
+        async function loadUnitDetail(unit) {
+            state.currentUnit = unit;
+            const grade = state.currentGrade.grade;
+            const gradeDir = `${grade}/`;
+            const unitPath = `${gradeDir}${unit.id}.json`;
+
+            try {
+                const resp = await fetch(unitPath);
+                if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+                const data = await resp.json();
+                state.currentUnitData = data;
+
+                elDetailTitle.textContent = data.title || `Unit ${unit.id}`;
+                showPage('detail');
+            } catch (err) {
+                console.error('加载单元 JSON 失败:', err);
+                showToast(`加载失败: ${err.message}`);
+                showPage('units');
+            }
+        }
+
+        function renderDetail() {
+            const data = state.currentUnitData;
+            if (!data || !data.lessons) {
+                elDetailContent.innerHTML = `<div class="empty-state">暂无课程内容</div>`;
+                return;
+            }
+
+            const grade = state.currentGrade.grade;
+            const path = data.path || '';
+
+            let html = '';
+            let lessonIndex = 0;
+            for (const lesson of data.lessons) {
+                const title = lesson.title || '未命名课程';
+                const mp3 = lesson.mp3 || '';
+                const list = lesson.list || [];
+                const type = getLessonType(title);
+                const isWords = type === 'words';
+
+                const audioUrl = buildAudioPath(grade, path, mp3);
+
+                let entriesHtml = '';
+                if (list.length === 0) {
+                    entriesHtml = `<div class="empty-state" style="padding:12px 0;font-size:14px;">暂无内容</div>`;
+                } else {
+                    const items = list.map((item) => {
+                        const speaker = item.name || '';
+                        const en = item.en || '';
+                        const cn = item.cn || '';
+                        const hasSpeaker = speaker && speaker.trim() !== '';
+                        const hasCn = cn && cn.trim() !== '';
+
+                        let cnHtml = '';
+                        if (hasCn) {
+                            cnHtml = `<span class="cn">${cn}</span>`;
+                        }
+
+                        if (isWords) {
+                            return `
+                                <div class="entry-item">
+                                    <span class="en">${en}</span>
+                                    ${cnHtml}
+                                </div>
+                            `;
+                        }
+
+                        return `
+                            <div class="entry-item">
+                                ${hasSpeaker ? `<span class="speaker">${speaker}</span>` : ''}
+                                <span class="en">${en}</span>
+                                ${cnHtml}
+                            </div>
+                        `;
+                    }).join('');
+                    entriesHtml = `<div class="entry-list">${items}</div>`;
+                }
+
+                let controlsHtml = '';
+                if (audioUrl) {
+                    controlsHtml = `
+                        <div class="controls" data-index="${lessonIndex}">
+                            <button class="audio-btn" data-audio="${audioUrl}" data-index="${lessonIndex}" aria-label="播放音频">播放</button>
+                            <button class="continue-btn" data-start-index="${lessonIndex}" aria-label="从此处连续播放">▶ 从此处连续</button>
+                            <button class="stop-btn btn-hidden" data-index="${lessonIndex}" aria-label="停止">停止</button>
+                        </div>
+                    `;
+                }
+
+                const typeClass = isWords ? 'type-words' : '';
+
+                html += `
+                    <div class="lesson-block ${typeClass}" data-lesson-index="${lessonIndex}" data-audio="${audioUrl || ''}">
+                        <div class="lesson-header">
+                            <div class="title">
+                                ${title}
+                                ${isWords ? `<span class="badge">单词</span>` : ''}
+                            </div>
+                            ${controlsHtml}
+                        </div>
+                        <div class="lesson-body">
+                            ${entriesHtml}
+                        </div>
+                    </div>
+                `;
+                lessonIndex++;
+            }
+
+            elDetailContent.innerHTML = html;
+
+            // 绑定按钮事件
+            bindAllButtons();
+        }
+
+        // ============================================================
+        //  辅助函数
+        // ============================================================
+        function getLessonType(title) {
+            if (!title) return 'default';
+            const t = title.toLowerCase();
+            if (t.includes('words')) return 'words';
+            if (t.includes('spell')) return 'spell';
+            if (t.includes('chant')) return 'chant';
+            if (t.includes('sing')) return 'sing';
+            if (t.includes('talk')) return 'talk';
+            if (t.includes('read and write')) return 'readwrite';
+            if (t.includes('project')) return 'project';
+            return 'default';
+        }
+
+        // ============================================================
+        //  核心播放逻辑
+        // ============================================================
+
+        // 获取某个卡片的所有按钮
+        function getCardButtons(controlsEl) {
+            const audioBtn = controlsEl.querySelector('.audio-btn');
+            const continueBtn = controlsEl.querySelector('.continue-btn');
+            const stopBtn = controlsEl.querySelector('.stop-btn');
+            return { audioBtn, continueBtn, stopBtn };
+        }
+
+        // 重置单个卡片到初始状态
+        function resetCardButtons(controlsEl) {
+            const { audioBtn, continueBtn, stopBtn } = getCardButtons(controlsEl);
+            if (audioBtn) {
+                audioBtn.textContent = '播放';
+                audioBtn.classList.remove('playing');
+                audioBtn.classList.remove('btn-hidden');
+            }
+            if (continueBtn) {
+                continueBtn.textContent = '▶ 从此处连续';
+                continueBtn.classList.remove('playing');
+                continueBtn.classList.remove('btn-hidden');
+            }
+            if (stopBtn) {
+                stopBtn.classList.add('btn-hidden');
+            }
+        }
+
+        // 重置所有卡片到初始状态
+        function resetAllCards() {
+            elDetailContent.querySelectorAll('.controls').forEach(controls => {
+                resetCardButtons(controls);
+            });
+            elDetailContent.querySelectorAll('.lesson-block.active').forEach(el => {
+                el.classList.remove('active');
+            });
+        }
+
+        // 设置所有卡片为某种模式
+        function setMode(mode, activeControlsEl) {
+            state.mode = mode;
+            const allControls = elDetailContent.querySelectorAll('.controls');
+
+            allControls.forEach(controls => {
+                const { audioBtn, continueBtn, stopBtn } = getCardButtons(controls);
+                const isActive = (controls === activeControlsEl);
+
+                if (mode === 'single') {
+                    // 单次播放模式：只显示当前卡片的 暂停+停止，其他卡片全部隐藏
+                    if (isActive) {
+                        if (audioBtn) {
+                            audioBtn.textContent = '暂停';
+                            audioBtn.classList.add('playing');
+                            audioBtn.classList.remove('btn-hidden');
+                        }
+                        if (continueBtn) {
+                            continueBtn.classList.add('btn-hidden');
+                        }
+                        if (stopBtn) {
+                            stopBtn.textContent = '停止';
+                            stopBtn.classList.remove('btn-hidden');
+                        }
+                    } else {
+                        if (audioBtn) audioBtn.classList.add('btn-hidden');
+                        if (continueBtn) continueBtn.classList.add('btn-hidden');
+                        if (stopBtn) stopBtn.classList.add('btn-hidden');
+                    }
+                } else if (mode === 'single_paused') {
+                    // 单次播放暂停状态
+                    if (isActive) {
+                        if (audioBtn) {
+                            audioBtn.textContent = '继续';
+                            audioBtn.classList.add('playing');
+                            audioBtn.classList.remove('btn-hidden');
+                        }
+                        if (continueBtn) {
+                            continueBtn.classList.add('btn-hidden');
+                        }
+                        if (stopBtn) {
+                            stopBtn.textContent = '停止';
+                            stopBtn.classList.remove('btn-hidden');
+                        }
+                    } else {
+                        if (audioBtn) audioBtn.classList.add('btn-hidden');
+                        if (continueBtn) continueBtn.classList.add('btn-hidden');
+                        if (stopBtn) stopBtn.classList.add('btn-hidden');
+                    }
+                } else if (mode === 'continuous') {
+                    // 连续播放模式：只显示当前卡片的 暂停+停止，其他全部隐藏
+                    if (isActive) {
+                        if (audioBtn) {
+                            audioBtn.classList.add('btn-hidden');
+                        }
+                        if (continueBtn) {
+                            continueBtn.textContent = '暂停连续';
+                            continueBtn.classList.add('playing');
+                            continueBtn.classList.remove('btn-hidden');
+                        }
+                        if (stopBtn) {
+                            stopBtn.textContent = '停止连续';
+                            stopBtn.classList.remove('btn-hidden');
+                        }
+                    } else {
+                        if (audioBtn) audioBtn.classList.add('btn-hidden');
+                        if (continueBtn) continueBtn.classList.add('btn-hidden');
+                        if (stopBtn) stopBtn.classList.add('btn-hidden');
+                    }
+                } else if (mode === 'continuous_paused') {
+                    // 连续播放暂停状态
+                    if (isActive) {
+                        if (audioBtn) {
+                            audioBtn.classList.add('btn-hidden');
+                        }
+                        if (continueBtn) {
+                            continueBtn.textContent = '继续连续';
+                            continueBtn.classList.add('playing');
+                            continueBtn.classList.remove('btn-hidden');
+                        }
+                        if (stopBtn) {
+                            stopBtn.textContent = '停止连续';
+                            stopBtn.classList.remove('btn-hidden');
+                        }
+                    } else {
+                        if (audioBtn) audioBtn.classList.add('btn-hidden');
+                        if (continueBtn) continueBtn.classList.add('btn-hidden');
+                        if (stopBtn) stopBtn.classList.add('btn-hidden');
+                    }
+                } else {
+                    // idle: 重置所有
+                    resetCardButtons(controls);
+                }
+            });
+
+            // 高亮处理
+            elDetailContent.querySelectorAll('.lesson-block.active').forEach(el => {
+                el.classList.remove('active');
+            });
+            if (activeControlsEl) {
+                const block = activeControlsEl.closest('.lesson-block');
+                if (block) block.classList.add('active');
+            }
+        }
+
+        // 重置所有（完全恢复到初始状态）
+        function resetAll() {
+            // 停止所有音频
+            if (state.singleAudio) {
+                state.singleAudio.pause();
+                state.singleAudio.currentTime = 0;
+                state.singleAudio = null;
+                state.singleBtn = null;
+                state.singleIndex = -1;
+            }
+            if (state.continuousAudio) {
+                state.continuousAudio.pause();
+                state.continuousAudio.currentTime = 0;
+                state.continuousAudio = null;
+                state.continuousBtn = null;
+                state.continuousIndex = -1;
+            }
+            state.continuousQueue = [];
+            state.queueIndex = -1;
+            state.mode = 'idle';
+            resetAllCards();
+        }
+
+        // ============================================================
+        //  单次播放
+        // ============================================================
+        function playSingle(url, btn, index) {
+            const controls = btn.closest('.controls');
+            const { audioBtn, continueBtn, stopBtn } = getCardButtons(controls);
+
+            // 如果当前是单次播放模式且点击的是同一个按钮
+            if (state.mode === 'single' && state.singleBtn === btn) {
+                // 暂停
+                if (state.singleAudio && !state.singleAudio.paused) {
+                    state.singleAudio.pause();
+                    setMode('single_paused', controls);
+                    return;
+                }
+            }
+            if (state.mode === 'single_paused' && state.singleBtn === btn) {
+                // 继续
+                if (state.singleAudio && state.singleAudio.paused) {
+                    state.singleAudio.play().catch(err => {
+                        console.error('恢复播放失败:', err);
+                        showToast('播放失败: ' + err.message);
+                    });
+                    setMode('single', controls);
+                    return;
+                }
+            }
+
+            // 如果是其他模式，重置再开始
+            resetAll();
+
+            try {
+                const audio = new Audio(url);
+                const speed = parseFloat(elSpeedSelect.value) || 1.0;
+                audio.playbackRate = speed;
+
+                state.singleAudio = audio;
+                state.singleBtn = btn;
+                state.singleIndex = index;
+
+                // 设置单次播放模式
+                setMode('single', controls);
+
+                audio.onplay = () => {
+                    if (audioBtn) {
+                        audioBtn.textContent = '暂停';
+                        audioBtn.classList.add('playing');
+                    }
+                };
+                audio.onpause = () => {
+                    if (audioBtn) {
+                        audioBtn.textContent = '继续';
+                        audioBtn.classList.add('playing');
+                    }
+                    setMode('single_paused', controls);
+                };
+                audio.onended = () => {
+                    if (audioBtn) {
+                        audioBtn.textContent = '播放';
+                        audioBtn.classList.remove('playing');
+                    }
+                    resetAll();
+                };
+                audio.onerror = (e) => {
+                    console.error('音频加载失败:', url, e);
+                    showToast('音频加载失败，请检查文件路径');
+                    resetAll();
+                };
+
+                audio.play().catch((err) => {
+                    console.error('播放失败:', err);
+                    showToast('播放失败: ' + err.message);
+                    resetAll();
+                });
+
+            } catch (err) {
+                console.error('创建 Audio 失败:', err);
+                showToast('音频播放不支持');
+                resetAll();
+            }
+        }
+
+        // ============================================================
+        //  连续播放
+        // ============================================================
+        function startContinuous(startIndex) {
+            // 重置所有
+            resetAll();
+
+            // 收集所有有音频的课程
+            const allControls = elDetailContent.querySelectorAll('.controls');
+            const queue = [];
+            allControls.forEach(controls => {
+                const audioBtn = controls.querySelector('.audio-btn');
+                if (audioBtn && audioBtn.dataset.audio) {
+                    const idx = parseInt(controls.dataset.index);
+                    queue.push({
+                        index: idx,
+                        controls: controls,
+                        audioBtn: audioBtn,
+                        url: audioBtn.dataset.audio,
+                    });
+                }
+            });
+
+            if (queue.length === 0) {
+                showToast('没有可播放的音频');
+                return;
+            }
+
+            // 找到起始位置
+            let startQueueIdx = -1;
+            for (let i = 0; i < queue.length; i++) {
+                if (queue[i].index >= startIndex) {
+                    startQueueIdx = i;
+                    break;
+                }
+            }
+            if (startQueueIdx === -1) {
+                showToast('没有找到可播放的音频');
+                return;
+            }
+
+            state.continuousQueue = queue;
+            state.queueIndex = startQueueIdx;
+            state.mode = 'continuous';
+
+            // 播放第一个
+            playNextInQueue();
+        }
+
+        function playNextInQueue() {
+            if (state.mode !== 'continuous' && state.mode !== 'continuous_paused') return;
+
+            const queue = state.continuousQueue;
+            let idx = state.queueIndex;
+
+            if (idx >= queue.length) {
+                showToast('全部播放完成 🎉');
+                resetAll();
+                return;
+            }
+
+            const item = queue[idx];
+            if (!item) {
+                state.queueIndex++;
+                playNextInQueue();
+                return;
+            }
+
+            const controls = item.controls;
+            const url = item.url;
+
+            // 设置模式为 continuous，高亮当前卡片
+            setMode('continuous', controls);
+            scrollToLesson(item.index);
+
+            try {
+                const audio = new Audio(url);
+                const speed = parseFloat(elSpeedSelect.value) || 1.0;
+                audio.playbackRate = speed;
+
+                state.continuousAudio = audio;
+                state.continuousBtn = controls.querySelector('.continue-btn');
+                state.continuousIndex = item.index;
+
+                const { continueBtn, stopBtn } = getCardButtons(controls);
+
+                audio.onplay = () => {
+                    if (continueBtn) {
+                        continueBtn.textContent = '暂停连续';
+                        continueBtn.classList.add('playing');
+                    }
+                };
+                audio.onpause = () => {
+                    if (continueBtn) {
+                        continueBtn.textContent = '继续连续';
+                        continueBtn.classList.add('playing');
+                    }
+                    setMode('continuous_paused', controls);
+                };
+                audio.onended = () => {
+                    if (continueBtn) {
+                        continueBtn.textContent = '▶ 从此处连续';
+                        continueBtn.classList.remove('playing');
+                    }
+                    // 播放下一个
+                    state.queueIndex++;
+                    // 重置当前卡片的高亮，但保留状态
+                    if (state.mode === 'continuous' || state.mode === 'continuous_paused') {
+                        // 继续播放
+                        playNextInQueue();
+                    }
+                };
+                audio.onerror = (e) => {
+                    console.error('音频加载失败:', url, e);
+                    showToast('音频加载失败，跳过');
+                    state.queueIndex++;
+                    playNextInQueue();
+                };
+
+                audio.play().catch((err) => {
+                    console.error('播放失败:', err);
+                    showToast('播放失败，跳过');
+                    state.queueIndex++;
+                    playNextInQueue();
+                });
+
+            } catch (err) {
+                console.error('创建 Audio 失败:', err);
+                state.queueIndex++;
+                playNextInQueue();
+            }
+        }
+
+        // 暂停连续播放
+        function pauseContinuous(controls) {
+            if (state.continuousAudio && !state.continuousAudio.paused) {
+                state.continuousAudio.pause();
+                setMode('continuous_paused', controls);
+            }
+        }
+
+        // 继续连续播放
+        function resumeContinuous(controls) {
+            if (state.continuousAudio && state.continuousAudio.paused) {
+                state.continuousAudio.play().catch(err => {
+                    console.error('恢复连续播放失败:', err);
+                    showToast('播放失败: ' + err.message);
+                });
+                setMode('continuous', controls);
+            }
+        }
+
+        // ============================================================
+        //  滚动
+        // ============================================================
+        function scrollToLesson(index) {
+            const blocks = elDetailContent.querySelectorAll('.lesson-block');
+            if (blocks[index]) {
+                blocks[index].scrollIntoView({
+                    behavior: 'smooth',
+                    block: 'center'
+                });
+            }
+        }
+
+        // ============================================================
+        //  绑定按钮事件
+        // ============================================================
+        function bindAllButtons() {
+            // 播放按钮
+            elDetailContent.querySelectorAll('.audio-btn').forEach(btn => {
+                btn.removeEventListener('click', handleAudioClick);
+                btn.addEventListener('click', handleAudioClick);
+            });
+
+            // 连续播放按钮
+            elDetailContent.querySelectorAll('.continue-btn').forEach(btn => {
+                btn.removeEventListener('click', handleContinueClick);
+                btn.addEventListener('click', handleContinueClick);
+            });
+
+            // 停止按钮
+            elDetailContent.querySelectorAll('.stop-btn').forEach(btn => {
+                btn.removeEventListener('click', handleStopClick);
+                btn.addEventListener('click', handleStopClick);
+            });
+        }
+
+        function handleAudioClick(e) {
+            e.stopPropagation();
+            const btn = e.currentTarget;
+            const controls = btn.closest('.controls');
+            const url = btn.dataset.audio;
+            const index = parseInt(btn.dataset.index);
+            if (url) {
+                // 如果当前是连续播放模式，先重置
+                if (state.mode === 'continuous' || state.mode === 'continuous_paused') {
+                    resetAll();
+                }
+                playSingle(url, btn, index);
+            }
+        }
+
+        function handleContinueClick(e) {
+            e.stopPropagation();
+            const btn = e.currentTarget;
+            const controls = btn.closest('.controls');
+            const startIndex = parseInt(btn.dataset.startIndex);
+
+            // 如果当前是连续播放暂停状态，且是同一个卡片，则继续
+            if (state.mode === 'continuous_paused' && state.continuousBtn === btn) {
+                resumeContinuous(controls);
+                return;
+            }
+
+            // 如果当前是连续播放状态，且是同一个卡片，则暂停
+            if (state.mode === 'continuous' && state.continuousBtn === btn) {
+                pauseContinuous(controls);
+                return;
+            }
+
+            // 其他情况：重置并开始新的连续播放
+            resetAll();
+            startContinuous(startIndex);
+        }
+
+        function handleStopClick(e) {
+            e.stopPropagation();
+            resetAll();
+        }
+
+        // ============================================================
+        //  语速控制
+        // ============================================================
+        elSpeedSelect.addEventListener('change', function() {
+            const speed = parseFloat(this.value) || 1.0;
+            state.currentSpeed = speed;
+            if (state.singleAudio && !state.singleAudio.paused) {
+                state.singleAudio.playbackRate = speed;
+            }
+            if (state.continuousAudio && !state.continuousAudio.paused) {
+                state.continuousAudio.playbackRate = speed;
+            }
+        });
+
+        // ============================================================
+        //  返回按钮绑定
+        // ============================================================
+        document.getElementById('backToGrades').addEventListener('click', () => {
+            resetAll();
+            showPage('grades');
+        });
+
+        document.getElementById('backToUnits').addEventListener('click', () => {
+            resetAll();
+            showPage('units');
+        });
+
+        window.addEventListener('popstate', (e) => {
+            if (!elPages.grades.classList.contains('hidden')) {
+                // 已在年级页，不做操作
+            } else if (!elPages.units.classList.contains('hidden')) {
+                resetAll();
+                showPage('grades');
+            } else if (!elPages.detail.classList.contains('hidden')) {
+                resetAll();
+                showPage('units');
+            }
+        });
+
+        // ============================================================
+        //  启动
+        // ============================================================
+        function init() {
+            elSpeedSelect.value = '1.0';
+            state.currentSpeed = 1.0;
+
+            showPage('grades');
+
+            document.addEventListener('error', (e) => {
+                const target = e.target;
+                if (target.tagName === 'IMG' && target.closest('.cover')) {
+                    target.style.display = 'none';
+                    const cover = target.closest('.cover');
+                    if (cover) {
+                        cover.textContent = '📖';
+                        cover.style.fontSize = '48px';
+                        cover.style.color = '#a0b3c5';
+                        cover.style.background = '#e9eef3';
+                    }
+                }
+            }, true);
+        }
+
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+
+        window.__APP_STATE = state;
+        console.log('英语学习页面已加载，播放/连续播放模式互斥。状态:', state);
+    </script>
+
+</body>
+</html>
