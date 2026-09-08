@@ -1,0 +1,530 @@
+{
+  "title": "Unit 3 Healthy life",
+  "sound": true,
+  "path": "U3",
+  "lessons": [
+    {
+      "title": "Listen and sing",
+      "mp3": "Listenandsing",
+      "list": [
+        {
+          "name": "",
+          "en": "How can we stay healthy?",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "ALetstalk",
+      "list": [
+        {
+          "name": "",
+          "en": "How do we know we are ill?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Mike and Chen Jie are in the playground. Listen and write T (True) or F (False).",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Hello?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Binbin：",
+          "en": "Hi, Mike. It's Binbin. I'm going to the science museum tomorrow. Are you going?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "I'm afraid not, Binbin. I have a bad cold.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Binbin：",
+          "en": "Oh dear! How do you feel?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "I feel ill. My head hurts and I have a runny nose.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Binbin：",
+          "en": "I'm sorry to hear that. Maybe you should see a doctor.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "I know. My mum is going to take me to hospital this afternoon.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Binbin：",
+          "en": "That's good. Take care and get well soon!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Mike：",
+          "en": "Thanks.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's learn",
+      "mp3": "ALetslearn",
+      "list": [
+        {
+          "name": "",
+          "en": "What's the matter?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I have a bad cold. My head hurts and I have a runny nose.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Mike has a bad cold. His head hurts and he has a runny nose.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "He has a fever.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "She has a cough.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "cold, cold",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "runny nose, runny nose",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "fever, fever",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "cough, cough",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Let's talk",
+      "mp3": "BLetstalk",
+      "list": [
+        {
+          "name": "",
+          "en": "How can we stay healthy?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Binbin and Sarah meet in the library. Listen and choose.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Miss White：",
+          "en": "Class, now we're going to discuss health. First, what is health?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Health is having a good body and feeling happy.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Miss White：",
+          "en": "Thank you, Chen Jie. So, how can we live a healthy life?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Sarah：",
+          "en": "We need to eat healthy food. We should exercise too.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Miss White：",
+          "en": "That's right. What do you think, Binbin?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Binbin：",
+          "en": "I think our family and friends are also very important.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Chen Jie：",
+          "en": "Yes, it's always good to talk to our family and friends.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "Miss White：",
+          "en": "Good job, everyone!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    
+    {
+      "title": "Let's learn",
+      "mp3": "BLetslearn",
+      "list": [
+        {
+          "name": "",
+          "en": "Healthy life",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Have a healthy diet.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Don't stay up late.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Exercise often.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Think about happy things.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Join clubs and teams.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Have fun with your friends and family.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "How can we live a healthy life?",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Read and write",
+      "mp3": "BReadandwrite",
+      "list": [
+        {
+          "name": "",
+          "en": "Look at the pictures. How do they feel? Did you feel this way before? Why?",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Liu Jia was crying. So Miss White asked her, \"What's the matter, Liu Jia? You look sad.\" Liu Jia answered, \"I'm feeling down. My good friend Lucy moved to another city.\"",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Miss White listened carefully and told Liu Jia, \"Think about happy things. Call your friend or send her some emails.\"",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "\"I tried that, but I still feel unhappy.\" said Liu Jia.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Miss White gave her a glass of water. \"Maybe you can do some exercise. Exercise may cheer you up.\"",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "\"Join some after-school clubs and make new friends! You can talk and have fun with them.\" added Miss White.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "\"I will try. Thank you, Miss White.\" said Liu Jia.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Dear Miss White,",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "I often make video calls with my friend now. I also joined a ping-pong club and made some new friends. I feel much better. Thank you so much!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Liu Jia",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Project",
+      "mp3": "CProject",
+      "list": [
+        {
+          "name": "",
+          "en": "Make a healthy lifestyle guide",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Why arenʼt these people feeling well? Listen and complete the sentences.",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Reading time",
+      "mp3": "Readingtime",
+      "list": [
+        {
+          "name": "",
+          "en": "My name is Right Hand. This is my twin brother, Left Hand.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "One day, our master didn't wash us and ate his food. He felt ill the next day. Now he washes us before every meal.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "On another day, our master had a bad cold. He had a runny nose and a cough. We wiped his nose and covered his mouth with a tissue. We're important for his health.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Happiness is important for good health. One day, our master felt unhappy, so we helped him make handicrafts (手工艺品). He felt happy again.",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "Our master also cooked food for his family. They thanked him and told him, \"You have really great hands!\"",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "We're important for our master and his friends. He uses us to give them a high five!",
+          "mp3": "",
+          "cn": ""
+        },
+        {
+          "name": "",
+          "en": "We really are helping hands!",
+          "mp3": "",
+          "cn": ""
+        }
+      ]
+    },
+    {
+      "title": "Words in each unit",
+      "mp3": "Wordsineachunit",
+      "list": [
+        {
+          "name": "",
+          "en": "*cold /kəʊld/",
+          "mp3": "",
+          "cn": "感冒"
+        },
+        {
+          "name": "",
+          "en": "*ill /ɪl/",
+          "mp3": "",
+          "cn": "不舒服；生病的"
+        },
+        {
+          "name": "",
+          "en": "*head /hed/",
+          "mp3": "",
+          "cn": "头；头部"
+        },
+        {
+          "name": "",
+          "en": "runny /ˈrʌni/ nose",
+          "mp3": "",
+          "cn": "流鼻涕"
+        },
+        {
+          "name": "",
+          "en": "soon /suːn/",
+          "mp3": "",
+          "cn": "很快；马上"
+        },
+        {
+          "name": "",
+          "en": "fever /ˈfiːvə(r)/",
+          "mp3": "",
+          "cn": "发烧；发热"
+        },
+        {
+          "name": "",
+          "en": "cough /kɒf/",
+          "mp3": "",
+          "cn": "咳嗽"
+        },
+        {
+          "name": "",
+          "en": "discuss /dɪˈskʌs/",
+          "mp3": "",
+          "cn": "讨论；商量"
+        },
+        {
+          "name": "",
+          "en": "diet /ˈdaɪət/",
+          "mp3": "",
+          "cn": "日常饮食"
+        },
+        {
+          "name": "",
+          "en": "stay up",
+          "mp3": "",
+          "cn": "熬夜"
+        },
+        {
+          "name": "",
+          "en": "*cry /kraɪ/",
+          "mp3": "",
+          "cn": "哭；哭泣"
+        },
+        {
+          "name": "",
+          "en": "another /əˈnʌðə(r)/",
+          "mp3": "",
+          "cn": "另一；不同的（人或事物）"
+        },
+        {
+          "name": "",
+          "en": "*call /kɔːl/",
+          "mp3": "",
+          "cn": "（给......）打电话"
+        },
+        {
+          "name": "",
+          "en": "*email /ˈiːmeɪl/",
+          "mp3": "",
+          "cn": "电子邮件"
+        },
+        {
+          "name": "",
+          "en": "unhappy /ʌnˈhæpi/",
+          "mp3": "",
+          "cn": "不快乐的；难过的"
+        },
+        {
+          "name": "",
+          "en": "*glass /ɡlɑːs/",
+          "mp3": "",
+          "cn": "一杯（的量）；玻璃"
+        },
+        {
+          "name": "",
+          "en": "*may /meɪ/",
+          "mp3": "",
+          "cn": "也许；可能"
+        },
+        {
+          "name": "",
+          "en": "add /æd/",
+          "mp3": "",
+          "cn": "补充说；增加"
+        },
+        {
+          "name": "",
+          "en": "video /ˈvɪdiəʊ/",
+          "mp3": "",
+          "cn": "视频；录像"
+        },
+        {
+          "name": "",
+          "en": "better /ˈbetə(r)/",
+          "mp3": "",
+          "cn": "舒畅些的；（病势）好转的"
+        }
+      ]
+    }
+  ]
+}
